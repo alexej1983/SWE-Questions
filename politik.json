@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "Hur många ledamöter har Sveriges riksdag?",
+    "options": ["299", "329", "349", "389"],
+    "correctIndex": 2,
+    "explanation": "Riksdagen har 349 ledamöter som väljs vart fjärde år i allmänna val. Antalet fastslogs i 1974 års regeringsform."
+  },
+  {
+    "id": 2,
+    "question": "Vilket år fick svenska kvinnor rösträtt?",
+    "options": ["1906", "1914", "1921", "1928"],
+    "correctIndex": 2,
+    "explanation": "Svensk kvinnlig rösträtt i riksdagsval trädde i kraft 1921. Sverige var relativt sent jämfört med t.ex. Finland (1906) och Norge (1913)."
+  },
+  {
+    "id": 3,
+    "question": "Vilket år gick Sverige med i Europeiska unionen (EU)?",
+    "options": ["1993", "1995", "1997", "2001"],
+    "correctIndex": 1,
+    "explanation": "Sverige gick med i EU den 1 januari 1995 efter att en folkomröstning i november 1994 gav ett ja-resultat med 52,3 procent."
+  },
+  {
+    "id": 4,
+    "question": "Vad kallas den svenska principen om allmänhetens rätt att ta del av offentliga handlingar?",
+    "options": ["Yttrandefriheten", "Offentlighetsprincipen", "Informationsfriheten", "Transparensprincipen"],
+    "correctIndex": 1,
+    "explanation": "Offentlighetsprincipen, som regleras i tryckfrihetsförordningen (1766), ger var och en rätt att ta del av allmänna handlingar hos myndigheter. Sverige var det första landet i världen med en sådan lag."
+  },
+  {
+    "id": 5,
+    "question": "Vilken statsminister mördades på Sveavägen i Stockholm den 28 februari 1986?",
+    "options": ["Tage Erlander", "Ingvar Carlsson", "Olof Palme", "Carl Bildt"],
+    "correctIndex": 2,
+    "explanation": "Olof Palme sköts till döds den 28 februari 1986 efter en biovisning. Mordet är en av de mest omskrivna brottmålsutredningarna i svensk historia och förblev länge officiellt olöst."
+  },
+  {
+    "id": 6,
+    "question": "Hur utses Sveriges statsminister?",
+    "options": ["Genom direktval av folket", "Av kungen", "Av riksdagen via talmannen", "Av statsråden gemensamt"],
+    "correctIndex": 2,
+    "explanation": "Talmannen föreslår en statsministerkandidat som riksdagen sedan röstar om. Om inte fler än hälften av ledamöterna röstar nej, godkänns kandidaten."
+  },
+  {
+    "id": 7,
+    "question": "Vilket år antog Sverige sin nuvarande grundlag, regeringsformen?",
+    "options": ["1809", "1917", "1974", "1995"],
+    "correctIndex": 2,
+    "explanation": "Den nuvarande regeringsformen trädde i kraft 1974 och ersatte 1809 års regeringsform. Den slår bl.a. fast att all offentlig makt utgår från folket."
+  },
+  {
+    "id": 8,
+    "question": "Vilket politiskt parti är det äldsta i Sverige?",
+    "options": ["Moderaterna", "Centerpartiet", "Socialdemokraterna", "Liberalerna"],
+    "correctIndex": 2,
+    "explanation": "Sveriges socialdemokratiska arbetareparti (SAP), grundat 1889, är det äldsta av de nuvarande riksdagspartierna och har styrt Sverige under större delen av 1900-talet."
+  },
+  {
+    "id": 9,
+    "question": "Vilket år ansökte Sverige om NATO-medlemskap?",
+    "options": ["2021", "2022", "2023", "2024"],
+    "correctIndex": 1,
+    "explanation": "Sverige lämnade in sin NATO-ansökan i maj 2022, efter Rysslands invasion av Ukraina, och bröt därmed med sin långvariga militära alliansfrihet. Medlemskapet godkändes formellt i mars 2024."
+  },
+  {
+    "id": 10,
+    "question": "Vad kallas det svenska systemet med kollektivavtal mellan arbetsgivare och fackföreningar?",
+    "options": ["Saltsjöbadsandan", "Den svenska modellen", "Arbetsfreden", "Korporatism"],
+    "correctIndex": 1,
+    "explanation": "Den svenska modellen syftar på det samarbete mellan arbetsgivare, fackföreningar och stat som präglade Sverige under stora delar av 1900-talet, med Saltsjöbadsavtalet 1938 som grund."
+  },
+  {
+    "id": 11,
+    "question": "Hur många grundlagar har Sverige?",
+    "options": ["1", "2", "4", "6"],
+    "correctIndex": 2,
+    "explanation": "Sverige har fyra grundlagar: regeringsformen, successionsordningen, tryckfrihetsförordningen och yttrandefrihetsgrundlagen. Dessa är svårare att ändra än vanliga lagar."
+  }
+]

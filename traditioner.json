@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "Vad firar man egentligen på midsommar i Sverige?",
+    "options": ["Karl den stores födelsedag", "Sommarsolståndet", "Olof den heliges minnesdag", "Lövsprickningen"],
+    "correctIndex": 1,
+    "explanation": "Midsommar firas kring sommarsolståndet, den längsta dagen på året. Midsommarafton infaller alltid en fredag mellan 19 och 25 juni."
+  },
+  {
+    "id": 2,
+    "question": "Vilken sång sjunger man traditionellt runt midsommarstången?",
+    "options": ["Helan går", "Trollmors vaggsång", "Små grodorna", "Du gamla, du fria"],
+    "correctIndex": 2,
+    "explanation": "Små grodorna (eller Små grodors) sjungs medan man hoppar som grodor runt midsommarstången. Melodin liknar den franska barnlåten 'Ainsi font les petites marionnettes'."
+  },
+  {
+    "id": 3,
+    "question": "Vilket datum firas Lucia i Sverige varje år?",
+    "options": ["10 december", "13 december", "21 december", "24 december"],
+    "correctIndex": 1,
+    "explanation": "Lucia firas den 13 december till minne av den sicilianska martyren Sankta Lucia. I Sverige är det en tradition med ljuståg, lussebullar och luciatåg i skolor och kyrkor."
+  },
+  {
+    "id": 4,
+    "question": "Vilket datum firas Sveriges nationaldag?",
+    "options": ["1 maj", "6 juni", "17 juni", "4 november"],
+    "correctIndex": 1,
+    "explanation": "Sveriges nationaldag firas den 6 juni, till minne av Gustav Vasas kröning år 1523 och antagandet av 1809 års regeringsform. Dagen blev officiell röd dag år 2005."
+  },
+  {
+    "id": 5,
+    "question": "Vad kallas traditionen när barn klär ut sig till 'påskkärringar' i Sverige?",
+    "options": ["Fastelavn", "Påskvandring", "Påskklädsel", "Påskgubbar"],
+    "correctIndex": 2,
+    "explanation": "På påskafton klär sig svenska barn ut till påskkärringar – med kjol, schalett och röda kinder – och knackar dörr för att byta teckningar mot godis."
+  },
+  {
+    "id": 6,
+    "question": "Vad är 'kräftskiva'?",
+    "options": ["En dans under midsommar", "En middag där man äter kräftor och sjunger snapsvisor", "En folklig teaterform", "En typ av bröllopsfest"],
+    "correctIndex": 1,
+    "explanation": "Kräftskivan är en sommarfest i slutet av juli och i hela augusti, där man äter kräftor med dill, dricker snaps och sjunger snapsvisor under lyktor med månmotiv."
+  },
+  {
+    "id": 7,
+    "question": "Hur många adventsljus tänd man traditionellt under adventsperioden?",
+    "options": ["Två", "Tre", "Fyra", "Sju"],
+    "correctIndex": 2,
+    "explanation": "Under advent tänds ett ljus i stearinljusstaken per söndag, så att alla fyra ljusen brinner på fjärde advent, strax innan julafton."
+  },
+  {
+    "id": 8,
+    "question": "Vad kallas den svenska söndagstradition där man badar bastu och sedan äter middag med familjen?",
+    "options": ["Söndagsmys", "Fredagsmys", "Lördagsmys", "Söndagsfika"],
+    "correctIndex": 1,
+    "explanation": "Fredagsmys är en modern svensk tradition där familjen samlas för att koppla av med chips, dipp och TV på fredagskvällen. Begreppet myntades av OLW på 1990-talet."
+  },
+  {
+    "id": 9,
+    "question": "Vilken maträtt äter man traditionellt på julafton i Sverige?",
+    "options": ["Sill och potatis", "Revbensspjäll", "Julbord med diverse rätter", "Risgrynsgröt"],
+    "correctIndex": 2,
+    "explanation": "Det svenska julbordet är en buffé med klassiker som julskinka, köttbullar, prinskorv, Janssons frestelse, sill och risgrynsgröt. Julafton den 24 december är den stora festhögtiden."
+  },
+  {
+    "id": 10,
+    "question": "Vad kallas den ljusstake med sju armar som ofta syns i svenska fönster under advent?",
+    "options": ["Menora", "Adventsstjärna", "Julbelysning", "Sjuarmad ljusstake"],
+    "correctIndex": 3,
+    "explanation": "Den sjuarmade ljusstaken (elektrisk eller med stearin) är ett vanligt inslag i svenska fönster under advent och jul. Formen är inspirerad av den judiska menorahformen men saknar religiös judisk koppling i svensk tradition."
+  },
+  {
+    "id": 11,
+    "question": "På vilken högtid bär man traditionellt björkris med fjädrar i fönstren?",
+    "options": ["Midsommar", "Påsk", "Valborg", "Lucia"],
+    "correctIndex": 1,
+    "explanation": "Till påsk pyntar man traditionellt med fjädrar, gula kycklingar och björkris i vaser. Påskdekorationen välkomnar våren och har rötter i både kristna och förkristna traditioner."
+  }
+]

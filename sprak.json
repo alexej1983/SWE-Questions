@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "Hur många vokalbokstäver finns det i det svenska alfabetet?",
+    "options": ["5", "7", "9", "11"],
+    "correctIndex": 2,
+    "explanation": "Det svenska alfabetet har 9 vokalbokstäver: a, e, i, o, u, y, å, ä och ö. De tre sista är unika för de nordiska språken."
+  },
+  {
+    "id": 2,
+    "question": "Vilket år fick Sverige en officiell språklag som förklarar svenska som huvudspråk?",
+    "options": ["1999", "2005", "2009", "2015"],
+    "correctIndex": 2,
+    "explanation": "Språklagen antogs av riksdagen 2009 och fastslår att svenska är huvudspråk i Sverige. Lagen erkänner också de nationella minoritetsspråken."
+  },
+  {
+    "id": 3,
+    "question": "Hur många officiella nationella minoritetsspråk har Sverige?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "Sverige har fem erkända nationella minoritetsspråk: samiska, meänkieli (tornedalsfinska), romani, jiddisch och finska."
+  },
+  {
+    "id": 4,
+    "question": "Vad brukar det svenska ordet 'lagom' ungefär betyda?",
+    "options": ["Ganska bra", "Inte för mycket och inte för lite", "Precis rätt mängd vid rätt tillfälle", "Tillräckligt för ändamålet"],
+    "correctIndex": 1,
+    "explanation": "'Lagom' är ett centralt begrepp i svensk kultur och saknar exakt översättning till många språk. Det uttrycker balans och måttfullhet och anses spegla en viktig svensk värdering."
+  },
+  {
+    "id": 5,
+    "question": "Vad kallas de svenska dialekter som talas i Finland?",
+    "options": ["Rikssvenska", "Sverigesvenska", "Finlandssvenska", "Östsvenska"],
+    "correctIndex": 2,
+    "explanation": "Finlandssvenska är de varieteter av svenska som talas av den svenska minoriteten i Finland. Finlandssvenska skiljer sig från rikssvenska i uttal, ordval och grammatik."
+  },
+  {
+    "id": 6,
+    "question": "Vad kallas den äldsta formen av skriftlig svenska?",
+    "options": ["Fornnordiska", "Fornsvenska", "Gutniska", "Runsvenska"],
+    "correctIndex": 1,
+    "explanation": "Fornsvenska talades och skrevs ungefär mellan 1100 och 1526. Före dess använde man runor för att skriva nordiska språk."
+  },
+  {
+    "id": 7,
+    "question": "Vad heter den institution som vårdar och dokumenterar det svenska språket?",
+    "options": ["Svenska Akademien", "Rikstermbanken", "Språkrådet", "Nordiska rådet"],
+    "correctIndex": 2,
+    "explanation": "Språkrådet är den officiella institutionen som ger råd om det svenska språket och utger bl.a. Svenska skrivregler och Svenska Akademiens ordlista (SAOL) i samarbete med SA."
+  },
+  {
+    "id": 8,
+    "question": "Vad heter den institution som utdelar Nobelpriset i litteratur?",
+    "options": ["Kungliga Vitterhetsakademien", "Svenska Akademien", "Kungl. Musikakademien", "Riksteatern"],
+    "correctIndex": 1,
+    "explanation": "Svenska Akademien, grundad 1786 av Gustav III, utdelar Nobelpriset i litteratur varje år i oktober. Akademien har 18 ledamöter, kallade 'de aderton'."
+  },
+  {
+    "id": 9,
+    "question": "Vad betyder det svenska idiomatiska uttrycket 'Det är ingen ko på isen'?",
+    "options": ["Situationen är farlig", "Det finns ingen anledning till oro", "Allt är kaotiskt", "Någon beter sig konstigt"],
+    "correctIndex": 1,
+    "explanation": "'Det är ingen ko på isen' (ibland '...så länge rumpan är i land') betyder att det inte är något att oroa sig för. Det syftar på att en ko som glidit ut på isen var ett allvarligt problem förr i tiden."
+  },
+  {
+    "id": 10,
+    "question": "Vilket språk är svenska närmast besläktat med?",
+    "options": ["Isländska", "Finska", "Danska och norska", "Tyska"],
+    "correctIndex": 2,
+    "explanation": "Svenska är närmast besläktat med danska och norska – alla tre tillhör de nordgermanska språken. Talare av dessa tre språk kan ofta förstå varandra, om än med viss ansträngning."
+  },
+  {
+    "id": 11,
+    "question": "Vilket begrepp används för de tre bokstäverna Å, Ä och Ö i det svenska alfabetet?",
+    "options": ["Digrafer", "Ligaturer", "Specialvokaler", "Tungomål"],
+    "correctIndex": 2,
+    "explanation": "Å, Ä och Ö kallas ibland 'specialvokaler' eller 'svenska vokaler'. De är separata bokstäver som kommer sist i alfabetet och är avgörande för förståelsen av svenska ord."
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "Vilket är den mest traditionella rätten på det svenska julbordet?",
+    "options": ["Lutfisk", "Julskinka", "Kålsoppa", "Köttbullar"],
+    "correctIndex": 1,
+    "explanation": "Julskinka är julbordets mittpunkt i Sverige och tillagas oftast genom saltning och kokning, ibland med en senapsgratinerad yta."
+  },
+  {
+    "id": 2,
+    "question": "Vilket ursprungsland pekades ut som köttbullarnas hemland av det svenska kungliga hovet i ett omtalat inlägg 2018?",
+    "options": ["Sverige", "Polen", "Turkiet", "Ungern"],
+    "correctIndex": 2,
+    "explanation": "Utrikesdepartementet twittrade 2018 att köttbullarna ursprungligen kom från Turkiet, en receptinspiration som Karl XII ska ha tagit med sig hem från sitt exil i Bender."
+  },
+  {
+    "id": 3,
+    "question": "Vad kallas det traditionella svenska syrliga brödet som bakas hårt och sprött?",
+    "options": ["Tunnbröd", "Knäckebröd", "Rågbröd", "Limpa"],
+    "correctIndex": 1,
+    "explanation": "Knäckebröd är ett hårt och sprött bröd av rågmjöl med lång hållbarhet. Det har bakats i Sverige i hundratals år och är en stapelvara i svenska hushåll."
+  },
+  {
+    "id": 4,
+    "question": "Vilken gul bulle med saffran äts traditionellt på Luciadagen den 13 december?",
+    "options": ["Semla", "Lussebulle", "Mazarin", "Kanelbulle"],
+    "correctIndex": 1,
+    "explanation": "Lussebullen (eller lussekatten) är en safransbulle med russin formad som ett S. Den bakas och äts traditionallt inför och på Luciadagen."
+  },
+  {
+    "id": 5,
+    "question": "Vilken typ av fisk är 'surströmming'?",
+    "options": ["Torsk", "Sill", "Strömming", "Abborre"],
+    "correctIndex": 2,
+    "explanation": "Surströmming är fermenterad östersjöströmming, en typ av liten sill. Den tillverkas främst i norra Sverige och har en kraftig, genomträngande doft."
+  },
+  {
+    "id": 6,
+    "question": "Vad är 'smörgåsbord' i sin ursprungliga svenska form?",
+    "options": ["En varm enkel middag", "En bufféform med kalla och varma rätter", "En sorts smörgås med flera pålägg", "En festmiddag med tre rätter"],
+    "correctIndex": 1,
+    "explanation": "Smörgåsbordet är en svensk mattradition med ett stort urval kalla och varma rätter som gästerna själva tar av. Konceptet spreds internationellt under 1900-talet."
+  },
+  {
+    "id": 7,
+    "question": "Vilket bär används i den norrländska delikatessen 'hjortronsylt'?",
+    "options": ["Tranbär", "Lingon", "Hjortron", "Åkerbär"],
+    "correctIndex": 2,
+    "explanation": "Hjortronet är ett guldfärgat bär som växer på myrar i norra Sverige och Norge. Det kallas ibland 'nordens guld' och används i sylt, glass och bakverk."
+  },
+  {
+    "id": 8,
+    "question": "Vilken bulle är knuten till Fettisdagen (dagen före askonsdagen)?",
+    "options": ["Lussebulle", "Kanelbulle", "Semla", "Wienerbröd"],
+    "correctIndex": 2,
+    "explanation": "Semlan äts traditionellt på Fettisdagen men numera säljs den i svenska konditorier från januari till påsk. Den består av ett vetemjölsbröd fyllt med mandelmassa och vispgrädde."
+  },
+  {
+    "id": 9,
+    "question": "Vilket av dessa är ett typiskt tillbehör till svenska köttbullar?",
+    "options": ["Tzatziki", "Lingonsylt", "Tomatpuré", "Currysås"],
+    "correctIndex": 1,
+    "explanation": "Lingonsylt serveras traditionellt till köttbullar, tillsammans med potatismos och brunsås. Lingon är ett vanligt bär i svenska skogar."
+  },
+  {
+    "id": 10,
+    "question": "Vad är 'Janssons frestelse'?",
+    "options": ["En varm potatisrätt med ansjovis och grädde", "En äppelpaj med vaniljsås", "En sillrätt med senap och dill", "En torskgratäng med ost"],
+    "correctIndex": 0,
+    "explanation": "Janssons frestelse är en klassisk svensk ugnsrätt gjord på strimlad potatis, lök, ansjovis (svenska Abba-ansjovis) och grädde. Den serveras ofta på julbordet."
+  },
+  {
+    "id": 11,
+    "question": "Vad kallas den traditionella svenska sommardrinken gjord på fläderblomsor?",
+    "options": ["Hallondricka", "Saft på björk", "Fläderblomssaft", "Rabarberglögg"],
+    "correctIndex": 2,
+    "explanation": "Fläderblomssaft är en somrig dryck gjord på blommor från fläderträdet. Den dricks ofta vid midsommar och är omtyckt bland barn och vuxna."
+  }
+]

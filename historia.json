@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "Under vilket år blev Sverige ett enat kungadöme under kung Olof Skötkonung?",
+    "options": ["970 e.Kr.", "995 e.Kr.", "1008 e.Kr.", "1050 e.Kr."],
+    "correctIndex": 1,
+    "explanation": "Olof Skötkonung blev kung omkring år 995 e.Kr. och anses vara den förste kungen av ett enat Sverige."
+  },
+  {
+    "id": 2,
+    "question": "Vilken svensk kung ledde det svenska riket under slaget vid Poltava år 1709?",
+    "options": ["Gustav II Adolf", "Karl XI", "Karl XII", "Fredrik I"],
+    "correctIndex": 2,
+    "explanation": "Karl XII ledde Sverige vid slaget vid Poltava, där Sverige led ett avgörande nederlag mot Ryssland, vilket markerade slutet på stormaktstiden."
+  },
+  {
+    "id": 3,
+    "question": "Vad hette det svenska krigsfartyget som sjönk på sin jungfrufärd år 1628?",
+    "options": ["Kronan", "Vasa", "Mars", "Elefanten"],
+    "correctIndex": 1,
+    "explanation": "Vasa sjönk den 10 augusti 1628, bara minuter in på sin jungfrufärd. Vraket bärgades 1961 och ställs nu ut på Vasamuseet i Stockholm."
+  },
+  {
+    "id": 4,
+    "question": "Under vilket år deltog Sverige senast i ett krig?",
+    "options": ["1809", "1814", "1848", "1905"],
+    "correctIndex": 1,
+    "explanation": "Det senaste kriget Sverige deltog i var det svensk-norska kriget 1814, varefter Sverige antog en neutralitetspolitik."
+  },
+  {
+    "id": 5,
+    "question": "Vem var den svenske rikskansler som dominerade svensk politik och utrikespolitik i början av 1600-talet?",
+    "options": ["Axel Oxenstierna", "Per Brahe", "Magnus Stenbock", "Johan Gyllenstierna"],
+    "correctIndex": 0,
+    "explanation": "Axel Oxenstierna tjänstgjorde som rikskansler och var en av de mäktigaste statsmännen i svensk historia. Han styrde riket under drottning Kristinas regeringstid."
+  },
+  {
+    "id": 6,
+    "question": "Vilken svensk drottning abdikerade år 1654 och konverterade senare till katolicismen?",
+    "options": ["Ulrika Eleonora", "Kristina", "Hedvig Eleonora", "Lovisa Ulrika"],
+    "correctIndex": 1,
+    "explanation": "Drottning Kristina abdikerade 1654 till förmån för sin kusin Karl X Gustav och konverterade senare till romersk katolicismen, varefter hon bosatte sig i Rom."
+  },
+  {
+    "id": 7,
+    "question": "Vad kallas perioden av svensk dominans i Nordeuropa under 1600-talet?",
+    "options": ["Frihetstiden", "Karolinska eran", "Det svenska imperiet", "Stormaktstiden"],
+    "correctIndex": 3,
+    "explanation": "Stormaktstiden syftar på den era då Sverige var en av Europas stormakter, ungefär från 1611 till 1721."
+  },
+  {
+    "id": 8,
+    "question": "Under vilket år antog Sverige sin första skrivna grundlag?",
+    "options": ["1772", "1809", "1866", "1974"],
+    "correctIndex": 1,
+    "explanation": "Sverige antog sin regeringsform år 1809 efter en statskupp mot kung Gustav IV Adolf."
+  },
+  {
+    "id": 9,
+    "question": "Vilket fördrag avslutade Trettioåriga kriget och bekräftade Sverige som en europeisk stormakt?",
+    "options": ["Westfaliska freden", "Freden i Nystad", "Freden i Roskilde", "Augsburgsfreden"],
+    "correctIndex": 0,
+    "explanation": "Westfaliska freden 1648 avslutade Trettioåriga kriget. Sverige erhöll territorier i Det heliga romerska riket och erkändes som en stormakt."
+  },
+  {
+    "id": 10,
+    "question": "Vem uppfann dynamiten och instiftade Nobelpriset?",
+    "options": ["Anders Celsius", "Carl von Linné", "Alfred Nobel", "Svante Arrhenius"],
+    "correctIndex": 2,
+    "explanation": "Alfred Nobel, född i Stockholm 1833, uppfann dynamiten år 1867. I sitt testamente instiftade han Nobelpriserna, som delades ut för första gången 1901."
+  },
+  {
+    "id": 11,
+    "question": "Vilken svensk kung besegrade danskarna vid slaget vid Lund år 1676?",
+    "options": ["Karl X Gustav", "Karl XI", "Karl XII", "Gustav III"],
+    "correctIndex": 1,
+    "explanation": "Karl XI vann slaget vid Lund den 4 december 1676 – ett av de blodigaste slagen i Skandinaviens historia – och befäste därmed den svenska makten i Skåne."
+  },
+  {
+    "id": 12,
+    "question": "Vad kallas den period av parlamentariskt styre i Sverige som varade från 1718 till 1772?",
+    "options": ["Frihetstiden", "Den gustavianska eran", "Upplysningsåldern", "Reformperioden"],
+    "correctIndex": 0,
+    "explanation": "Frihetstiden var en period då Sverige styrdes av riksdagen snarare än en stark monark, och varade från 1718 till 1772."
+  },
+  {
+    "id": 13,
+    "question": "Gustav II Adolf (Gustaf Adolf) stupade i vilket slag år 1632?",
+    "options": ["Slaget vid Breitenfeld", "Slaget vid Lützen", "Slaget vid Vita berget", "Slaget vid Nördlingen"],
+    "correctIndex": 1,
+    "explanation": "Gustav II Adolf stupade i slaget vid Lützen den 16 november 1632 under Trettioåriga kriget."
+  },
+  {
+    "id": 14,
+    "question": "Vilken svensk naturvetare utvecklade det moderna systemet för biologisk klassificering?",
+    "options": ["Anders Celsius", "Carl von Linné", "Olof Rudbeck", "Nils Rosén von Rosenstein"],
+    "correctIndex": 1,
+    "explanation": "Carl von Linné (1707–1778) utvecklade det binära nomenklatursystemet som fortfarande används för att klassificera alla levande organismer."
+  },
+  {
+    "id": 15,
+    "question": "Under vilket århundrade grundades Stockholm?",
+    "options": ["1000-talet", "1100-talet", "1200-talet", "1300-talet"],
+    "correctIndex": 2,
+    "explanation": "Stockholm grundades under 1200-talet, med det traditionella grundläggningsåret 1252 av Birger jarl, även om det officiella namnet dröjde något."
+  }
+]

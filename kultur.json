@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "question": "Vem skapade barnbokskaraktären Pippi Långstrump?",
+    "options": ["Selma Lagerlöf", "Elsa Beskow", "Astrid Lindgren", "Maria Gripe"],
+    "correctIndex": 2,
+    "explanation": "Astrid Lindgren (1907–2002) skapade Pippi Långstrump och publicerade den första boken 1945. Hon är en av världens mest översatta barnboksförfattare."
+  },
+  {
+    "id": 2,
+    "question": "Vilket år vann ABBA Eurovision Song Contest med låten 'Waterloo'?",
+    "options": ["1972", "1974", "1976", "1978"],
+    "correctIndex": 1,
+    "explanation": "ABBA vann Eurovision Song Contest 1974 i Brighton med 'Waterloo'. Segern sköt bandet till internationell superstardom."
+  },
+  {
+    "id": 3,
+    "question": "Vilken svensk regissör skapade filmerna 'Det sjunde inseglet' och 'Smultronstället'?",
+    "options": ["Roy Andersson", "Lukas Moodysson", "Jan Troell", "Ingmar Bergman"],
+    "correctIndex": 3,
+    "explanation": "Ingmar Bergman (1918–2007) är en av filmhistoriens mest hyllade regissörer. Hans filmer utforskar existentiella och andliga teman med enastående bildspråk."
+  },
+  {
+    "id": 4,
+    "question": "Vem skrev romanen 'Röda rummet' (1879), betraktad som den moderna svenska romanens genombrott?",
+    "options": ["Viktor Rydberg", "August Strindberg", "Verner von Heidenstam", "Gustaf af Geijerstam"],
+    "correctIndex": 1,
+    "explanation": "August Strindberg (1849–1912) skrev 'Röda rummet', en samhällskritisk roman som brukar räknas som den moderna svenska romanens genombrott."
+  },
+  {
+    "id": 5,
+    "question": "Vilken svensk artist vann Eurovision Song Contest 2015 med låten 'Heroes'?",
+    "options": ["Robin Stjernberg", "Eric Saade", "Loreen", "Måns Zelmerlöw"],
+    "correctIndex": 3,
+    "explanation": "Måns Zelmerlöw vann Eurovision 2015 i Wien med 'Heroes'. Loreen vann 2012 med 'Euphoria' och sedan igen 2023 med 'Tattoo'."
+  },
+  {
+    "id": 6,
+    "question": "Vilket museum i Stockholm är känt för att hysa det bärgade krigsfartyget Vasa?",
+    "options": ["Historiska museet", "Nordiska museet", "Vasamuseet", "Sjöhistoriska museet"],
+    "correctIndex": 2,
+    "explanation": "Vasamuseet på Djurgården i Stockholm invigdes 1990 och visar upp Vasa, det välbevarade krigsfartyget från 1628."
+  },
+  {
+    "id": 7,
+    "question": "Vilken svensk author fick Nobelpriset i litteratur år 1909?",
+    "options": ["Verner von Heidenstam", "August Strindberg", "Selma Lagerlöf", "Hjalmar Söderberg"],
+    "correctIndex": 2,
+    "explanation": "Selma Lagerlöf fick Nobelpriset i litteratur 1909 – den första kvinna som fick priset. Hon är känd för bl.a. 'Gösta Berlings saga' och 'Nils Holgerssons underbara resa'."
+  },
+  {
+    "id": 8,
+    "question": "Vilket år grundades Kungliga Operan i Stockholm?",
+    "options": ["1733", "1773", "1810", "1862"],
+    "correctIndex": 1,
+    "explanation": "Kungliga Operan grundades 1773 under Gustav III:s tid. Den nuvarande byggnaden på Gustav Adolfs torg invigdes 1898."
+  },
+  {
+    "id": 9,
+    "question": "Vem målade det omstridda monumentalmålninget 'Midvinterblot' (1915)?",
+    "options": ["Anders Zorn", "Bruno Liljefors", "Carl Larsson", "Ernst Josephson"],
+    "correctIndex": 2,
+    "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor fresk avsedd för Nationalmuseum. Tavlan avvisades och såldes till Japan, men återbördades 1987."
+  },
+  {
+    "id": 10,
+    "question": "Vem skapade Millennium-trilogin med karaktärerna Lisbeth Salander och Mikael Blomkvist?",
+    "options": ["Henning Mankell", "Stieg Larsson", "Jo Nesbø", "Camilla Läckberg"],
+    "correctIndex": 1,
+    "explanation": "Stieg Larsson (1954–2004) skapade Millennium-trilogin. Han avled tyvärr innan böckerna publicerades. Trilogin såldes i över 100 miljoner exemplar världen över."
+  },
+  {
+    "id": 11,
+    "question": "Vilket av dessa musikband kommer från Sverige?",
+    "options": ["Roxette", "a-ha", "Ace of Base", "Aqua"],
+    "correctIndex": 0,
+    "explanation": "Roxette är ett svenskt poprock-duo bestående av Marie Fredriksson och Per Gessle. De hade världsframgångar med låtar som 'The Look' och 'It Must Have Been Love'."
+  }
+]

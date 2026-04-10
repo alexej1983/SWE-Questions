@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "Vilket är Sveriges högsta berg?",
+    "options": ["Sarektjåkkå", "Kebnekaise", "Akka", "Sylarna"],
+    "correctIndex": 1,
+    "explanation": "Kebnekaise i Lappland är Sveriges högsta berg med en sydtopp på ungefär 2 096 meter över havet."
+  },
+  {
+    "id": 2,
+    "question": "Vilket är Sveriges till ytan största sjö?",
+    "options": ["Vättern", "Mälaren", "Vänern", "Hjälmaren"],
+    "correctIndex": 2,
+    "explanation": "Vänern är Sveriges och Nordeuropas största sjö med en yta på cirka 5 650 km²."
+  },
+  {
+    "id": 3,
+    "question": "Vilket är Sveriges till ytan största landskap?",
+    "options": ["Dalarna", "Norrbotten", "Lappland", "Norrland"],
+    "correctIndex": 2,
+    "explanation": "Lappland är Sveriges till ytan största landskap och täcker ungefär 109 000 km², vilket är nästan en fjärdedel av hela landet."
+  },
+  {
+    "id": 4,
+    "question": "Vad kallas Sveriges sydligaste punkt?",
+    "options": ["Falsterbo", "Smygehuk", "Treriksröset", "Haparanda"],
+    "correctIndex": 1,
+    "explanation": "Smygehuk i Skåne är Sveriges sydligaste fastlandspunkt, belägen vid Östersjökusten."
+  },
+  {
+    "id": 5,
+    "question": "Vilket hav ligger väster om Sverige?",
+    "options": ["Östersjön", "Nordsjön", "Barentshavet", "Ishavet"],
+    "correctIndex": 1,
+    "explanation": "Nordsjön (via Skagerrak och Kattegatt) ligger väster om Sverige och avgränsar landet från Danmark och Norge."
+  },
+  {
+    "id": 6,
+    "question": "I vilket landskap ligger universitets­staden Uppsala?",
+    "options": ["Södermanland", "Västmanland", "Uppland", "Gästrikland"],
+    "correctIndex": 2,
+    "explanation": "Uppsala ligger i Uppland, norr om Stockholm. Uppsala universitet, grundat 1477, är Nordens äldsta universitet."
+  },
+  {
+    "id": 7,
+    "question": "Vilket landskap är känt för 'Glasriket' med sina många glasbruk?",
+    "options": ["Blekinge", "Halland", "Småland", "Östergötland"],
+    "correctIndex": 2,
+    "explanation": "Glasriket ligger i Småland och innefattar ett 15-tal glasbruk, bland annat Kosta, Boda och Orrefors."
+  },
+  {
+    "id": 8,
+    "question": "Hur många kommuner finns det i Sverige?",
+    "options": ["210", "250", "290", "340"],
+    "correctIndex": 2,
+    "explanation": "Sverige är indelat i 290 kommuner, som ansvarar för skola, äldreomsorg och lokal samhällsservice."
+  },
+  {
+    "id": 9,
+    "question": "Vilken stad kallas ibland 'Nordens Venedig' på grund av sina kanaler och broar?",
+    "options": ["Göteborg", "Karlskrona", "Stockholm", "Malmö"],
+    "correctIndex": 2,
+    "explanation": "Stockholm är byggt på 14 öar i Mälaren och Östersjön, vilket gett det smeknamnet 'Nordens Venedig'."
+  },
+  {
+    "id": 10,
+    "question": "Vilket är Sveriges näst folkrikaste stad?",
+    "options": ["Malmö", "Uppsala", "Göteborg", "Linköping"],
+    "correctIndex": 2,
+    "explanation": "Göteborg är Sveriges näst folkrikaste stad med drygt 590 000 invånare i kommunen. Staden är känd för sin hamn, Liseberg och Volvo."
+  },
+  {
+    "id": 11,
+    "question": "Var möts Sverige, Norge och Finland vid en gemensam gränspunkt?",
+    "options": ["Karesuando", "Treriksröset", "Kilpisjärvi", "Pajala"],
+    "correctIndex": 1,
+    "explanation": "Treriksröset är den punkt i Lappland där Sverige, Norge och Finland möts. Gränsmärket är placerat i en sjö och nås med båt."
+  },
+  {
+    "id": 12,
+    "question": "Vilket älvsystem är det längsta i Sverige?",
+    "options": ["Dalälven", "Ångermanälven", "Klarälven–Göta älv", "Luleälven"],
+    "correctIndex": 2,
+    "explanation": "Klarälven–Göta älv är med sina ca 720 km det längsta sammanhängande älvsystemet i Sverige, från källorna i Norges fjäll till utloppet i Göteborg."
+  }
+]

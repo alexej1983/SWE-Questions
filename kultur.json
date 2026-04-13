@@ -4,76 +4,255 @@
     "question": "Vem skapade barnbokskaraktären Pippi Långstrump?",
     "options": ["Selma Lagerlöf", "Elsa Beskow", "Astrid Lindgren", "Maria Gripe"],
     "correctIndex": 2,
-    "explanation": "Astrid Lindgren (1907–2002) skapade Pippi Långstrump och publicerade den första boken 1945. Hon är en av världens mest översatta barnboksförfattare."
+    "explanation": "Astrid Lindgren (1907–2002) skapade Pippi Långstrump och publicerade den första boken 1945. Hon är en av världens mest översatta barnboksförfattare.",
+    "difficulty": "easy"
   },
   {
     "id": 2,
     "question": "Vilket år vann ABBA Eurovision Song Contest med låten 'Waterloo'?",
     "options": ["1972", "1974", "1976", "1978"],
     "correctIndex": 1,
-    "explanation": "ABBA vann Eurovision Song Contest 1974 i Brighton med 'Waterloo'. Segern sköt bandet till internationell superstardom."
+    "explanation": "ABBA vann Eurovision Song Contest 1974 i Brighton med 'Waterloo'. Segern sköt bandet till internationell superstardom.",
+    "difficulty": "medium"
   },
   {
     "id": 3,
     "question": "Vilken svensk regissör skapade filmerna 'Det sjunde inseglet' och 'Smultronstället'?",
     "options": ["Roy Andersson", "Lukas Moodysson", "Jan Troell", "Ingmar Bergman"],
     "correctIndex": 3,
-    "explanation": "Ingmar Bergman (1918–2007) är en av filmhistoriens mest hyllade regissörer. Hans filmer utforskar existentiella och andliga teman med enastående bildspråk."
+    "explanation": "Ingmar Bergman (1918–2007) är en av filmhistoriens mest hyllade regissörer. Hans filmer utforskar existentiella och andliga teman med enastående bildspråk.",
+    "difficulty": "easy"
   },
   {
     "id": 4,
     "question": "Vem skrev romanen 'Röda rummet' (1879), betraktad som den moderna svenska romanens genombrott?",
     "options": ["Viktor Rydberg", "August Strindberg", "Verner von Heidenstam", "Gustaf af Geijerstam"],
     "correctIndex": 1,
-    "explanation": "August Strindberg (1849–1912) skrev 'Röda rummet', en samhällskritisk roman som brukar räknas som den moderna svenska romanens genombrott."
+    "explanation": "August Strindberg (1849–1912) skrev 'Röda rummet', en samhällskritisk roman som brukar räknas som den moderna svenska romanens genombrott.",
+    "difficulty": "medium"
   },
   {
     "id": 5,
     "question": "Vilken svensk artist vann Eurovision Song Contest 2015 med låten 'Heroes'?",
     "options": ["Robin Stjernberg", "Eric Saade", "Loreen", "Måns Zelmerlöw"],
     "correctIndex": 3,
-    "explanation": "Måns Zelmerlöw vann Eurovision 2015 i Wien med 'Heroes'. Loreen vann 2012 med 'Euphoria' och sedan igen 2023 med 'Tattoo'."
+    "explanation": "Måns Zelmerlöw vann Eurovision 2015 i Wien med 'Heroes'. Loreen vann 2012 med 'Euphoria' och sedan igen 2023 med 'Tattoo'.",
+    "difficulty": "medium"
   },
   {
     "id": 6,
     "question": "Vilket museum i Stockholm är känt för att hysa det bärgade krigsfartyget Vasa?",
     "options": ["Historiska museet", "Nordiska museet", "Vasamuseet", "Sjöhistoriska museet"],
     "correctIndex": 2,
-    "explanation": "Vasamuseet på Djurgården i Stockholm invigdes 1990 och visar upp Vasa, det välbevarade krigsfartyget från 1628."
+    "explanation": "Vasamuseet på Djurgården i Stockholm invigdes 1990 och visar upp Vasa, det välbevarade krigsfartyget från 1628.",
+    "difficulty": "easy"
   },
   {
     "id": 7,
-    "question": "Vilken svensk author fick Nobelpriset i litteratur år 1909?",
+    "question": "Vilken svensk författare fick Nobelpriset i litteratur år 1909, som den första kvinnan att tilldelas priset?",
     "options": ["Verner von Heidenstam", "August Strindberg", "Selma Lagerlöf", "Hjalmar Söderberg"],
     "correctIndex": 2,
-    "explanation": "Selma Lagerlöf fick Nobelpriset i litteratur 1909 – den första kvinna som fick priset. Hon är känd för bl.a. 'Gösta Berlings saga' och 'Nils Holgerssons underbara resa'."
+    "explanation": "Selma Lagerlöf fick Nobelpriset i litteratur 1909 – den första kvinna som fick priset. Hon är känd för bl.a. 'Gösta Berlings saga' och 'Nils Holgerssons underbara resa'.",
+    "difficulty": "hard"
   },
   {
     "id": 8,
     "question": "Vilket år grundades Kungliga Operan i Stockholm?",
     "options": ["1733", "1773", "1810", "1862"],
     "correctIndex": 1,
-    "explanation": "Kungliga Operan grundades 1773 under Gustav III:s tid. Den nuvarande byggnaden på Gustav Adolfs torg invigdes 1898."
+    "explanation": "Kungliga Operan grundades 1773 under Gustav III:s tid. Den nuvarande byggnaden på Gustav Adolfs torg invigdes 1898.",
+    "difficulty": "hard"
   },
   {
     "id": 9,
-    "question": "Vem målade det omstridda monumentalmålninget 'Midvinterblot' (1915)?",
+    "question": "Vem målade det omstridda monumentalmålninget 'Midvinterblot' (1915), avsett för Nationalmuseum?",
     "options": ["Anders Zorn", "Bruno Liljefors", "Carl Larsson", "Ernst Josephson"],
     "correctIndex": 2,
-    "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor fresk avsedd för Nationalmuseum. Tavlan avvisades och såldes till Japan, men återbördades 1987."
+    "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor fresk avsedd för Nationalmuseum. Tavlan avvisades och såldes till Japan, men återbördades 1987.",
+    "difficulty": "hard"
   },
   {
     "id": 10,
     "question": "Vem skapade Millennium-trilogin med karaktärerna Lisbeth Salander och Mikael Blomkvist?",
     "options": ["Henning Mankell", "Stieg Larsson", "Jo Nesbø", "Camilla Läckberg"],
     "correctIndex": 1,
-    "explanation": "Stieg Larsson (1954–2004) skapade Millennium-trilogin. Han avled tyvärr innan böckerna publicerades. Trilogin såldes i över 100 miljoner exemplar världen över."
+    "explanation": "Stieg Larsson (1954–2004) skapade Millennium-trilogin. Han avled tyvärr innan böckerna publicerades. Trilogin såldes i över 100 miljoner exemplar världen över.",
+    "difficulty": "easy"
   },
   {
     "id": 11,
     "question": "Vilket av dessa musikband kommer från Sverige?",
-    "options": ["Roxette", "a-ha", "Ace of Base", "Aqua"],
+    "options": ["Roxette", "a-ha", "Coldplay", "Aqua"],
     "correctIndex": 0,
-    "explanation": "Roxette är ett svenskt poprock-duo bestående av Marie Fredriksson och Per Gessle. De hade världsframgångar med låtar som 'The Look' och 'It Must Have Been Love'."
+    "explanation": "Roxette är ett svenskt poprock-duo bestående av Marie Fredriksson och Per Gessle från Halmstad. De hade världsframgångar med låtar som 'The Look' och 'It Must Have Been Love'. a-ha är norska, Coldplay är brittiska och Aqua är danska.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "Vilken svensk DJ och musikproducent skapade hits som 'Wake Me Up' och 'Levels' innan han avled 2018?",
+    "options": ["Swedish House Mafia", "Avicii", "Robyn", "Zara Larsson"],
+    "correctIndex": 1,
+    "explanation": "Avicii (Tim Bergling, 1989–2018) var en av världens mest framgångsrika DJ:s och musikproducenter och skapade en fusion av elektronisk musik och folkrock. Han avled tragiskt 2018, 28 år gammal.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "Vem skapade detektivkaraktären Kurt Wallander i en serie kriminalromaner utspelade i Ystad?",
+    "options": ["Stieg Larsson", "Henning Mankell", "Camilla Läckberg", "Lars Kepler"],
+    "correctIndex": 1,
+    "explanation": "Henning Mankell (1948–2015) skapade polisdetektiven Kurt Wallander. Böckerna har filmatiserats med bland annat Krister Henriksson och Kenneth Branagh i titelrollen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "Vilken svensk arkitekt ritade Stockholms stadshus, invigt 1923?",
+    "options": ["Gunnar Asplund", "Ragnar Östberg", "Sigurd Lewerentz", "Ferdinand Boberg"],
+    "correctIndex": 1,
+    "explanation": "Ragnar Östberg (1866–1945) ritade Stockholms stadshus i nationalromantisk stil. I byggnadens Blå hall hålls varje år den berömda Nobelbanquetten den 10 december.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "question": "Vilket år grundades IKEA av Ingvar Kamprad i Småland?",
+    "options": ["1935", "1943", "1950", "1960"],
+    "correctIndex": 1,
+    "explanation": "IKEA grundades 1943 av 17-årige Ingvar Kamprad. Namnet är en förkortning av Ingvar Kamprad, Elmtaryd (gårdens namn) och Agunnaryd (hemorten i Småland).",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "question": "Vilken svensk musikproducent har skrivit fler Billboard Hot 100-ettor än någon annan icke-amerikanskfödd artist?",
+    "options": ["Denniz Pop", "Max Martin", "Robyn", "Björn Again"],
+    "correctIndex": 1,
+    "explanation": "Max Martin (Martin Sandberg, född 1971) från Stockholm har producerat och skrivit fler nummer ett-hits på Billboard Hot 100 än någon annan icke-amerikanskfödd artist, bland annat för Britney Spears, Backstreet Boys och Taylor Swift.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "question": "Vilket populärt datorspel skapades av svenska Mojang och Markus 'Notch' Persson?",
+    "options": ["Fortnite", "Minecraft", "Candy Crush", "Battlefield"],
+    "correctIndex": 1,
+    "explanation": "Minecraft skapades av Markus 'Notch' Persson och lanserades 2011 av Mojang i Stockholm. Det är ett av världens mest sålda spel med över 300 miljoner sålda exemplar. Microsoft köpte Mojang 2014 för ca 2,5 miljarder dollar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "question": "Vad heter den svenska operasångerskan från 1800-talet som kallades 'Den svenska näktergalen'?",
+    "options": ["Christina Nilsson", "Jenny Lind", "Birgit Nilsson", "Elisabeth Söderström"],
+    "correctIndex": 1,
+    "explanation": "Jenny Lind (1820–1887) kallades 'Den svenska näktergalen' och var en internationellt berömd sopran. Hon turnerade i USA under Phineas T. Barnums förvaltning och var en av 1800-talets mest kända underhållare.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 19,
+    "question": "Vilken svensk tennisspelare vann Wimbledon fem år i rad (1976–1980)?",
+    "options": ["Stefan Edberg", "Björn Borg", "Mats Wilander", "Thomas Enqvist"],
+    "correctIndex": 1,
+    "explanation": "Björn Borg vann Wimbledon fem gånger i rad (1976–1980) och är en av tennishistoriens mest legendariska spelare. Han vann totalt 11 grand slam-titlar och drog sig tillbaka vid 26 års ålder.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "question": "Vilket traditionellt folkmusiksinstrument, unikt för Sverige, spelas med nycklar som stänger av strängarna?",
+    "options": ["Härjedalspipan", "Nyckelharpa", "Dragspel", "Cittra"],
+    "correctIndex": 1,
+    "explanation": "Nyckelharpa är ett traditionellt svenska stränginstrument med tangenter (nycklar) som bestämmer tonhöjd. Det är nära förknippat med folkmusiken i Uppland och Dalarna och är UNESCO:s immateriella kulturarv.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 21,
+    "question": "Vilken är den svenska filmbranchens mest prestigefyllda utmärkelse, instiftad 1964?",
+    "options": ["Svenska filmpriset", "Guldlejonet", "Guldbaggen", "Guldpalmen"],
+    "correctIndex": 2,
+    "explanation": "Guldbaggen är den svenska filmbranchens prestigefyllda utmärkelse, instiftad 1964 av Svenska Filminstitutet. Priset delas ut i kategorier som bästa film, regi, manus och skådespelarprestationer.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 22,
+    "question": "Vilken konstnär (1860–1920) från Mora är känd för sina porträtt av prominenta personer och folklivsskildringar från Dalarna?",
+    "options": ["Ernst Josephson", "Carl Larsson", "Anders Zorn", "Bruno Liljefors"],
+    "correctIndex": 2,
+    "explanation": "Anders Zorn (1860–1920) är en av Sveriges internationellt mest framgångsrika konstnärer. Han är känd för sina porträtt – bland annat av tre amerikanska presidenter – och för sina sinnliga folklivsskildringar från Dalarna.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 23,
+    "question": "Vilken svensk vann Melodifestivalen 2023 med 'Tattoo' och sedan Eurovision Song Contest?",
+    "options": ["Cornelia Jakobs", "Loreen", "Dotter", "Tusse"],
+    "correctIndex": 1,
+    "explanation": "Loreen vann Melodifestivalen 2023 och gick vidare till att vinna Eurovision Song Contest 2023 i Liverpool. Det var hennes andra Eurovision-seger – hon vann även 2012 med 'Euphoria'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "question": "Vilket interaktivt museum för ett av världens mest kända popband öppnade på Djurgården i Stockholm 2013?",
+    "options": ["Popmuseet", "ABBA: The Museum", "Musikens hus", "Rockens historia"],
+    "correctIndex": 1,
+    "explanation": "ABBA: The Museum öppnade 2013 på Djurgården i Stockholm och är ett av Stockholms mest populära turistmål. Det är ett interaktivt museum med kostymer, instrument och upplevelser kopplade till ABBA:s karriär.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "Vilket friluftsmuseum på Djurgården i Stockholm grundades 1891 och är världens äldsta i sitt slag?",
+    "options": ["Nordiska museet", "Vasamuseet", "Skansen", "Etnografiska museet"],
+    "correctIndex": 2,
+    "explanation": "Skansen grundades 1891 av Artur Hazelius och är världens äldsta friluftsmuseum. Här finns omkring 160 historiska byggnader från hela Sverige, ett djurpark med nordiska djur och levande hantverksdemonstration.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "question": "Vilket svenskt spelföretag skapade det enormt populära mobilspelet Candy Crush Saga?",
+    "options": ["Mojang", "DICE", "King", "Paradox Interactive"],
+    "correctIndex": 2,
+    "explanation": "King, grundat i Stockholm 2003, skapade Candy Crush Saga som lanserades 2012. Spelet blev ett globalt fenomen med miljarder spelare och är ett av de mest nedladdade mobilspelen någonsin. King köptes av Activision Blizzard 2016.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "Vem skrev den socialt kritiska romanen 'Hemsöborna' (1887) om livet i Stockholms skärgård?",
+    "options": ["Hjalmar Söderberg", "August Strindberg", "Selma Lagerlöf", "Viktor Rydberg"],
+    "correctIndex": 1,
+    "explanation": "'Hemsöborna' (1887) av August Strindberg är en folkkär roman om arbetskarlen Carlsson som tar arbete hos en skärgårdsänka. Den kombinerar realism med folklig humor och räknas som ett av Strindbergs mest lättillgängliga verk.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "question": "Vilken Astrid Lindgren-karaktär bor på gården Katthult i Småland och ställer till ofog?",
+    "options": ["Rasmus på luffen", "Karlsson på taket", "Emil i Lönneberga", "Ronja Rövardotter"],
+    "correctIndex": 2,
+    "explanation": "Emil i Lönneberga bor på gården Katthult i Lönneberga, Småland. Böckerna om Emil, skapade av Astrid Lindgren (1963–1973), skildrar hans busstreck och det lantliga livet i sekelskiftets Sverige. Filmerna med Jan Ohlsson är ikoniska.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 29,
+    "question": "Vilket år grundades klädföretaget H&M av Erling Persson i Västerås?",
+    "options": ["1938", "1947", "1955", "1963"],
+    "correctIndex": 1,
+    "explanation": "H&M (Hennes & Mauritz) grundades 1947 av Erling Persson i Västerås som en damklädesbutik med namnet 'Hennes'. Idag är H&M ett av världens största modeföretag med butiker i över 70 länder.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "I vilken Stockholmsbyggnad hålls Nobelprisutdelningsceremonin (ej banketten) varje år den 10 december?",
+    "options": ["Stockholms stadshus", "Kungliga slottet", "Stockholms konserthus", "Operan"],
+    "correctIndex": 2,
+    "explanation": "Nobelprisutdelningen hålls i Stockholms konserthus varje år den 10 december – Alfred Nobels dödsdag. Nobelbanketten hålls däremot i Stockholms stadshus. Konserthuset invigdes 1926.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 31,
+    "question": "Vilket år sändes den första Melodifestivalen på Sveriges Radio?",
+    "options": ["1950", "1959", "1965", "1972"],
+    "correctIndex": 1,
+    "explanation": "Den första Melodifestivalen sändes 1959 på Sveriges Radio. Tävlingen skapades för att välja Sveriges bidrag till Eurovision Song Contest och har sedan dess blivit ett av landets mest sedda TV-program.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "Vem skapade den älskade barnbokskaraktären Alfons Åberg, som debuterade 1972?",
+    "options": ["Astrid Lindgren", "Tove Jansson", "Elsa Beskow", "Gunilla Bergström"],
+    "correctIndex": 3,
+    "explanation": "Gunilla Bergström skapade Alfons Åberg (Alfie Atkins på engelska) i boken 'God natt, Alfons Åberg' 1972. Böckerna om den lille pojken med sina vardagsrealistiska teman har blivit klassiker och översatts till över 40 språk.",
+    "difficulty": "medium"
   }
 ]

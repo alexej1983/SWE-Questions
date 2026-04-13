@@ -4,104 +4,287 @@
     "question": "Under vilket år blev Sverige ett enat kungadöme under kung Olof Skötkonung?",
     "options": ["970 e.Kr.", "995 e.Kr.", "1008 e.Kr.", "1050 e.Kr."],
     "correctIndex": 1,
-    "explanation": "Olof Skötkonung blev kung omkring år 995 e.Kr. och anses vara den förste kungen av ett enat Sverige."
+    "explanation": "Olof Skötkonung blev kung omkring år 995 e.Kr. och anses vara den förste kungen av ett enat Sverige.",
+    "difficulty": "hard"
   },
   {
     "id": 2,
     "question": "Vilken svensk kung ledde det svenska riket under slaget vid Poltava år 1709?",
     "options": ["Gustav II Adolf", "Karl XI", "Karl XII", "Fredrik I"],
     "correctIndex": 2,
-    "explanation": "Karl XII ledde Sverige vid slaget vid Poltava, där Sverige led ett avgörande nederlag mot Ryssland, vilket markerade slutet på stormaktstiden."
+    "explanation": "Karl XII ledde Sverige vid slaget vid Poltava, där Sverige led ett avgörande nederlag mot Ryssland, vilket markerade slutet på stormaktstiden.",
+    "difficulty": "medium"
   },
   {
     "id": 3,
     "question": "Vad hette det svenska krigsfartyget som sjönk på sin jungfrufärd år 1628?",
     "options": ["Kronan", "Vasa", "Mars", "Elefanten"],
     "correctIndex": 1,
-    "explanation": "Vasa sjönk den 10 augusti 1628, bara minuter in på sin jungfrufärd. Vraket bärgades 1961 och ställs nu ut på Vasamuseet i Stockholm."
+    "explanation": "Vasa sjönk den 10 augusti 1628, bara minuter in på sin jungfrufärd. Vraket bärgades 1961 och ställs nu ut på Vasamuseet i Stockholm.",
+    "difficulty": "easy"
   },
   {
     "id": 4,
     "question": "Under vilket år deltog Sverige senast i ett krig?",
     "options": ["1809", "1814", "1848", "1905"],
     "correctIndex": 1,
-    "explanation": "Det senaste kriget Sverige deltog i var det svensk-norska kriget 1814, varefter Sverige antog en neutralitetspolitik."
+    "explanation": "Det senaste kriget Sverige deltog i var det svensk-norska kriget 1814, varefter Sverige antog en neutralitetspolitik.",
+    "difficulty": "medium"
   },
   {
     "id": 5,
     "question": "Vem var den svenske rikskansler som dominerade svensk politik och utrikespolitik i början av 1600-talet?",
     "options": ["Axel Oxenstierna", "Per Brahe", "Magnus Stenbock", "Johan Gyllenstierna"],
     "correctIndex": 0,
-    "explanation": "Axel Oxenstierna tjänstgjorde som rikskansler och var en av de mäktigaste statsmännen i svensk historia. Han styrde riket under drottning Kristinas regeringstid."
+    "explanation": "Axel Oxenstierna tjänstgjorde som rikskansler och var en av de mäktigaste statsmännen i svensk historia. Han styrde riket under drottning Kristinas minderårighet.",
+    "difficulty": "hard"
   },
   {
     "id": 6,
     "question": "Vilken svensk drottning abdikerade år 1654 och konverterade senare till katolicismen?",
     "options": ["Ulrika Eleonora", "Kristina", "Hedvig Eleonora", "Lovisa Ulrika"],
     "correctIndex": 1,
-    "explanation": "Drottning Kristina abdikerade 1654 till förmån för sin kusin Karl X Gustav och konverterade senare till romersk katolicismen, varefter hon bosatte sig i Rom."
+    "explanation": "Drottning Kristina abdikerade 1654 till förmån för sin kusin Karl X Gustav och konverterade senare till romersk katolicismen, varefter hon bosatte sig i Rom.",
+    "difficulty": "medium"
   },
   {
     "id": 7,
     "question": "Vad kallas perioden av svensk dominans i Nordeuropa under 1600-talet?",
     "options": ["Frihetstiden", "Karolinska eran", "Det svenska imperiet", "Stormaktstiden"],
     "correctIndex": 3,
-    "explanation": "Stormaktstiden syftar på den era då Sverige var en av Europas stormakter, ungefär från 1611 till 1721."
+    "explanation": "Stormaktstiden syftar på den era då Sverige var en av Europas stormakter, ungefär från 1611 till 1721.",
+    "difficulty": "easy"
   },
   {
     "id": 8,
-    "question": "Under vilket år antog Sverige sin första skrivna grundlag?",
+    "question": "Under vilket år antog Sverige sin regeringsform efter statskuppen mot Gustav IV Adolf?",
     "options": ["1772", "1809", "1866", "1974"],
     "correctIndex": 1,
-    "explanation": "Sverige antog sin regeringsform år 1809 efter en statskupp mot kung Gustav IV Adolf."
+    "explanation": "Sverige antog sin regeringsform år 1809 efter en statskupp mot kung Gustav IV Adolf, som abdikerade efter förlusten av Finland till Ryssland.",
+    "difficulty": "hard"
   },
   {
     "id": 9,
     "question": "Vilket fördrag avslutade Trettioåriga kriget och bekräftade Sverige som en europeisk stormakt?",
     "options": ["Westfaliska freden", "Freden i Nystad", "Freden i Roskilde", "Augsburgsfreden"],
     "correctIndex": 0,
-    "explanation": "Westfaliska freden 1648 avslutade Trettioåriga kriget. Sverige erhöll territorier i Det heliga romerska riket och erkändes som en stormakt."
+    "explanation": "Westfaliska freden 1648 avslutade Trettioåriga kriget. Sverige erhöll territorier i Det heliga romerska riket och erkändes som en stormakt.",
+    "difficulty": "medium"
   },
   {
     "id": 10,
     "question": "Vem uppfann dynamiten och instiftade Nobelpriset?",
     "options": ["Anders Celsius", "Carl von Linné", "Alfred Nobel", "Svante Arrhenius"],
     "correctIndex": 2,
-    "explanation": "Alfred Nobel, född i Stockholm 1833, uppfann dynamiten år 1867. I sitt testamente instiftade han Nobelpriserna, som delades ut för första gången 1901."
+    "explanation": "Alfred Nobel, född i Stockholm 1833, uppfann dynamiten år 1867. I sitt testamente instiftade han Nobelpriserna, som delades ut för första gången 1901.",
+    "difficulty": "easy"
   },
   {
     "id": 11,
-    "question": "Vilken svensk kung besegrade danskarna vid slaget vid Lund år 1676?",
+    "question": "Vilken svensk kung besegrade danskarna vid det blodiga slaget vid Lund år 1676?",
     "options": ["Karl X Gustav", "Karl XI", "Karl XII", "Gustav III"],
     "correctIndex": 1,
-    "explanation": "Karl XI vann slaget vid Lund den 4 december 1676 – ett av de blodigaste slagen i Skandinaviens historia – och befäste därmed den svenska makten i Skåne."
+    "explanation": "Karl XI vann slaget vid Lund den 4 december 1676 – ett av de blodigaste slagen i Skandinaviens historia – och befäste därmed den svenska makten i Skåne.",
+    "difficulty": "hard"
   },
   {
     "id": 12,
     "question": "Vad kallas den period av parlamentariskt styre i Sverige som varade från 1718 till 1772?",
     "options": ["Frihetstiden", "Den gustavianska eran", "Upplysningsåldern", "Reformperioden"],
     "correctIndex": 0,
-    "explanation": "Frihetstiden var en period då Sverige styrdes av riksdagen snarare än en stark monark, och varade från 1718 till 1772."
+    "explanation": "Frihetstiden var en period då Sverige styrdes av riksdagen snarare än en stark monark, och varade från 1718 till 1772.",
+    "difficulty": "hard"
   },
   {
     "id": 13,
-    "question": "Gustav II Adolf (Gustaf Adolf) stupade i vilket slag år 1632?",
+    "question": "Gustav II Adolf stupade i vilket slag år 1632?",
     "options": ["Slaget vid Breitenfeld", "Slaget vid Lützen", "Slaget vid Vita berget", "Slaget vid Nördlingen"],
     "correctIndex": 1,
-    "explanation": "Gustav II Adolf stupade i slaget vid Lützen den 16 november 1632 under Trettioåriga kriget."
+    "explanation": "Gustav II Adolf stupade i slaget vid Lützen den 16 november 1632 under Trettioåriga kriget.",
+    "difficulty": "medium"
   },
   {
     "id": 14,
     "question": "Vilken svensk naturvetare utvecklade det moderna systemet för biologisk klassificering?",
     "options": ["Anders Celsius", "Carl von Linné", "Olof Rudbeck", "Nils Rosén von Rosenstein"],
     "correctIndex": 1,
-    "explanation": "Carl von Linné (1707–1778) utvecklade det binära nomenklatursystemet som fortfarande används för att klassificera alla levande organismer."
+    "explanation": "Carl von Linné (1707–1778) utvecklade det binära nomenklatursystemet som fortfarande används för att klassificera alla levande organismer.",
+    "difficulty": "easy"
   },
   {
     "id": 15,
     "question": "Under vilket århundrade grundades Stockholm?",
     "options": ["1000-talet", "1100-talet", "1200-talet", "1300-talet"],
     "correctIndex": 2,
-    "explanation": "Stockholm grundades under 1200-talet, med det traditionella grundläggningsåret 1252 av Birger jarl, även om det officiella namnet dröjde något."
+    "explanation": "Stockholm grundades under 1200-talet, med det traditionella grundläggningsåret 1252 av Birger jarl, även om det officiella namnet dröjde något.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "question": "Vad kallas massakern 1520 då den danske kungen lät avrätta svenska adelsmän och biskopar på Stortorget?",
+    "options": ["Stockholmsbränder", "Stockholms blodbad", "Brunkenbergslaget", "Det röda torget"],
+    "correctIndex": 1,
+    "explanation": "Stockholms blodbad genomfördes i november 1520 av kung Kristian II av Danmark. Han lät avrätta ett stort antal svenska adelsmän, biskopar och borgare. Händelsen utlöste det uppror som ledde till Gustav Vasas frigörelse av Sverige.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "Vilket år upplöstes unionen mellan Sverige och Norge?",
+    "options": ["1895", "1905", "1910", "1920"],
+    "correctIndex": 1,
+    "explanation": "Den svensk-norska unionen upplöstes 1905 efter norsk folkomröstning för självständighet. Sverige godkände upplösningen och Norge valde prins Carl av Danmark till sin kung, som tog namnet Haakon VII.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "Vem var den förste kungen av det svenska kungahuset Bernadotte?",
+    "options": ["Oscar I", "Karl XIV Johan", "Carl XIII", "Karl XV"],
+    "correctIndex": 1,
+    "explanation": "Karl XIV Johan, ursprungligen den franske marskalken Jean-Baptiste Bernadotte, valdes till svensk kronprins 1810 och blev kung 1818. Han grundade den nuvarande kungliga dynastin Bernadotte.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "Vad heter vikingahandelsplatsen på Björkö i Mälaren, i dag ett UNESCO-världsarv?",
+    "options": ["Sigtuna", "Birka", "Hedeby", "Gamla Uppsala"],
+    "correctIndex": 1,
+    "explanation": "Birka var ett av Nordens viktigaste handelscentra under 700–900-talen. Det är ett av Sveriges äldsta stadssamhällen och ingår i UNESCO:s världsarvslista.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 20,
+    "question": "Vilket krig 1808–1809 ledde till att Sverige tvingades avträda Finland till Ryssland?",
+    "options": ["Stora nordiska kriget", "Pommerska kriget", "Finska kriget", "Sjuårskriget"],
+    "correctIndex": 2,
+    "explanation": "Finska kriget 1808–1809 slutade med freden i Fredrikshamn, då Sverige tvingades överlåta Finland till Ryssland. Kriget ledde dessutom till en statskupp och en ny regeringsform.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "Vilket år valdes Gustav Vasa till kung – den dag som nu firas som Sveriges nationaldag?",
+    "options": ["1517", "1521", "1523", "1527"],
+    "correctIndex": 2,
+    "explanation": "Gustav Vasa valdes till kung den 6 juni 1523, vilket är anledningen till att Sveriges nationaldag firas just detta datum. Han bröt med den danska Kalmarunionen och grundade det moderna Sverige.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "Vad heter den union som förenade Sverige, Danmark och Norge 1397–1521?",
+    "options": ["Hansaförbundet", "Kalmarunionen", "Nordunionen", "Roskildepakten"],
+    "correctIndex": 1,
+    "explanation": "Kalmarunionen bildades 1397 under drottning Margareta I och förenade de tre nordiska rikena under ett gemensamt styre. Den upplöstes definitivt 1523 när Gustav Vasa bröt Sverige ut ur unionen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "Vilket fredsavtal 1658 gav Sverige Skåne, Blekinge och Bohuslän från Danmark-Norge?",
+    "options": ["Westfaliska freden", "Freden i Roskilde", "Freden i Nystad", "Freden i Fredrikshamn"],
+    "correctIndex": 1,
+    "explanation": "Freden i Roskilde 1658, efter Karl X Gustavs vinterfälttåg över de frusna danska sunden, tvingade Danmark att avträda Skåne, Blekinge och Bohuslän till Sverige och formade landets moderna utseende.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "question": "Vilket år genomförde Sverige reformationen vid riksdagen i Västerås och bröt med påven?",
+    "options": ["1517", "1521", "1527", "1536"],
+    "correctIndex": 2,
+    "explanation": "Vid Västerås riksdag 1527 bröt Sverige med påven och kyrkornas tillgångar konfiskerades. Gustav Vasa blev landets kyrkoöverhuvud och Sverige övergick till luthersk kristendom.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "Vad kallas det svenska parlamentssystemet med fyra stånd – adel, präster, borgare och bönder – som varade 1435–1865?",
+    "options": ["Riksens råd", "Ståndsriksdagen", "Fyrkammarsystemet", "Ständerväldet"],
+    "correctIndex": 1,
+    "explanation": "Ståndsriksdagen styrde Sverige i 430 år tills det 1865 ersattes av ett tvåkammarsystem med Första och Andra kammaren. Alla fyra stånd hade lika röstvikt i riksdagen.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "Varför avsattes kung Gustav IV Adolf i statskuppen 1809?",
+    "options": ["Han ville avskaffa riksdagen", "Han förlorade Finland till Ryssland och störtades av officerare", "Han abdikerade för att gifta sig utomlands", "Han konverterade till katolicismen"],
+    "correctIndex": 1,
+    "explanation": "Gustav IV Adolf störtades 1809 efter katastrofala militärförluster mot Ryssland, inklusive förlusten av Finland. En grupp officerare grep kungen och tvingade honom att abdikera.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "Vilket år grundade Gustav II Adolf Göteborgs stad?",
+    "options": ["1571", "1601", "1621", "1666"],
+    "correctIndex": 2,
+    "explanation": "Göteborg grundades officiellt 1621 av Gustav II Adolf. Han ville ha en hamn på västkusten utanför danskt inflytande. Staden anlades med hjälp av holländska ingenjörer och köpmän.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "question": "Vilket år avskaffades dödsstraffet i Sverige för civila brott?",
+    "options": ["1890", "1910", "1921", "1945"],
+    "correctIndex": 2,
+    "explanation": "Dödsstraffet avskaffades för civila brott i Sverige 1921. Den sista avrättningen ägde rum 1910. Dödsstraffet för militära brott avskaffades 1972, och 1974 års grundlag förbjuder det helt.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "Vilket uppror 1434–1436, lett av Engelbrekt Engelbrektsson, bekämpade den danska unionsmaktens fogdar?",
+    "options": ["Dackeupproret", "Engelbrektsupproret", "Tunnaupproret", "Norrlandsresningen"],
+    "correctIndex": 1,
+    "explanation": "Engelbrektsupproret 1434–1436 leddes av bergsmannen Engelbrekt Engelbrektsson mot den danska Kalmarunionens fogdar. Upproret ledde till riksdagen i Arboga 1435, ett av de äldsta riksmötena i Skandinavien.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "question": "Vilket bondeuppror på 1540-talet, lett av Nils Dacke i Småland, hotade Gustav Vasas maktställning?",
+    "options": ["Engelbrektsupproret", "Dackeupproret", "Bondekriget", "Norrlandsresningen"],
+    "correctIndex": 1,
+    "explanation": "Dackeupproret 1542–1543 var ett av de allvarligaste upproren mot Gustav Vasas styre, lett av bonden Nils Dacke från Småland. Upproret krossades och Dacke dödades, men det visade på folkligt missnöje med reformationens ekonomiska konsekvenser.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 31,
+    "question": "Vilken svensk kung genomförde en blodfri statskupp 1772 och återinförde kungamakten efter frihetstiden?",
+    "options": ["Adolf Fredrik", "Gustav III", "Gustaf IV Adolf", "Karl XIII"],
+    "correctIndex": 1,
+    "explanation": "Gustav III tog makten i en statskupp 1772 och avslutade frihettidens parlamentariska styre. Han var en kulturellt intresserad kung som grundade Kungliga Operan och stödde vetenskaper och konst.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "Vilket år invigdes Göta kanal, som förbinder Göteborg med Stockholm via sjöar och kanaler?",
+    "options": ["1822", "1832", "1850", "1866"],
+    "correctIndex": 1,
+    "explanation": "Göta kanal invigdes 1832 efter 22 års byggtid under ledning av Baltzar von Platen. Kanalen sträcker sig 190 km och förbinder Göteborg med Stockholmsregionen via Vänern och Vättern.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 33,
+    "question": "Vilket år var Stockholm värd för olympiska sommarspelen?",
+    "options": ["1900", "1908", "1912", "1920"],
+    "correctIndex": 2,
+    "explanation": "Stockholm var värd för olympiska sommarspelen 1912, som räknas som en av de mest välorganiserade i modern historia. Sverige vann 65 medaljer och kom trea i medaljligan.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "question": "Under vilken period emigrerade ca 1,3 miljoner svenskar till Nordamerika?",
+    "options": ["1800–1830", "1850–1880", "1865–1914", "1920–1940"],
+    "correctIndex": 2,
+    "explanation": "Mellan 1865 och 1914 emigrerade ca 1,3 miljoner svenskar till Nordamerika, framförallt till USA:s mellanvästern. Orsaker var fattigdom, missväxt och religiös frihet. Vilhelm Mobergs romansvit 'Utvandrarna' skildrar denna epok.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "question": "Vad kallas vikingarnas handelsväg längs ryska floder från Östersjön till Svarta havet och Konstantinopel?",
+    "options": ["Sidenvägen", "Varjagsvägen", "Hansarutten", "Pälsvägen"],
+    "correctIndex": 1,
+    "explanation": "Varjagsvägen (vägen från varjagerna till grekerna) var en viktig handels- och reserute under 800–1100-talen. Svenska vikingar (varjager) seglade längs ryska floder för att nå Bysans och de arabiska länderna.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 36,
+    "question": "Vilket av dessa är ett korrekt påstående om den svenske uppfinnaren Alfred Nobel?",
+    "options": ["Han uppfann telefonen", "Han var fredsaktivist och aldrig involverad i vapentillverkning", "Han testamenterade sin förmögenhet till fem priskategorier", "Han grundade Nobelpriset under sin livstid och delade ut det själv"],
+    "correctIndex": 2,
+    "explanation": "Alfred Nobel testamenterade sin förmögenhet till fem priskategorier: fysik, kemi, medicin, litteratur och fred. Han uppfann dynamiten och ägde vapenfabriker, men kände skuldkänslor inför sin uppfinnings destruktiva användning.",
+    "difficulty": "medium"
   }
 ]

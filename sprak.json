@@ -4,76 +4,255 @@
     "question": "Hur många vokalbokstäver finns det i det svenska alfabetet?",
     "options": ["5", "7", "9", "11"],
     "correctIndex": 2,
-    "explanation": "Det svenska alfabetet har 9 vokalbokstäver: a, e, i, o, u, y, å, ä och ö. De tre sista är unika för de nordiska språken."
+    "explanation": "Det svenska alfabetet har 9 vokalbokstäver: a, e, i, o, u, y, å, ä och ö. De tre sista är unika för de nordiska språken.",
+    "difficulty": "medium"
   },
   {
     "id": 2,
     "question": "Vilket år fick Sverige en officiell språklag som förklarar svenska som huvudspråk?",
     "options": ["1999", "2005", "2009", "2015"],
     "correctIndex": 2,
-    "explanation": "Språklagen antogs av riksdagen 2009 och fastslår att svenska är huvudspråk i Sverige. Lagen erkänner också de nationella minoritetsspråken."
+    "explanation": "Språklagen antogs av riksdagen 2009 och fastslår att svenska är huvudspråk i Sverige. Lagen erkänner också de nationella minoritetsspråken.",
+    "difficulty": "hard"
   },
   {
     "id": 3,
     "question": "Hur många officiella nationella minoritetsspråk har Sverige?",
     "options": ["3", "4", "5", "6"],
     "correctIndex": 2,
-    "explanation": "Sverige har fem erkända nationella minoritetsspråk: samiska, meänkieli (tornedalsfinska), romani, jiddisch och finska."
+    "explanation": "Sverige har fem erkända nationella minoritetsspråk: samiska, meänkieli (tornedalsfinska), romani, jiddisch och finska.",
+    "difficulty": "medium"
   },
   {
     "id": 4,
     "question": "Vad brukar det svenska ordet 'lagom' ungefär betyda?",
     "options": ["Ganska bra", "Inte för mycket och inte för lite", "Precis rätt mängd vid rätt tillfälle", "Tillräckligt för ändamålet"],
     "correctIndex": 1,
-    "explanation": "'Lagom' är ett centralt begrepp i svensk kultur och saknar exakt översättning till många språk. Det uttrycker balans och måttfullhet och anses spegla en viktig svensk värdering."
+    "explanation": "'Lagom' är ett centralt begrepp i svensk kultur och saknar exakt översättning till många språk. Det uttrycker balans och måttfullhet och anses spegla en viktig svensk värdering.",
+    "difficulty": "easy"
   },
   {
     "id": 5,
-    "question": "Vad kallas de svenska dialekter som talas i Finland?",
+    "question": "Vad kallas de varieteter av svenska som talas av den svenska minoriteten i Finland?",
     "options": ["Rikssvenska", "Sverigesvenska", "Finlandssvenska", "Östsvenska"],
     "correctIndex": 2,
-    "explanation": "Finlandssvenska är de varieteter av svenska som talas av den svenska minoriteten i Finland. Finlandssvenska skiljer sig från rikssvenska i uttal, ordval och grammatik."
+    "explanation": "Finlandssvenska är de varieteter av svenska som talas av den svenska minoriteten i Finland. Finlandssvenska skiljer sig från rikssvenska i uttal, ordval och grammatik.",
+    "difficulty": "easy"
   },
   {
     "id": 6,
-    "question": "Vad kallas den äldsta formen av skriftlig svenska?",
+    "question": "Vad kallas den äldsta formen av skriftlig svenska, talad och skriven ca 1100–1526?",
     "options": ["Fornnordiska", "Fornsvenska", "Gutniska", "Runsvenska"],
     "correctIndex": 1,
-    "explanation": "Fornsvenska talades och skrevs ungefär mellan 1100 och 1526. Före dess använde man runor för att skriva nordiska språk."
+    "explanation": "Fornsvenska talades och skrevs ungefär mellan 1100 och 1526. Före dess använde man runor för att skriva nordiska språk.",
+    "difficulty": "medium"
   },
   {
     "id": 7,
-    "question": "Vad heter den institution som vårdar och dokumenterar det svenska språket?",
+    "question": "Vad heter den statliga institution som ger officiella råd om det svenska språket?",
     "options": ["Svenska Akademien", "Rikstermbanken", "Språkrådet", "Nordiska rådet"],
     "correctIndex": 2,
-    "explanation": "Språkrådet är den officiella institutionen som ger råd om det svenska språket och utger bl.a. Svenska skrivregler och Svenska Akademiens ordlista (SAOL) i samarbete med SA."
+    "explanation": "Språkrådet är den officiella institutionen som ger råd om det svenska språket och utger bl.a. Svenska skrivregler. Notera att det är Språkrådet – inte Svenska Akademien – som är det statliga rådgivande organet.",
+    "difficulty": "hard"
   },
   {
     "id": 8,
     "question": "Vad heter den institution som utdelar Nobelpriset i litteratur?",
     "options": ["Kungliga Vitterhetsakademien", "Svenska Akademien", "Kungl. Musikakademien", "Riksteatern"],
     "correctIndex": 1,
-    "explanation": "Svenska Akademien, grundad 1786 av Gustav III, utdelar Nobelpriset i litteratur varje år i oktober. Akademien har 18 ledamöter, kallade 'de aderton'."
+    "explanation": "Svenska Akademien, grundad 1786 av Gustav III, utdelar Nobelpriset i litteratur varje år i oktober. Akademien har 18 ledamöter, kallade 'de aderton'.",
+    "difficulty": "medium"
   },
   {
     "id": 9,
     "question": "Vad betyder det svenska idiomatiska uttrycket 'Det är ingen ko på isen'?",
     "options": ["Situationen är farlig", "Det finns ingen anledning till oro", "Allt är kaotiskt", "Någon beter sig konstigt"],
     "correctIndex": 1,
-    "explanation": "'Det är ingen ko på isen' (ibland '...så länge rumpan är i land') betyder att det inte är något att oroa sig för. Det syftar på att en ko som glidit ut på isen var ett allvarligt problem förr i tiden."
+    "explanation": "'Det är ingen ko på isen' (ibland '...så länge rumpan är i land') betyder att det inte är något att oroa sig för. Det syftar på att en ko som glidit ut på isen var ett allvarligt problem förr i tiden.",
+    "difficulty": "easy"
   },
   {
     "id": 10,
     "question": "Vilket språk är svenska närmast besläktat med?",
     "options": ["Isländska", "Finska", "Danska och norska", "Tyska"],
     "correctIndex": 2,
-    "explanation": "Svenska är närmast besläktat med danska och norska – alla tre tillhör de nordgermanska språken. Talare av dessa tre språk kan ofta förstå varandra, om än med viss ansträngning."
+    "explanation": "Svenska är närmast besläktat med danska och norska – alla tre tillhör de nordgermanska språken. Talare av dessa tre språk kan ofta förstå varandra, om än med viss ansträngning.",
+    "difficulty": "easy"
   },
   {
     "id": 11,
     "question": "Vilket begrepp används för de tre bokstäverna Å, Ä och Ö i det svenska alfabetet?",
     "options": ["Digrafer", "Ligaturer", "Specialvokaler", "Tungomål"],
     "correctIndex": 2,
-    "explanation": "Å, Ä och Ö kallas ibland 'specialvokaler' eller 'svenska vokaler'. De är separata bokstäver som kommer sist i alfabetet och är avgörande för förståelsen av svenska ord."
+    "explanation": "Å, Ä och Ö kallas ibland 'specialvokaler' eller 'svenska vokaler'. De är separata bokstäver som placeras sist i alfabetet och är avgörande för förståelsen av svenska ord.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 12,
+    "question": "Hur många bokstäver har det svenska alfabetet?",
+    "options": ["26", "28", "29", "31"],
+    "correctIndex": 2,
+    "explanation": "Det svenska alfabetet har 29 bokstäver: de 26 latinska bokstäverna plus Å, Ä och Ö. De tre extra bokstäverna placeras sist i alfabetet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "Vilket år grundades Svenska Akademien av Gustav III?",
+    "options": ["1752", "1786", "1809", "1852"],
+    "correctIndex": 1,
+    "explanation": "Svenska Akademien grundades 1786 av Gustav III. Akademien har 18 ledamöter (kallade 'de aderton') och är bl.a. ansvarig för Nobelpriset i litteratur och Svenska Akademiens ordlista (SAOL).",
+    "difficulty": "hard"
+  },
+  {
+    "id": 14,
+    "question": "Vilket av dessa svenska ord är ett lånord från engelskan (anglicism)?",
+    "options": ["Fika", "Lagom", "Mejl", "Knäckebröd"],
+    "correctIndex": 2,
+    "explanation": "'Mejl' (från engelskans 'mail'/'email') är ett vanligt anglicism i modern svenska. Det används ofta i stället för det svenska alternativet 'e-post'. Fika, lagom och knäckebröd är genuint svenska ord.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "Vad indikerar ortsnamnsändelsen '-köping' i svenska ortnamn, som i Linköping och Jönköping?",
+    "options": ["En befäst borg", "En kyrkoplats", "En fornåldersgrotta", "En handelsplats eller marknadsstad"],
+    "correctIndex": 3,
+    "explanation": "Ändelsen '-köping' (av fornnordiskans 'kaupangr') betecknar en handelsplats eller marknadsstad. Ortnamn som Linköping, Nyköping och Jönköping vittnar om att dessa platser var viktiga handelscentra.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 16,
+    "question": "Vad kallas det grammatiska fenomenet att svenska lägger bestämd artikel som suffix på substantivet, t.ex. 'bil' → 'bilen'?",
+    "options": ["Prefix", "Enklitisk artikel", "Infix", "Kasus"],
+    "correctIndex": 1,
+    "explanation": "I svenska läggs den bestämda artikeln som ett suffix (enklitisk artikel) på slutet av substantivet: 'en bil' → 'bilen', 'ett hus' → 'huset'. Detta skiljer sig från engelska och franska där artikeln är ett separat ord framför substantivet.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "question": "Vilket könsneutralt pronomen lades till i det svenska språket och togs upp i SAOL 2015?",
+    "options": ["Dem", "Hen", "Det", "Ni"],
+    "correctIndex": 1,
+    "explanation": "'Hen' introducerades som könsneutralt pronomen och togs upp i Svenska Akademiens ordlista (SAOL) 2015. Det används som alternativ till 'han' och 'hon' när kön är okänt eller irrelevant.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 18,
+    "question": "Vad kallas de grammatiska genus i svenska – den uppdelning som avgör om man säger 'en' eller 'ett' framför ett substantiv?",
+    "options": ["Deklinationer", "Utrum och neutrum", "Maskulinum och femininum", "Nominativ och ackusativ"],
+    "correctIndex": 1,
+    "explanation": "Svenska substantiv delas in i utrum (en-ord, ca 75% av alla substantiv) och neutrum (ett-ord, ca 25%). Genuset bestämmer vilken form av adjektiv, artikel och pronomen som används.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "Vilket av dessa ord är ett lånord från franskan i det svenska språket?",
+    "options": ["Lagom", "Fika", "Butik", "Knäckebröd"],
+    "correctIndex": 2,
+    "explanation": "'Butik' är ett lånord från franskan ('boutique') och är ett av många franska lånord i svenska. Svenska har lånat ord från många språk, inklusive franska, tyska, engelska och latin.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "Vad kallas regionalt specifika varianter av svenska som talas i t.ex. Dalarna (dalmål) eller Skåne (skånska)?",
+    "options": ["Standardsvenska", "Dialekter", "Pidginspråk", "Sociolekter"],
+    "correctIndex": 1,
+    "explanation": "Dialekter är regionalt specifika varianter av ett språk. Dalmål och skånska är bland de mest distinkta svenska dialekterna och kan ibland vara svåra att förstå för talare av rikssvenska.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "question": "Hur säger man 'cheers' på svenska när man skålar?",
+    "options": ["Kippis", "Skål", "Prost", "Sante"],
+    "correctIndex": 1,
+    "explanation": "'Skål' är det svenska ordet för att skåla. Ordet har sina rötter i de fornnordiska dryckesskålarna och används i hela Skandinavien. 'Kippis' är finska, 'Prost' tyskt och danskt, 'Sante' franskt.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "Vad kallas det officiella svenska ordet för 'computer', skapat på 1950-talet?",
+    "options": ["Komputor", "Dator", "Räknare", "Processor"],
+    "correctIndex": 1,
+    "explanation": "'Dator' är det officiella svenska ordet för 'computer', skapat av Björn Lundberg på 1950-talet. Det är ett av de mest kända exemplen på lyckad svensk ordbildning och används i stället för det engelska lånordet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "question": "Vad indikerar ortsnamnsändelsen '-köping' i svenska ortnamn som Linköping och Jönköping?",
+    "options": ["En befäst borg", "En medeltida kyrkoplats", "En fornlämning", "En handelsplats eller marknadsstad"],
+    "correctIndex": 3,
+    "explanation": "Ändelsen '-köping' (av fornnordiskans 'kaupangr') betecknar en handelsplats eller marknadsstad. Ortnamn som Linköping, Nyköping och Jönköping vittnar om att dessa platser var viktiga handelscentra.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 24,
+    "question": "Vad kallas fenomenet i svenska att ett ords betoning (accent) kan ändra dess betydelse, t.ex. 'anden' som antingen anda eller fågel?",
+    "options": ["Vokalharmoni", "Ordaccent", "Prosodi", "Tonfall"],
+    "correctIndex": 1,
+    "explanation": "Ordaccent är ett tonalt fenomen i svenska där samma stavning kan ha olika betydelse beroende på accent: 'anden' med accent 1 = andan, med accent 2 = fågeln. Svenska är ett av få europeiska språk med detta drag.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "Vad kallas den snabba språkförändringen under 1960–70-talen då man slutade tilltala varandra med titlar och 'ni' och gick över till 'du'?",
+    "options": ["Ni-reformen", "Titelbortfallet", "Du-reformen", "Artighetsskiftet"],
+    "correctIndex": 2,
+    "explanation": "Du-reformen under 1960–70-talen innebar att det formella tilltalet med titel och 'ni' i stor utsträckning ersattes av det informella 'du'. Reformen symboliserar den svenska jämlikhetsandan och är en av de mest påtagliga språkliga förändringarna i modern tid.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 26,
+    "question": "Vilket av dessa tecken finns INTE i det svenska alfabetet?",
+    "options": ["Å", "Ä", "Ø", "Ö"],
+    "correctIndex": 2,
+    "explanation": "Ø finns i det danska och norska alfabetet men inte i det svenska. Det svenska alfabetet har 29 bokstäver med Å, Ä och Ö som de tre sista. Ö är den svenska motsvarigheten till det danskt-norska Ø.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "question": "Vad är grundordföljden i svenska huvudsatser?",
+    "options": ["SOV (Subjekt-Objekt-Verb)", "VSO (Verb-Subjekt-Objekt)", "SVO (Subjekt-Verb-Objekt)", "OVS (Objekt-Verb-Subjekt)"],
+    "correctIndex": 2,
+    "explanation": "Svenska har SVO-ordföljd i huvudsatser: 'Jag (S) äter (V) mat (O)'. Svenska tillämpar också V2-regeln, vilket innebär att verbet alltid är det andra ledet i en huvudsats, oavsett vad som är det första.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "question": "Vad betyder det svenska ordet 'gift' – ett ord som är ett klassiskt falskt vänpar för engelsktalande?",
+    "options": ["Endast 'gift' (toxin)", "Antingen 'gifta sig' (married) eller 'gift' (poison) beroende på sammanhanget", "Enbart 'gifta sig' (married)", "Enbart 'present' (gift)"],
+    "correctIndex": 1,
+    "explanation": "'Gift' är ett klassiskt falskt vänpar (false friend) i svenska: det kan antingen betyda 'gift' som i toxin/poison, eller 'gift' som i 'married' (vara gift = to be married). Kontexten avgör alltid vilken betydelse som avses.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "question": "Hur många grammatiska kasus har moderna svenska kvar?",
+    "options": ["Inga alls", "2 (nominativ och genitiv)", "4 (som i tyskan)", "6 (som i latinet)"],
+    "correctIndex": 1,
+    "explanation": "Modern svenska har kvar två grammatiska kasus: nominativ (grundformen, t.ex. 'bilen') och genitiv (possessiv, t.ex. 'bilens tak'). Tidigare hade fornsvenska fler kasus, men dessa har reducerats genom århundradena.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "question": "Vad är ett kännetecken för svenska substantiv som skiljer det från många andra europeiska språk?",
+    "options": ["Att de alltid är korta", "Att långa sammansatta ord bildas utan mellanslag", "Att de aldrig böjs", "Att de alltid slutar på vokal"],
+    "correctIndex": 1,
+    "explanation": "Svenska bildar ofta mycket långa sammansatta ord som skrivs ihop utan mellanslag, t.ex. 'spårvagnshållplats' eller 'reseförsäkringsvillkor'. Det kallas sammansättning (komposition) och är ett produktivt drag i det svenska ordförrådet.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "question": "Vad kallas det populära barnspråket där man lägger in 'ob' efter varje konsonant?",
+    "options": ["Svinprat", "Rövarspråket", "Pig Latin", "Bakspråket"],
+    "correctIndex": 1,
+    "explanation": "Rövarspråket är ett populärt barnspråksspel i Sverige: varje konsonant fördubblas och ett 'o' sätts in emellan ('robojovobspobråobkobebot'). Det populariserades av Astrid Lindgrens 'Kalle Blomkvist'-böcker.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 32,
+    "question": "Vad kallas formen av svenska som talas av invandrare och ungdomar i flerspråkiga förorter, med influenser från arabiska, turkiska och somaliska?",
+    "options": ["Svengelska", "Rinkebysvenska", "Förortssvenska", "Invandrarsvenska"],
+    "correctIndex": 1,
+    "explanation": "Rinkebysvenska (även kallad 'multietniskt ungdomsspråk' eller 'förortsslang') är en varietet av svenska som uppstod i flerspråkiga förorter som Rinkeby i Stockholm. Den har influenser från arabiska, turkiska, somaliska och persiska och är ett aktivt forskningsområde inom sociolingvistik.",
+    "difficulty": "hard"
   }
 ]

@@ -4,83 +4,263 @@
     "question": "Vilket är Sveriges högsta berg?",
     "options": ["Sarektjåkkå", "Kebnekaise", "Akka", "Sylarna"],
     "correctIndex": 1,
-    "explanation": "Kebnekaise i Lappland är Sveriges högsta berg med en sydtopp på ungefär 2 096 meter över havet."
+    "explanation": "Kebnekaise i Lappland är Sveriges högsta berg med en sydtopp på ungefär 2 096 meter över havet.",
+    "difficulty": "easy"
   },
   {
     "id": 2,
     "question": "Vilket är Sveriges till ytan största sjö?",
     "options": ["Vättern", "Mälaren", "Vänern", "Hjälmaren"],
     "correctIndex": 2,
-    "explanation": "Vänern är Sveriges och Nordeuropas största sjö med en yta på cirka 5 650 km²."
+    "explanation": "Vänern är Sveriges och Nordeuropas största sjö med en yta på cirka 5 650 km².",
+    "difficulty": "easy"
   },
   {
     "id": 3,
     "question": "Vilket är Sveriges till ytan största landskap?",
     "options": ["Dalarna", "Norrbotten", "Lappland", "Norrland"],
     "correctIndex": 2,
-    "explanation": "Lappland är Sveriges till ytan största landskap och täcker ungefär 109 000 km², vilket är nästan en fjärdedel av hela landet."
+    "explanation": "Lappland är Sveriges till ytan största landskap och täcker ungefär 109 000 km², vilket är nästan en fjärdedel av hela landet.",
+    "difficulty": "easy"
   },
   {
     "id": 4,
-    "question": "Vad kallas Sveriges sydligaste punkt?",
+    "question": "Vad kallas Sveriges sydligaste fastlandspunkt?",
     "options": ["Falsterbo", "Smygehuk", "Treriksröset", "Haparanda"],
     "correctIndex": 1,
-    "explanation": "Smygehuk i Skåne är Sveriges sydligaste fastlandspunkt, belägen vid Östersjökusten."
+    "explanation": "Smygehuk i Skåne är Sveriges sydligaste fastlandspunkt, belägen vid Östersjökusten.",
+    "difficulty": "medium"
   },
   {
     "id": 5,
-    "question": "Vilket hav ligger väster om Sverige?",
+    "question": "Vilket hav når man via Skagerrak väster om Sverige?",
     "options": ["Östersjön", "Nordsjön", "Barentshavet", "Ishavet"],
     "correctIndex": 1,
-    "explanation": "Nordsjön (via Skagerrak och Kattegatt) ligger väster om Sverige och avgränsar landet från Danmark och Norge."
+    "explanation": "Nordsjön når man via Skagerrak och Kattegatt på Sveriges västra sida, som avgränsar landet från Danmark och Norge.",
+    "difficulty": "medium"
   },
   {
     "id": 6,
-    "question": "I vilket landskap ligger universitets­staden Uppsala?",
+    "question": "I vilket landskap ligger universitetsstaden Uppsala?",
     "options": ["Södermanland", "Västmanland", "Uppland", "Gästrikland"],
     "correctIndex": 2,
-    "explanation": "Uppsala ligger i Uppland, norr om Stockholm. Uppsala universitet, grundat 1477, är Nordens äldsta universitet."
+    "explanation": "Uppsala ligger i Uppland, norr om Stockholm. Uppsala universitet, grundat 1477, är Nordens äldsta universitet.",
+    "difficulty": "hard"
   },
   {
     "id": 7,
     "question": "Vilket landskap är känt för 'Glasriket' med sina många glasbruk?",
     "options": ["Blekinge", "Halland", "Småland", "Östergötland"],
     "correctIndex": 2,
-    "explanation": "Glasriket ligger i Småland och innefattar ett 15-tal glasbruk, bland annat Kosta, Boda och Orrefors."
+    "explanation": "Glasriket ligger i Småland och innefattar ett 15-tal glasbruk, bland annat Kosta, Boda och Orrefors.",
+    "difficulty": "medium"
   },
   {
     "id": 8,
     "question": "Hur många kommuner finns det i Sverige?",
     "options": ["210", "250", "290", "340"],
     "correctIndex": 2,
-    "explanation": "Sverige är indelat i 290 kommuner, som ansvarar för skola, äldreomsorg och lokal samhällsservice."
+    "explanation": "Sverige är indelat i 290 kommuner, som ansvarar för skola, äldreomsorg och lokal samhällsservice.",
+    "difficulty": "hard"
   },
   {
     "id": 9,
     "question": "Vilken stad kallas ibland 'Nordens Venedig' på grund av sina kanaler och broar?",
     "options": ["Göteborg", "Karlskrona", "Stockholm", "Malmö"],
     "correctIndex": 2,
-    "explanation": "Stockholm är byggt på 14 öar i Mälaren och Östersjön, vilket gett det smeknamnet 'Nordens Venedig'."
+    "explanation": "Stockholm är byggt på 14 öar i Mälaren och Östersjön, vilket gett det smeknamnet 'Nordens Venedig'.",
+    "difficulty": "medium"
   },
   {
     "id": 10,
     "question": "Vilket är Sveriges näst folkrikaste stad?",
     "options": ["Malmö", "Uppsala", "Göteborg", "Linköping"],
     "correctIndex": 2,
-    "explanation": "Göteborg är Sveriges näst folkrikaste stad med drygt 590 000 invånare i kommunen. Staden är känd för sin hamn, Liseberg och Volvo."
+    "explanation": "Göteborg är Sveriges näst folkrikaste stad med drygt 590 000 invånare i kommunen. Staden är känd för sin hamn, Liseberg och Volvo.",
+    "difficulty": "easy"
   },
   {
     "id": 11,
     "question": "Var möts Sverige, Norge och Finland vid en gemensam gränspunkt?",
     "options": ["Karesuando", "Treriksröset", "Kilpisjärvi", "Pajala"],
     "correctIndex": 1,
-    "explanation": "Treriksröset är den punkt i Lappland där Sverige, Norge och Finland möts. Gränsmärket är placerat i en sjö och nås med båt."
+    "explanation": "Treriksröset är den punkt i Lappland där Sverige, Norge och Finland möts. Gränsmärket är placerat i en sjö och nås med båt.",
+    "difficulty": "hard"
   },
   {
     "id": 12,
     "question": "Vilket älvsystem är det längsta i Sverige?",
     "options": ["Dalälven", "Ångermanälven", "Klarälven–Göta älv", "Luleälven"],
     "correctIndex": 2,
-    "explanation": "Klarälven–Göta älv är med sina ca 720 km det längsta sammanhängande älvsystemet i Sverige, från källorna i Norges fjäll till utloppet i Göteborg."
+    "explanation": "Klarälven–Göta älv är med sina ca 720 km det längsta sammanhängande älvsystemet i Sverige, från källorna i Norges fjäll till utloppet i Göteborg.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "question": "Vilket sund skiljer Sverige (Skåne) från Danmark?",
+    "options": ["Kattegatt", "Öresund", "Bälthavet", "Skagerrak"],
+    "correctIndex": 1,
+    "explanation": "Öresund är det smala sund som skiljer Sverige från Danmark. Öresundsbron, invigd år 2000, förbinder Malmö med Köpenhamn.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "I vilket landskap ligger Kiruna, Sveriges nordligaste stad?",
+    "options": ["Lappland", "Norrbotten", "Jämtland", "Ångermanland"],
+    "correctIndex": 0,
+    "explanation": "Kiruna i Lappland är känd för LKAB:s järnmalmsgruva, en av världens största underjordsgruvor. Delar av staden har fysiskt förflyttats på grund av gruvans expansion.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 15,
+    "question": "Vilket UNESCO-världsarv längs Norrlandskusten är känt för dramatisk landhöjning efter istiden?",
+    "options": ["Laponia", "Höga Kusten", "Södra Ölands odlingslandskap", "Engelsberg"],
+    "correctIndex": 1,
+    "explanation": "Höga Kusten i Ångermanland är ett UNESCO-världsarv och ett av världens bästa exempel på postglaciala landhöjning. Kuststräckan präglas av branta klippor och djupa fjärdar.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "Vilket är Nordens folkrikaste stad?",
+    "options": ["Oslo", "Stockholm", "Köpenhamn", "Helsingfors"],
+    "correctIndex": 1,
+    "explanation": "Stockholm är Nordens folkrikaste stad med drygt en miljon invånare i kommunen och över 2 miljoner i storstadsregionen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "I vilken småländsk stad grundades IKEA och öppnades dess första butik 1958?",
+    "options": ["Kalmar", "Växjö", "Älmhult", "Jönköping"],
+    "correctIndex": 2,
+    "explanation": "Älmhult i Småland är hemort för IKEA:s allra första varuhus, öppnat 1958, och IKEA Museum. Ingvar Kamprad grundade IKEA 1943 i samma ort.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 18,
+    "question": "Vilken är Sveriges näst till ytan största sjö?",
+    "options": ["Mälaren", "Vättern", "Hjälmaren", "Storsjön"],
+    "correctIndex": 1,
+    "explanation": "Vättern är Sveriges näst största sjö med en yta på ca 1 912 km². Den är känd för sitt kristallklara, kalla vatten och är en viktig dricksvattentäkt för regionen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "På vilken ö i Östersjön ligger den välbevarade medeltidsstaden Visby, ett UNESCO-världsarv?",
+    "options": ["Öland", "Gotland", "Fårö", "Visingsö"],
+    "correctIndex": 1,
+    "explanation": "Visby på Gotland är en av Nordens bäst bevarade medeltidsstäder och ett UNESCO-världsarv sedan 1995. Staden omges av en välbevarad ringmur från 1200-talet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "question": "Vilket landskap kallas ofta 'Sveriges kornbod' på grund av sin bördiga jordbruksmark?",
+    "options": ["Skåne", "Östergötland", "Halland", "Uppland"],
+    "correctIndex": 0,
+    "explanation": "Skåne i södra Sverige är känt för sin bördiga jordbruksmark och kallas ibland 'Sveriges kornbod'. Regionen producerar en stor del av landets spannmål, socker och grönsaker.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "question": "I vilket landskap ligger den ledande svenska alpinska skidorten Åre?",
+    "options": ["Dalarna", "Härjedalen", "Jämtland", "Lappland"],
+    "correctIndex": 2,
+    "explanation": "Åre i Jämtland är Sveriges och Skandinaviens ledande alpinska skidort. Åre har arrangerat VM i alpin skidåkning och är känt för sina pistor och livliga vintersportliv.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "Vad heter den gränsälv som till stora delar utgör gränsen mellan Sverige och Finland?",
+    "options": ["Torneälven", "Klarälven", "Umeälven", "Luleälven"],
+    "correctIndex": 0,
+    "explanation": "Torneälven (och Muonioälven) utgör till stora delar gränsen mellan Sverige och Finland. Gränsstäderna Haparanda (Sverige) och Torneå (Finland) möts vid älvens mynning i Bottenviken.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "Vilken är Sveriges till ytan största ö?",
+    "options": ["Gotland", "Öland", "Orust", "Hisingen"],
+    "correctIndex": 0,
+    "explanation": "Gotland är med sina ca 2 994 km² Sveriges till ytan största ö. Öland är näst störst (ca 1 347 km²), och Orust är den tredje största.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "Vilket hav bildar Sveriges östra kustgräns från Skåne upp till Norrbotten?",
+    "options": ["Nordsjön", "Västerhavet", "Östersjön", "Barentshavet"],
+    "correctIndex": 2,
+    "explanation": "Östersjön (inklusive Bottenhavet och Bottenviken i norr) bildar Sveriges östra kustgräns. Det är ett av världens största brackvattensbassänger och är nästan inneslutet av land.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 25,
+    "question": "Vilken liten by i Lappland är känd för Icehotel, som byggs av is och snö varje vinter?",
+    "options": ["Kiruna", "Gällivare", "Jukkasjärvi", "Abisko"],
+    "correctIndex": 2,
+    "explanation": "Jukkasjärvi i Lappland är hemort för världens första Icehotel, grundat 1989. Det byggs upp varje vinter av is och snö från Torneälven och smälter varje vår. Byn ligger 17 km öster om Kiruna.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "I vilken del av Sverige ser man bäst norrsken (aurora borealis)?",
+    "options": ["Skåne", "Dalarna", "Lappland och Norrbotten", "Gotland"],
+    "correctIndex": 2,
+    "explanation": "Norrsken syns bäst i norra Sverige, framförallt i Lappland och Norrbotten norr om polcirkeln. Platser som Abisko är världsberömda för sina exceptionella norrskensmöjligheter tack vare klart klimat och liten ljusföroreningar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "question": "Vilket landskap längs Västkusten är känt för sin karga klippkust, hällristningar och fiskelägen?",
+    "options": ["Halland", "Bohuslän", "Skåne", "Blekinge"],
+    "correctIndex": 1,
+    "explanation": "Bohuslän på västkusten är känt för sin karakteristiska rosa-grå klippkust, välbevarade fiskelägen och tusentals hällristningar från bronsåldern, bland annat vid Tanum (UNESCO-världsarv sedan 1994).",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "I vilken stad grundades bilfabrikanten SAAB 1937 och producerade bilar fram till 2011?",
+    "options": ["Göteborg", "Linköping", "Trollhättan", "Skövde"],
+    "correctIndex": 2,
+    "explanation": "SAAB (Svenska Aeroplan AB) grundades 1937 i Trollhättan, Västergötland. Bilfabriken producerade personbilar 1949–2011 och var en viktig del av stadens ekonomi. Trollhättan kallas ibland 'Trollywood' tack vare sin filmstudio.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "Vilket är Sveriges till ytan största och nordligaste län?",
+    "options": ["Jämtlands län", "Västernorrlands län", "Norrbottens län", "Västerbottens län"],
+    "correctIndex": 2,
+    "explanation": "Norrbottens län är till ytan Sveriges största och nordligaste län och täcker ungefär en fjärdedel av landets yta. Residensstad är Luleå. Länet gränsar till Norge i väster och Finland i öster.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "Hur många landskap (historiska provinser) finns det i Sverige?",
+    "options": ["21", "25", "29", "34"],
+    "correctIndex": 1,
+    "explanation": "Sverige är indelat i 25 landskap (historiska provinser) som saknar administrativ funktion men är viktiga för kulturell identitet och folklig tillhörighet. De delas in i Götaland, Svealand och Norrland.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 31,
+    "question": "Vilket stort naturområde i norra Sverige utsågs till UNESCO-världsarv 1996 och är ett av Europas sista vildmarker?",
+    "options": ["Sarek nationalpark", "Abisko", "Laponia", "Padjelanta"],
+    "correctIndex": 2,
+    "explanation": "Laponia i Norrbotten utsågs till UNESCO-världsarv 1996 och är ett av Europas sista och största vildmarksområden. Det täcker ca 9 400 km² och innefattar fyra nationalparker, bland dem Sarek och Padjelanta.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 32,
+    "question": "Vilket kungligt slott utanför Stockholm är ett UNESCO-världsarv och den svenska kungafamiljens officiella bostadspalats?",
+    "options": ["Gripsholms slott", "Skokloster slott", "Drottningholms slott", "Läckö slott"],
+    "correctIndex": 2,
+    "explanation": "Drottningholms slott på Lovön i Mälaren är kung Carl XVI Gustafs officiella bostadspalats och utsågs till UNESCO-världsarv 1991. Slottet med sin barockträdgård och det välbevarade slottsteatern är ett av landets populäraste turistmål.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "Vilket år invigdes Öresundsbron som förbinder Sverige och Danmark?",
+    "options": ["1995", "1998", "2000", "2003"],
+    "correctIndex": 2,
+    "explanation": "Öresundsbron invigdes den 1 juli 2000 och förbinder Malmö med Köpenhamn. Den är 7,8 km lång och består av en kombinerad väg- och järnvägsbro. Bron är en av Europas längsta kombinerade väg- och järnvägsbroar.",
+    "difficulty": "medium"
   }
 ]

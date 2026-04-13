@@ -1,12 +1,12 @@
 {
-  "version": "1",
+  "version": "4",
   "topics": {
-    "historia": "1",
-    "geografi": "1",
-    "kultur": "1",
-    "mat": "1",
-    "traditioner": "1",
-    "sprak": "1",
-    "politik": "1"
+    "historia": "4",
+    "geografi": "4",
+    "kultur": "4",
+    "mat": "4",
+    "traditioner": "4",
+    "sprak": "4",
+    "politik": "4"
   }
 }

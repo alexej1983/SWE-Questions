@@ -4,76 +4,255 @@
     "question": "Vad firar man egentligen på midsommar i Sverige?",
     "options": ["Karl den stores födelsedag", "Sommarsolståndet", "Olof den heliges minnesdag", "Lövsprickningen"],
     "correctIndex": 1,
-    "explanation": "Midsommar firas kring sommarsolståndet, den längsta dagen på året. Midsommarafton infaller alltid en fredag mellan 19 och 25 juni."
+    "explanation": "Midsommar firas kring sommarsolståndet, den längsta dagen på året. Midsommarafton infaller alltid en fredag mellan 19 och 25 juni.",
+    "difficulty": "easy"
   },
   {
     "id": 2,
     "question": "Vilken sång sjunger man traditionellt runt midsommarstången?",
     "options": ["Helan går", "Trollmors vaggsång", "Små grodorna", "Du gamla, du fria"],
     "correctIndex": 2,
-    "explanation": "Små grodorna (eller Små grodors) sjungs medan man hoppar som grodor runt midsommarstången. Melodin liknar den franska barnlåten 'Ainsi font les petites marionnettes'."
+    "explanation": "Små grodorna sjungs medan man hoppar som grodor runt midsommarstången. Melodin liknar den franska barnlåten 'Ainsi font les petites marionnettes'.",
+    "difficulty": "easy"
   },
   {
     "id": 3,
     "question": "Vilket datum firas Lucia i Sverige varje år?",
     "options": ["10 december", "13 december", "21 december", "24 december"],
     "correctIndex": 1,
-    "explanation": "Lucia firas den 13 december till minne av den sicilianska martyren Sankta Lucia. I Sverige är det en tradition med ljuståg, lussebullar och luciatåg i skolor och kyrkor."
+    "explanation": "Lucia firas den 13 december till minne av den sicilianska martyren Sankta Lucia. I Sverige är det en tradition med ljuståg, lussebullar och luciatåg i skolor och kyrkor.",
+    "difficulty": "easy"
   },
   {
     "id": 4,
     "question": "Vilket datum firas Sveriges nationaldag?",
     "options": ["1 maj", "6 juni", "17 juni", "4 november"],
     "correctIndex": 1,
-    "explanation": "Sveriges nationaldag firas den 6 juni, till minne av Gustav Vasas kröning år 1523 och antagandet av 1809 års regeringsform. Dagen blev officiell röd dag år 2005."
+    "explanation": "Sveriges nationaldag firas den 6 juni, till minne av Gustav Vasas kröning år 1523 och antagandet av 1809 års regeringsform. Dagen blev officiell röd dag år 2005.",
+    "difficulty": "medium"
   },
   {
     "id": 5,
-    "question": "Vad kallas traditionen när barn klär ut sig till 'påskkärringar' i Sverige?",
+    "question": "Vad kallas traditionen när svenska barn klär ut sig till 'påskkärringar' och knackar dörr mot godis?",
     "options": ["Fastelavn", "Påskvandring", "Påskklädsel", "Påskgubbar"],
     "correctIndex": 2,
-    "explanation": "På påskafton klär sig svenska barn ut till påskkärringar – med kjol, schalett och röda kinder – och knackar dörr för att byta teckningar mot godis."
+    "explanation": "På påskafton klär sig svenska barn ut till påskkärringar – med kjol, schalett och röda kinder – och knackar dörr för att byta teckningar mot godis.",
+    "difficulty": "medium"
   },
   {
     "id": 6,
     "question": "Vad är 'kräftskiva'?",
     "options": ["En dans under midsommar", "En middag där man äter kräftor och sjunger snapsvisor", "En folklig teaterform", "En typ av bröllopsfest"],
     "correctIndex": 1,
-    "explanation": "Kräftskivan är en sommarfest i slutet av juli och i hela augusti, där man äter kräftor med dill, dricker snaps och sjunger snapsvisor under lyktor med månmotiv."
+    "explanation": "Kräftskivan är en sommarfest i slutet av juli och hela augusti, där man äter kräftor med dill, dricker snaps och sjunger snapsvisor under lyktor med månmotiv.",
+    "difficulty": "easy"
   },
   {
     "id": 7,
-    "question": "Hur många adventsljus tänd man traditionellt under adventsperioden?",
+    "question": "Hur många adventsljus tänder man traditionellt under adventsperioden?",
     "options": ["Två", "Tre", "Fyra", "Sju"],
     "correctIndex": 2,
-    "explanation": "Under advent tänds ett ljus i stearinljusstaken per söndag, så att alla fyra ljusen brinner på fjärde advent, strax innan julafton."
+    "explanation": "Under advent tänds ett ljus per söndag, så att alla fyra ljusen brinner på fjärde advent, strax innan julafton.",
+    "difficulty": "medium"
   },
   {
     "id": 8,
-    "question": "Vad kallas den svenska söndagstradition där man badar bastu och sedan äter middag med familjen?",
+    "question": "Vad kallas den moderna svenska fredagstraditionen med chips, dipp och TV ihop med familjen?",
     "options": ["Söndagsmys", "Fredagsmys", "Lördagsmys", "Söndagsfika"],
     "correctIndex": 1,
-    "explanation": "Fredagsmys är en modern svensk tradition där familjen samlas för att koppla av med chips, dipp och TV på fredagskvällen. Begreppet myntades av OLW på 1990-talet."
+    "explanation": "Fredagsmys är en modern svensk tradition där familjen samlas för att koppla av med chips, dipp och TV på fredagskvällen. Begreppet myntades av OLW på 1990-talet.",
+    "difficulty": "hard"
   },
   {
     "id": 9,
     "question": "Vilken maträtt äter man traditionellt på julafton i Sverige?",
     "options": ["Sill och potatis", "Revbensspjäll", "Julbord med diverse rätter", "Risgrynsgröt"],
     "correctIndex": 2,
-    "explanation": "Det svenska julbordet är en buffé med klassiker som julskinka, köttbullar, prinskorv, Janssons frestelse, sill och risgrynsgröt. Julafton den 24 december är den stora festhögtiden."
+    "explanation": "Det svenska julbordet är en buffé med klassiker som julskinka, köttbullar, prinskorv, Janssons frestelse, sill och risgrynsgröt. Julafton den 24 december är den stora festhögtiden.",
+    "difficulty": "medium"
   },
   {
     "id": 10,
-    "question": "Vad kallas den ljusstake med sju armar som ofta syns i svenska fönster under advent?",
+    "question": "Vad kallas den sjuarmade ljusstaken som ofta syns i svenska fönster under advent?",
     "options": ["Menora", "Adventsstjärna", "Julbelysning", "Sjuarmad ljusstake"],
     "correctIndex": 3,
-    "explanation": "Den sjuarmade ljusstaken (elektrisk eller med stearin) är ett vanligt inslag i svenska fönster under advent och jul. Formen är inspirerad av den judiska menorahformen men saknar religiös judisk koppling i svensk tradition."
+    "explanation": "Den sjuarmade ljusstaken är ett vanligt inslag i svenska fönster under advent och jul. Formen är inspirerad av den judiska menorahformen men saknar religiös judisk koppling i svensk tradition.",
+    "difficulty": "hard"
   },
   {
     "id": 11,
-    "question": "På vilken högtid bär man traditionellt björkris med fjädrar i fönstren?",
+    "question": "På vilken högtid pyntar man traditionellt med björkris och fjädrar i Sverige?",
     "options": ["Midsommar", "Påsk", "Valborg", "Lucia"],
     "correctIndex": 1,
-    "explanation": "Till påsk pyntar man traditionellt med fjädrar, gula kycklingar och björkris i vaser. Påskdekorationen välkomnar våren och har rötter i både kristna och förkristna traditioner."
+    "explanation": "Till påsk pyntar man traditionellt med fjädrar, gula kycklingar och björkris i vaser. Påskdekorationen välkomnar våren och har rötter i både kristna och förkristna traditioner.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 12,
+    "question": "Vilket datum firas Valborgsmässoafton i Sverige, med brasor och vårfirande?",
+    "options": ["23 april", "30 april", "1 maj", "24 juni"],
+    "correctIndex": 1,
+    "explanation": "Valborgsmässoafton firas den 30 april och markerar att våren kommit. Stora brasor tänds och studenter firar i universitetsstäder som Uppsala och Lund.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "Vad är 'allemansrätten'?",
+    "options": ["Rätten att jaga på annans mark", "Rätten att röra sig fritt i naturen och plocka bär och svamp", "Rätten att fiska i alla vatten", "Rätten att bygga på obebyggd mark"],
+    "correctIndex": 1,
+    "explanation": "Allemansrätten är en nordisk rättslig princip som ger alla rätt att röra sig i naturen, plocka bär och svamp och slå läger tillfälligt, oavsett vem som äger marken – så länge man inte stör eller förstör.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "Vad kallas gymnasieelevernas traditionella firande av sista skoldagen med vita mössor?",
+    "options": ["Studenten", "Skolavslutning", "Dimission", "Gymnasiefesten"],
+    "correctIndex": 0,
+    "explanation": "'Studenten' firas av gymnasieelever som tar studenten. De bär sina vita studentmössor och åker kortege på öppna lastbilar. Det är en stor tradition med firande tillsammans med familj och vänner.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "Vilken traditionell träskulptur från Dalarna är ett av Sveriges mest kända symboler?",
+    "options": ["Nyckelharpa", "Dalmålning", "Dalmasen", "Dalahäst"],
+    "correctIndex": 3,
+    "explanation": "Dalahästen är en traditionell träskulptur från Dalarna, vanligen röd med typisk kurbits-dekoration. Den är ett av Sveriges mest igenkända symboler och exporteras som souvenirprodukt världen över.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 16,
+    "question": "I vilken byggnad hålls den berömda Nobelbanquetten varje år den 10 december?",
+    "options": ["Kungliga slottet", "Drottningholms slott", "Stockholms stadshus", "Berns salonger"],
+    "correctIndex": 2,
+    "explanation": "Nobelbanquetten hålls i Stockholms stadshus varje år den 10 december – Alfred Nobels dödsdag. Det är en av världens mest ansedda middagsbjudningar med nobelpristagarna och ca 1 300 gäster.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "Varifrån kommer den röda Faluröda färgen som används på traditionella svenska stugor?",
+    "options": ["Den är en syntetisk färg från 1900-talet", "Den är en biprodukt från koppargruvan i Falun", "Den importerades från Holland på 1600-talet", "Den tillverkas av lingonbär"],
+    "correctIndex": 1,
+    "explanation": "Faluröd är en röd slamfärg som ursprungligen framställdes som en biprodukt från koppargruvan i Falun, Dalarna. Rödfärgade trähus är ett av de mest igenkänbara inslagen i det svenska kulturlandskapet.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "Vilket nationellt skidlopp på 90 km i Dalarna är världens äldsta och längsta skidtävling?",
+    "options": ["Birkebeinerrennet", "Vasaloppet", "Nordenskiöldsloppet", "Fjällmaraton"],
+    "correctIndex": 1,
+    "explanation": "Vasaloppet, arrangerat sedan 1922 i Dalarna, är världens äldsta och längsta skidtävling. Loppet är 90 km och går från Sälen till Mora. Det inspirerades av Gustav Vasas flykt 1521 och samlar upp till 15 000 åkare.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "question": "Vilket datum firas Våffeldagen i Sverige varje år?",
+    "options": ["1 mars", "25 mars", "1 april", "Annandag påsk"],
+    "correctIndex": 1,
+    "explanation": "Våffeldagen firas den 25 mars, samma dag som Jungfru Marie bebådelsedag (Maridag). Folkligt hördes 'Vårfrudagen' som 'Våffeldagen', och sedan uppstod traditionen att äta våfflor med grädde och sylt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "Vad kallas den tradition som markerar julens slut den 13 januari, då man 'plundrar' julgran och äter upp julgodiset?",
+    "options": ["Trettondag jul", "Tjugondag Knut", "Helgedag Birgitta", "Kyndelsmässan"],
+    "correctIndex": 1,
+    "explanation": "Tjugondag Knut (den 13 januari) markerar slutet på julperioden. Traditionen inkluderar 'julgransplundring' – man tar ner granen, äter upp kvarvarande julgodiset och dansar runt granen en sista gång.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "Vad kallas den gammal midsommartradition där man plockar sju sorters blommor och lägger dem under kudden?",
+    "options": ["Blomsterdansen", "Sju blommors spådom", "Midsommarkransen", "Kärleksspådom"],
+    "correctIndex": 1,
+    "explanation": "En gammal midsommartradition säger att om man plockar sju sorters blommor och lägger dem under kudden på midsommarnatten, drömmer man om sin blivande make/maka. Traditionen är särskilt populär bland unga.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "question": "Vad kallas den program som sänds på SVT kl. 15:00 varje julafton och ses av miljontals tittare?",
+    "options": ["Julottan", "Kalle Anka och hans vänner önskar God Jul", "Julkalendern", "Melodifestivalen"],
+    "correctIndex": 1,
+    "explanation": "'Kalle Anka och hans vänner önskar God Jul' har sänts på SVT kl. 15:00 på julafton sedan 1960 och ses av uppskattningsvis 3–4 miljoner tittare varje år. Det är en av Sveriges mest sedda TV-sändningar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "question": "Vad kallas den typiska svenska tradition att ge bort presenter inslagna med roliga gåtfulla rim?",
+    "options": ["Julhälsning", "Klapprim", "Presentkort", "Julkula"],
+    "correctIndex": 1,
+    "explanation": "Klapprim är korta, roliga eller gåtfulla verser som skrivs på julklappspaketen för att dölja vem givaren är och göra det svårare att gissa innehållet. Det är en etablerad jultradition i Sverige.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "question": "Vilket datum infaller 'Allhelgonadagen' i Sverige, då man tänder ljus på gravar?",
+    "options": ["1 november", "Lördagen närmast 1 november", "31 oktober", "2 november"],
+    "correctIndex": 1,
+    "explanation": "Allhelgonadagen firas i Sverige på lördagen närmast den 1 november. Det är en högtid för att minnas avlidna, och traditionen att tända ljus på gravar är djupt förankrad i svensk kultur.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "Hur tillverkar man en traditionell midsommarkrans?",
+    "options": ["Man köper en prefabricerad blomsterkrans", "Man flätar vildblommor och gröna kvistar på en ring av metalltråd", "Man köper en krans av björkris", "Man binder samman torkade blommor"],
+    "correctIndex": 1,
+    "explanation": "En traditionell midsommarkrans tillverkas genom att fläta och binda in vildblommor, löv och gröna kvistar på en ring. Det är en aktivitet som många familjer gör tillsammans på midsommaraftonen, ofta med barnen som plockar blomstren.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "question": "Under vilken månad tar de flesta svenska industriarbetare semester, en tradition känd som 'industrisemestern'?",
+    "options": ["Juni", "Juli", "Augusti", "September"],
+    "correctIndex": 1,
+    "explanation": "Industrisemestern infaller traditionellt i juli, då stora delar av industrin stänger ner för gemensam semester. Traditionen skapades på 1930–40-talen och innebär att hela Sverige verkar gå på semester samtidigt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "Vad är 'Folkets hus' i svensk tradition?",
+    "options": ["En typ av folkskola", "Samlingslokaler ägda av arbetarrörelsen för möten och kultur", "En typ av kooperativt boende", "Riksdagens sessionshus"],
+    "correctIndex": 1,
+    "explanation": "Folkets hus är samlingslokaler som byggdes av arbetarrörelsen i hela Sverige från slutet av 1800-talet. De användes för politiska möten, teaterföreställningar, dans och föreningsliv och är ett unikt inslag i svensk folkrörelsekultur.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 28,
+    "question": "Hur många sorters kakor ska man traditionellt bjuda på vid ett kalas enligt den klassiska svenska traditionen?",
+    "options": ["Fyra", "Fem", "Sju", "Tio"],
+    "correctIndex": 2,
+    "explanation": "'Sju sorters kakor' är ett klassiskt begrepp i svensk kaffekultur och beskriver ett assortiment av sju olika sorters småkakor som bjuds på kalas. Det finns en klassisk kokbok med samma namn och konceptet symboliserar en generös värdinna.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "question": "Vad kallas den svenska traditionen där man tror att häxor flyger till Blåkulla på påskafton?",
+    "options": ["Häxsabbat", "Påskritualerna", "Blåkullaflykten", "Påskhäxorna"],
+    "correctIndex": 2,
+    "explanation": "Enligt svensk folktro flög häxor till Blåkulla (en mytisk ö) på påskafton för att festa med djävulen. Det är ursprunget till att barn klär ut sig till påskhäxor. Traditionen har rötter i 1600-talets häxprocesser.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 30,
+    "question": "Vad är 'Majblomman' i Sverige?",
+    "options": ["En vårblomma som blommar i maj", "En välgörenhetsinsamling för barn där skolelever säljer pappersblommor", "En sommarfestival i Dalarna", "En traditionell dans på Valborg"],
+    "correctIndex": 1,
+    "explanation": "Majblomman är en av Sveriges äldsta välgörenhetsorganisationer, grundad 1907. Varje vår säljer skolelever pappersblommor (majblommor) och pengarna går till barn i behov. Det är en djupt inrotad tradition i svenska skolor.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 31,
+    "question": "Vad kallas den halmbock som traditionellt ställs upp i svenska hem och städer inför jul?",
+    "options": ["Julnissen", "Tomten", "Julbocken", "Strågubbe"],
+    "correctIndex": 2,
+    "explanation": "Julbocken är en traditionell julprydnad gjord av halm och röda band. Äldre än jultomten som julgestalt, representerade bocken ursprungligen en hednisk symbol. Den stora julbocken i Gävle (uppförd sedan 1966) är världsberömd – och regelbundet nedbränd av vandaler.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "Vad heter det populära svenska spelet som spelas med träklossar på en bräda i lag och kallas 'kubb'?",
+    "options": ["Boule", "Kubb", "Boulespel", "Brädgatan"],
+    "correctIndex": 1,
+    "explanation": "Kubb är ett traditionellt svenska utomhusspel där man kastar trästavar för att välta motståndarlagets träklossar (kubbar) och slutligen fälla 'kungen' i mitten. Spelet är populärt vid midsommar och andra sommartillställningar.",
+    "difficulty": "easy"
   }
 ]

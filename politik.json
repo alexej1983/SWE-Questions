@@ -4,76 +4,255 @@
     "question": "Hur många ledamöter har Sveriges riksdag?",
     "options": ["299", "329", "349", "389"],
     "correctIndex": 2,
-    "explanation": "Riksdagen har 349 ledamöter som väljs vart fjärde år i allmänna val. Antalet fastslogs i 1974 års regeringsform."
+    "explanation": "Riksdagen har 349 ledamöter som väljs vart fjärde år i allmänna val. Antalet fastslogs i 1974 års regeringsform.",
+    "difficulty": "hard"
   },
   {
     "id": 2,
-    "question": "Vilket år fick svenska kvinnor rösträtt?",
+    "question": "Vilket år fick svenska kvinnor rösträtt i riksdagsval?",
     "options": ["1906", "1914", "1921", "1928"],
     "correctIndex": 2,
-    "explanation": "Svensk kvinnlig rösträtt i riksdagsval trädde i kraft 1921. Sverige var relativt sent jämfört med t.ex. Finland (1906) och Norge (1913)."
+    "explanation": "Svensk kvinnlig rösträtt i riksdagsval trädde i kraft 1921. Sverige var relativt sent jämfört med t.ex. Finland (1906) och Norge (1913).",
+    "difficulty": "medium"
   },
   {
     "id": 3,
     "question": "Vilket år gick Sverige med i Europeiska unionen (EU)?",
     "options": ["1993", "1995", "1997", "2001"],
     "correctIndex": 1,
-    "explanation": "Sverige gick med i EU den 1 januari 1995 efter att en folkomröstning i november 1994 gav ett ja-resultat med 52,3 procent."
+    "explanation": "Sverige gick med i EU den 1 januari 1995 efter att en folkomröstning i november 1994 gav ett ja-resultat med 52,3 procent.",
+    "difficulty": "easy"
   },
   {
     "id": 4,
     "question": "Vad kallas den svenska principen om allmänhetens rätt att ta del av offentliga handlingar?",
     "options": ["Yttrandefriheten", "Offentlighetsprincipen", "Informationsfriheten", "Transparensprincipen"],
     "correctIndex": 1,
-    "explanation": "Offentlighetsprincipen, som regleras i tryckfrihetsförordningen (1766), ger var och en rätt att ta del av allmänna handlingar hos myndigheter. Sverige var det första landet i världen med en sådan lag."
+    "explanation": "Offentlighetsprincipen, reglerad i tryckfrihetsförordningen (1766), ger var och en rätt att ta del av allmänna handlingar hos myndigheter. Sverige var det första landet i världen med en sådan lag.",
+    "difficulty": "hard"
   },
   {
     "id": 5,
     "question": "Vilken statsminister mördades på Sveavägen i Stockholm den 28 februari 1986?",
     "options": ["Tage Erlander", "Ingvar Carlsson", "Olof Palme", "Carl Bildt"],
     "correctIndex": 2,
-    "explanation": "Olof Palme sköts till döds den 28 februari 1986 efter en biovisning. Mordet är en av de mest omskrivna brottmålsutredningarna i svensk historia och förblev länge officiellt olöst."
+    "explanation": "Olof Palme sköts till döds den 28 februari 1986 efter en biovisning. Mordet är en av de mest omskrivna brottmålsutredningarna i svensk historia och förblev länge officiellt olöst.",
+    "difficulty": "easy"
   },
   {
     "id": 6,
     "question": "Hur utses Sveriges statsminister?",
     "options": ["Genom direktval av folket", "Av kungen", "Av riksdagen via talmannen", "Av statsråden gemensamt"],
     "correctIndex": 2,
-    "explanation": "Talmannen föreslår en statsministerkandidat som riksdagen sedan röstar om. Om inte fler än hälften av ledamöterna röstar nej, godkänns kandidaten."
+    "explanation": "Talmannen föreslår en statsministerkandidat som riksdagen sedan röstar om. Om inte fler än hälften av ledamöterna röstar nej, godkänns kandidaten.",
+    "difficulty": "medium"
   },
   {
     "id": 7,
-    "question": "Vilket år antog Sverige sin nuvarande grundlag, regeringsformen?",
+    "question": "Vilket år antog Sverige sin nuvarande regeringsform?",
     "options": ["1809", "1917", "1974", "1995"],
     "correctIndex": 2,
-    "explanation": "Den nuvarande regeringsformen trädde i kraft 1974 och ersatte 1809 års regeringsform. Den slår bl.a. fast att all offentlig makt utgår från folket."
+    "explanation": "Den nuvarande regeringsformen trädde i kraft 1974 och ersatte 1809 års regeringsform. Den slår bl.a. fast att all offentlig makt utgår från folket.",
+    "difficulty": "hard"
   },
   {
     "id": 8,
-    "question": "Vilket politiskt parti är det äldsta i Sverige?",
+    "question": "Vilket politiskt parti är det äldsta i Sverige, grundat 1889?",
     "options": ["Moderaterna", "Centerpartiet", "Socialdemokraterna", "Liberalerna"],
     "correctIndex": 2,
-    "explanation": "Sveriges socialdemokratiska arbetareparti (SAP), grundat 1889, är det äldsta av de nuvarande riksdagspartierna och har styrt Sverige under större delen av 1900-talet."
+    "explanation": "Sveriges socialdemokratiska arbetareparti (SAP), grundat 1889, är det äldsta av de nuvarande riksdagspartierna och har styrt Sverige under större delen av 1900-talet.",
+    "difficulty": "medium"
   },
   {
     "id": 9,
-    "question": "Vilket år ansökte Sverige om NATO-medlemskap?",
+    "question": "Vilket år lämnade Sverige in sin NATO-ansökan?",
     "options": ["2021", "2022", "2023", "2024"],
     "correctIndex": 1,
-    "explanation": "Sverige lämnade in sin NATO-ansökan i maj 2022, efter Rysslands invasion av Ukraina, och bröt därmed med sin långvariga militära alliansfrihet. Medlemskapet godkändes formellt i mars 2024."
+    "explanation": "Sverige lämnade in sin NATO-ansökan i maj 2022, efter Rysslands invasion av Ukraina, och bröt därmed med sin långvariga militära alliansfrihet. Medlemskapet godkändes formellt i mars 2024.",
+    "difficulty": "easy"
   },
   {
     "id": 10,
     "question": "Vad kallas det svenska systemet med kollektivavtal mellan arbetsgivare och fackföreningar?",
     "options": ["Saltsjöbadsandan", "Den svenska modellen", "Arbetsfreden", "Korporatism"],
     "correctIndex": 1,
-    "explanation": "Den svenska modellen syftar på det samarbete mellan arbetsgivare, fackföreningar och stat som präglade Sverige under stora delar av 1900-talet, med Saltsjöbadsavtalet 1938 som grund."
+    "explanation": "Den svenska modellen syftar på samarbetet mellan arbetsgivare, fackföreningar och stat som präglade Sverige under stora delar av 1900-talet, med Saltsjöbadsavtalet 1938 som grund.",
+    "difficulty": "medium"
   },
   {
     "id": 11,
     "question": "Hur många grundlagar har Sverige?",
     "options": ["1", "2", "4", "6"],
     "correctIndex": 2,
-    "explanation": "Sverige har fyra grundlagar: regeringsformen, successionsordningen, tryckfrihetsförordningen och yttrandefrihetsgrundlagen. Dessa är svårare att ändra än vanliga lagar."
+    "explanation": "Sverige har fyra grundlagar: regeringsformen, successionsordningen, tryckfrihetsförordningen och yttrandefrihetsgrundlagen. Dessa är svårare att ändra än vanliga lagar.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 12,
+    "question": "Vad kallas dagen den 3 september 1967 då Sverige bytte från vänster- till högertrafik?",
+    "options": ["Dagen V", "Dagen H", "Omläggningsdagen", "Trafikomvändningen"],
+    "correctIndex": 1,
+    "explanation": "Dagen H (Dagen Högertrafik) den 3 september 1967 var Sverige byttes från vänster- till högertrafik. Trots att en folkomröstning 1955 visade 83% stöd för att behålla vänstertrafiken beslutade riksdagen ändå att byta.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "question": "Hur lång är en mandatperiod för riksdagsledamöter i Sverige?",
+    "options": ["3 år", "4 år", "5 år", "6 år"],
+    "correctIndex": 1,
+    "explanation": "Riksdagsledamöter väljs för fyra år. Sverige bytte från treårsmandatperioder till fyraåriga 1994. Val hålls alltid den tredje söndagen i september.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "question": "Vilket parti tillhörde statsministern Olof Palme?",
+    "options": ["Moderaterna", "Folkpartiet", "Socialdemokraterna", "Centerpartiet"],
+    "correctIndex": 2,
+    "explanation": "Olof Palme var socialdemokrat och ledde Sverige under stora delar av 1970- och 1980-talen. Han var statsminister 1969–1976 och 1982–1986.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "question": "Vilket resultat gav folkomröstningen om euron i Sverige 2003?",
+    "options": ["52% ja", "56% nej", "68% nej", "73% nej"],
+    "correctIndex": 1,
+    "explanation": "Den 14 september 2003 röstade 55,9% av svenska folket nej till att byta till euro. Sverige har sedan dess behållit kronan som valuta, trots att landet är skyldigt att gå med i eurozonen som EU-medlem.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "Vilket år blev Sverige det första landet i världen att förbjuda all barnaga, även i hemmet?",
+    "options": ["1966", "1971", "1979", "1989"],
+    "correctIndex": 2,
+    "explanation": "Sverige var 1979 det första landet i världen att förbjuda all barnaga, även i hemmet, genom en ändring i föräldrabalken. Lagen har sedan inspirerat liknande lagstiftning i över 60 länder.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 17,
+    "question": "Vad heter den statliga ombudsman, grundad 1809, som granskar att myndigheter följer lagen?",
+    "options": ["Riksrevisorn", "Justitieombudsmannen (JO)", "Datainspektionen", "Statsrevisionen"],
+    "correctIndex": 1,
+    "explanation": "Justitieombudsmannen (JO), inrättad 1809, är världens äldsta ombudsmannaämbete och granskar att myndigheter och tjänstemän följer lagar och regler. Sverige var det första landet i världen med ett sådant ämbete.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 18,
+    "question": "Vilken lägsta procentandel av rösterna behöver ett parti erhålla för att ta sig in i riksdagen?",
+    "options": ["2%", "4%", "5%", "8%"],
+    "correctIndex": 1,
+    "explanation": "Ett riksdagsparti behöver erhålla minst 4% av de nationella rösterna. Det finns även ett alternativt 12%-spärr i enskilda valkretsar. Spärren hindrar alltför stor fragmentering av riksdagen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 19,
+    "question": "Vilket är ett av Sveriges fem erkända nationella minoritetsfolk?",
+    "options": ["Polacker", "Samer", "Somalier", "Greker"],
+    "correctIndex": 1,
+    "explanation": "Samerna är ett av Sveriges fem erkända nationella minoriteter, tillsammans med sverigefinnar, tornedalingar, romer och judar. Samerna är urfolket med lång historia i Skandinavien och norra Finland.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 20,
+    "question": "Vilket år grundades LO (Landsorganisationen i Sverige), den stora fackliga centralorganisationen?",
+    "options": ["1889", "1898", "1909", "1917"],
+    "correctIndex": 1,
+    "explanation": "LO (Landsorganisationen i Sverige) grundades 1898 och är den stora centralorganisationen för löntagarnas fackföreningar. LO spelade en avgörande roll i att forma den svenska arbetsmarknadsmodellen och välfärdsstaten.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "Vilket parti har regerat Sverige under flest år sedan 1920?",
+    "options": ["Moderaterna", "Socialdemokraterna", "Centerpartiet", "Folkpartiet"],
+    "correctIndex": 1,
+    "explanation": "Socialdemokraterna har regerat Sverige under de flesta åren sedan 1920 och styrde nästan utan avbrott 1936–1976. De anses ha format den moderna svenska välfärdsstaten.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 22,
+    "question": "Vilket år avskaffades monarkens politiska makt i Sverige och kungen blev enbart en statlig symbol?",
+    "options": ["1954", "1966", "1974", "1980"],
+    "correctIndex": 2,
+    "explanation": "Genom 1974 års regeringsform, som trädde i kraft 1975, avskaffades monarkens politiska makt helt. Kungen har sedan dess enbart ceremoniella funktioner och statsministern utses av riksdagen via talmannen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 23,
+    "question": "Vad heter den svenska statliga TV-kanalen som grundades 1956 och finansieras av public service-avgift?",
+    "options": ["TV3", "SVT", "Kanal 5", "TV4"],
+    "correctIndex": 1,
+    "explanation": "SVT (Sveriges Television) grundades 1956 och är Sveriges public service-TV-bolag. Det finansieras av en public service-avgift och ska erbjuda opartisk nyhetsrapportering och ett brett programutbud för hela befolkningen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "question": "Vad kallas den svenska principen att domstolar och myndigheter ska behandla alla medborgare lika inför lagen?",
+    "options": ["Legalitetsprincipen", "Likhetsprincipen", "Rättsstatsprincipen", "Proportionalitetsprincipen"],
+    "correctIndex": 1,
+    "explanation": "Likhetsprincipen (eller likhetsgrundsatsen) föreskriver att myndigheter ska behandla lika fall lika utan godtycke eller favoritism. Den är inskriven i 1 kap. 9 § regeringsformen och är en hörnsten i den svenska rättsstaten.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "Vilket år antog Sverige världens första tryckfrihetslag, Tryckfrihetsförordningen?",
+    "options": ["1734", "1766", "1809", "1832"],
+    "correctIndex": 1,
+    "explanation": "Tryckfrihetsförordningen antogs 1766, under frihetstiden, och är världens äldsta tryckfrihetslag. Den lade grunden för pressfriheten och offentlighetsprincipen i Sverige och är fortfarande en av Sveriges fyra grundlagar.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "Vilket av dessa är ett typiskt ansvarsområde för svenska kommuner?",
+    "options": ["Försvaret", "Grundskola och äldreomsorg", "Utrikespolitiken", "Riksbanken"],
+    "correctIndex": 1,
+    "explanation": "Svenska kommuner ansvarar för grundläggande välfärdstjänster som grundskola, förskola, äldreomsorg och socialtjänst. Kommunerna finansieras huvudsakligen via kommunalskatt och statsbidrag.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 27,
+    "question": "Vilken offentlig aktör ansvarar för sjukvård i Sverige?",
+    "options": ["Kommunerna", "Staten direkt", "Regionerna (tidigare landstingen)", "Privata försäkringsbolag"],
+    "correctIndex": 2,
+    "explanation": "Sjukvård i Sverige är ett regionalt ansvar. De 21 regionerna (tidigare kallade landsting) ansvarar för sjukhus, primärvård och tandvård. Systemet finansieras till stor del via regionskatt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "Vilket år grundades Sverigedemokraterna?",
+    "options": ["1979", "1988", "1991", "1995"],
+    "correctIndex": 1,
+    "explanation": "Sverigedemokraterna grundades 1988. Partiet fick riksdagsrepresentation för första gången i valet 2010 med 5,7% av rösterna. Det är nu ett av de större partierna i riksdagen.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "Vilket år grundades Sveriges riksbank, en av världens äldsta centralbanker?",
+    "options": ["1620", "1668", "1718", "1776"],
+    "correctIndex": 1,
+    "explanation": "Sveriges riksbank grundades 1668 och är världens äldsta centralbank i kontinuerlig drift. Den ansvarar för penningpolitiken och prisstabiliteten i Sverige och introducerade världens första sedlar 1661.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "question": "Vilket år hölls folkomröstningen om kärnkraft i Sverige, och vilket beslut fattades på lång sikt?",
+    "options": ["1976, avveckla omgående", "1980, avveckla kärnkraften på sikt", "1985, behålla och bygga ut", "1994, avveckla inom 10 år"],
+    "correctIndex": 1,
+    "explanation": "Kärnkraftsomröstningen hölls 1980 efter Harrisburgolyckan och resulterade i ett beslut om att avveckla kärnkraften på lång sikt. Sverige har sedan dess drivit en komplicerad kärnkraftspolitik där avvecklingsbeslut fattats och återtagits flera gånger.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "question": "Vad innebär legalitetsprincipen i svensk offentlig rätt?",
+    "options": ["Att alla lagar ska skrivas på svenska", "Att myndigheter bara får göra det som lagen tillåter", "Att medborgare aldrig kan straffas", "Att riksdagen alltid har sista ordet"],
+    "correctIndex": 1,
+    "explanation": "Legalitetsprincipen (nullum crimen sine lege) innebär att myndigheter och det allmänna bara får agera med stöd i lag. Ingen kan straffas utan stöd i lag, och myndigheter kan inte ta ut skatter eller begränsa rättigheter utan lagstöd.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "Vad kallas det system i Sverige där medborgare kan skriva under namnlistor för att tvinga riksdagen att debattera en fråga?",
+    "options": ["Folkomröstning", "Medborgarinitiativ", "Remissyttrande", "Direktdemokrati"],
+    "correctIndex": 1,
+    "explanation": "Medborgarinitiativet (sedan 2016) tillåter att en namninsamling med minst 50 000 underskrifter kan lämnas till riksdagen för behandling i ett utskott. Det är en form av direkt demokrati inom det representativa systemet.",
+    "difficulty": "medium"
   }
 ]

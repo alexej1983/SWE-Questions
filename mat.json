@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Vilket är den mest traditionella rätten på det svenska julbordet?",
+    "question": "Vilken är den mest traditionella rätten på det svenska julbordet?",
     "options": ["Lutfisk", "Julskinka", "Kålsoppa", "Köttbullar"],
     "correctIndex": 1,
     "explanation": "Julskinka är julbordets mittpunkt i Sverige och tillagas oftast genom saltning och kokning, ibland med en senapsgratinerad yta.",
@@ -12,7 +12,7 @@
     "question": "Vilket ursprungsland pekades ut som köttbullarnas hemland av det svenska utrikesdepartementet i ett omtalat inlägg 2018?",
     "options": ["Sverige", "Polen", "Turkiet", "Ungern"],
     "correctIndex": 2,
-    "explanation": "Utrikesdepartementet twittrade 2018 att köttbullarna ursprungligen kom från Turkiet, en receptinspiration som Karl XII ska ha tagit med sig hem från sitt exil i Bender (nuvarande Moldavien).",
+    "explanation": "Utrikesdepartementet twittrade 2018 att köttbullarna ursprungligen kom från Turkiet, en receptinspiration som Karl XII ska ha tagit med sig hem från sin exil i Bender (nuvarande Moldavien).",
     "difficulty": "hard"
   },
   {
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "question": "Vad kallas den svenska tradtionen att äta lösgodis ur påse, framförallt på lördagar?",
+    "question": "Vad kallas den svenska traditionen att äta lösgodis ur påse, framförallt på lördagar?",
     "options": ["Söndagsgodis", "Lördagsgodis", "Fredagsmys", "Veckogodis"],
     "correctIndex": 1,
     "explanation": "Lördagsgodis är en inarbetad svensk tradition. Den uppstod på 1950-talet delvis som ett svar på folkhälsokampanjer om att begränsa sockerkonsumtionen till en gång i veckan.",

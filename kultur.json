@@ -65,10 +65,10 @@
   },
   {
     "id": 9,
-    "question": "Vem målade det omstridda monumentalmålninget 'Midvinterblot' (1915), avsett för Nationalmuseum?",
+    "question": "Vem målade det omstridda monumentalmålningen 'Midvinterblot' (1915), avsett för Nationalmuseum?",
     "options": ["Anders Zorn", "Bruno Liljefors", "Carl Larsson", "Ernst Josephson"],
     "correctIndex": 2,
-    "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor fresk avsedd för Nationalmuseum. Tavlan avvisades och såldes till Japan, men återbördades 1987.",
+    "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor oljemålning avsedd för Nationalmuseum. Tavlan avvisades och hamnade i Japan, men förvärvades av Nationalmuseum 1997.",
     "difficulty": "hard"
   },
   {

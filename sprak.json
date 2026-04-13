@@ -4,7 +4,7 @@
     "question": "Hur många vokalbokstäver finns det i det svenska alfabetet?",
     "options": ["5", "7", "9", "11"],
     "correctIndex": 2,
-    "explanation": "Det svenska alfabetet har 9 vokalbokstäver: a, e, i, o, u, y, å, ä och ö. De tre sista är unika för de nordiska språken.",
+    "explanation": "Det svenska alfabetet har 9 vokalbokstäver: a, e, i, o, u, y, å, ä och ö. De tre sista placeras sist i alfabetet och saknar direkta motsvarigheter i engelskan.",
     "difficulty": "medium"
   },
   {
@@ -81,10 +81,10 @@
   },
   {
     "id": 11,
-    "question": "Vilket begrepp används för de tre bokstäverna Å, Ä och Ö i det svenska alfabetet?",
-    "options": ["Digrafer", "Ligaturer", "Specialvokaler", "Tungomål"],
-    "correctIndex": 2,
-    "explanation": "Å, Ä och Ö kallas ibland 'specialvokaler' eller 'svenska vokaler'. De är separata bokstäver som placeras sist i alfabetet och är avgörande för förståelsen av svenska ord.",
+    "question": "Vad kallas den grammatiska form som svenska substantiv antar när de har bestämd artikel, t.ex. 'bil' → 'bilen'?",
+    "options": ["Genitiv", "Bestämd form", "Plural", "Nominativ"],
+    "correctIndex": 1,
+    "explanation": "Bestämd form bildas i svenska genom att en artikel läggs till som suffix (ändelse) på substantivet: 'en bil' → 'bilen', 'ett hus' → 'huset'. Det är ett av de mest utmärkande dragen i svensk grammatik.",
     "difficulty": "hard"
   },
   {

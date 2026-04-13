@@ -4,7 +4,7 @@
     "question": "Hur många ledamöter har Sveriges riksdag?",
     "options": ["299", "329", "349", "389"],
     "correctIndex": 2,
-    "explanation": "Riksdagen har 349 ledamöter som väljs vart fjärde år i allmänna val. Antalet fastslogs i 1974 års regeringsform.",
+    "explanation": "Riksdagen har 349 ledamöter som väljs vart fjärde år i allmänna val. Antalet ändrades från 350 till 349 inför 1976 års val för att undvika dödläge – i 1973 års val slutade det i ett 175–175-dödläge.",
     "difficulty": "hard"
   },
   {
@@ -52,7 +52,7 @@
     "question": "Vilket år antog Sverige sin nuvarande regeringsform?",
     "options": ["1809", "1917", "1974", "1995"],
     "correctIndex": 2,
-    "explanation": "Den nuvarande regeringsformen trädde i kraft 1974 och ersatte 1809 års regeringsform. Den slår bl.a. fast att all offentlig makt utgår från folket.",
+    "explanation": "Den nuvarande regeringsformen antogs av riksdagen 1974 och trädde i kraft den 1 januari 1975. Den ersatte 1809 års regeringsform och slår fast att all offentlig makt utgår från folket.",
     "difficulty": "hard"
   },
   {

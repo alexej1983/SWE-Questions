@@ -286,5 +286,53 @@
     "correctIndex": 2,
     "explanation": "Alfred Nobel testamenterade sin förmögenhet till fem priskategorier: fysik, kemi, medicin, litteratur och fred. Han uppfann dynamiten och ägde vapenfabriker, men kände skuldkänslor inför sin uppfinnings destruktiva användning.",
     "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vilken svensk uppfinning revolutionerade säkerheten i bilar och patenterades av Volvo 1959?",
+    "options": ["Krockkudden", "Trepunktsbältet", "Bilbarnsätet", "ABS-bromsen"],
+    "correctIndex": 1,
+    "explanation": "Trepunktsbältet uppfanns av Nils Bohlin på Volvo och patenterades 1959. Volvo valde att göra patentet fritt tillgängligt för alla biltillverkare, vilket har räddat miljontals liv världen över.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 38,
+    "question": "Vad heter den nuvarande svenska kungadynastin?",
+    "options": ["Vasa", "Holstein-Gottorp", "Bernadotte", "Oldenburg"],
+    "correctIndex": 2,
+    "explanation": "Bernadotte är den nuvarande kungadynastin i Sverige sedan 1818, då Karl XIV Johan (Jean-Baptiste Bernadotte) blev kung. Den nuvarande kungen Carl XVI Gustaf är den sjunde Bernadotte-monarken.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "Vilket svenskt slag 1471 anses ha säkrat Sveriges självständighet från Danmark under Sten Sture den äldre?",
+    "options": ["Slaget vid Lund", "Slaget vid Brunkeberg", "Slaget vid Lützen", "Slaget vid Poltava"],
+    "correctIndex": 1,
+    "explanation": "Slaget vid Brunkeberg 1471 vanns av riksföreståndaren Sten Sture den äldre mot den danske kungen Kristian I. Segern stärkte Sveriges självständighet inom Kalmarunionen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "question": "Vilken svensk kung mördades på en maskeradbal 1792?",
+    "options": ["Karl XII", "Gustav III", "Gustav IV Adolf", "Karl XI"],
+    "correctIndex": 1,
+    "explanation": "Gustav III sköts på en maskeradbal på Kungliga Operan den 16 mars 1792 av Jacob Johan Anckarström. Kungen avled av sina skador den 29 mars. Händelsen inspirerade Verdis opera 'En maskeradbal'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 41,
+    "question": "Vilket år infördes allmän folkpension i Sverige?",
+    "options": ["1891", "1913", "1935", "1948"],
+    "correctIndex": 1,
+    "explanation": "Sverige införde allmän folkpension 1913 som ett av de första länderna i världen. Lagen gav alla medborgare rätt till pension vid 67 års ålder, oavsett inkomst.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 42,
+    "question": "Vad hette den svenska ubåt som grundstötte nära den sovjetiska flottbasen i Karlskrona 1981?",
+    "options": ["HMS Gotland", "HMS Neptun", "U 137", "HMS Halland"],
+    "correctIndex": 2,
+    "explanation": "U 137 var en sovjetisk ubåt av Whiskey-klass som grundstötte i Gåsefjärden nära Karlskrona i oktober 1981. Incidenten, kallad 'Whiskey on the rocks', orsakade en allvarlig diplomatisk kris mellan Sverige och Sovjetunionen.",
+    "difficulty": "hard"
   }
 ]

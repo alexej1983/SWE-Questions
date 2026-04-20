@@ -254,5 +254,53 @@
     "correctIndex": 1,
     "explanation": "Kubb är ett traditionellt svenska utomhusspel där man kastar trästavar för att välta motståndarlagets träklossar (kubbar) och slutligen fälla 'kungen' i mitten. Spelet är populärt vid midsommar och andra sommartillställningar.",
     "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "Vad gör man traditionellt vid nyår i Sverige klockan 00:00?",
+    "options": ["Sjunger nationalsången", "Läser Tennysons 'Nyårsklockan' på TV", "Dansar runt majstången", "Äter risgrynsgröt"],
+    "correctIndex": 1,
+    "explanation": "Nyårsafton i Sverige inleds traditionellt med att Tennysons dikt 'Nyårsklockan' (Ring Out, Wild Bells) läses på SVT vid midnatt, följt av fyrverkerier. Traditionen har pågått sedan 1890-talet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "Vad kallas den svenska tradition där man bär krona av ljus och sjunger 'Sankta Lucia' den 13 december?",
+    "options": ["Adventsljus", "Luciatåg", "Julotta", "Stjärngossetåg"],
+    "correctIndex": 1,
+    "explanation": "Luciatåget är en central svensk tradition den 13 december. En flicka eller pojke bär en krona med tända ljus och leder en procession av tärnor och stjärngossar som sjunger 'Sankta Lucia' och andra sånger.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Vad heter den traditionella svenska kyrkogudstjänsten som hålls tidigt på juldagens morgon?",
+    "options": ["Julbön", "Julvesper", "Julotta", "Midnattsmässa"],
+    "correctIndex": 2,
+    "explanation": "Julottan är en traditionell morgongudstjänst på juldagen, vanligtvis klockan 6 eller 7 på morgonen. Förr i tiden var det vanligt att åka med häst och släde till kyrkan i mörkret med facklor.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "Vilken svensk tradition innebär att man samlas utomhus den 30 april för att tända stora eldar?",
+    "options": ["Midsommarafton", "Valborgsmässoafton", "Lucia", "Påsk"],
+    "correctIndex": 1,
+    "explanation": "Valborgsmässoafton den 30 april firas med brasor, vårsånger och tal. I universitetsstäderna som Uppsala och Lund sjunger studenter vårsånger och bär sina studentmössor för första gången på året.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vilken tradition har den svenska kungen på sin födelsedag den 30 april?",
+    "options": ["Han håller tal från balkongen på Stockholms slott", "Han bjuder folket på julbord", "Han öppnar riksdagen", "Han delar ut Nobelpriset"],
+    "correctIndex": 0,
+    "explanation": "På kungens födelsedag den 30 april (som sammanfaller med Valborgsmässoafton) samlas folkmassor på Stockholms slotts borggård där kungen visar sig på balkongen och hälsar folket.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "Vilken dag firas 'Alla hjärtans dag' i Sverige, trots att den är en importerad tradition?",
+    "options": ["14 januari", "14 februari", "14 mars", "14 april"],
+    "correctIndex": 1,
+    "explanation": "Alla hjärtans dag firas den 14 februari i Sverige, liksom i många andra länder. Traditionen importerades till Sverige på 1960-talet, främst genom blomsterindustrin, och har blivit en kommersiell högtid.",
+    "difficulty": "hard"
   }
 ]

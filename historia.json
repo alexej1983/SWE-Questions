@@ -334,5 +334,45 @@
     "correctIndex": 2,
     "explanation": "U 137 var en sovjetisk ubåt av Whiskey-klass som grundstötte i Gåsefjärden nära Karlskrona i oktober 1981. Incidenten, kallad 'Whiskey on the rocks', orsakade en allvarlig diplomatisk kris mellan Sverige och Sovjetunionen.",
     "difficulty": "hard"
+  },
+  {
+    "id": 43,
+    "question": "Vad kallas den svenska flaggans nationaldag?",
+    "options": ["1 maj", "6 juni", "17 maj", "24 juni"],
+    "correctIndex": 1,
+    "explanation": "Sveriges nationaldag firas den 6 juni. Datumet valdes för att Gustav Vasa valdes till kung den 6 juni 1523, vilket markerade Sveriges frigörelse från Kalmarunionen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 44,
+    "question": "Vilken stad är Sveriges huvudstad?",
+    "options": ["Göteborg", "Malmö", "Stockholm", "Uppsala"],
+    "correctIndex": 2,
+    "explanation": "Stockholm är Sveriges huvudstad och har varit det sedan 1400-talet. Staden är byggd på 14 öar där Mälaren möter Östersjön.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "question": "Vad heter det svenska kungahuset?",
+    "options": ["Bernadotte", "Vasa", "Oldenburg", "Habsburg"],
+    "correctIndex": 0,
+    "explanation": "Det svenska kungahuset heter Bernadotte. Ätten grundades av den franske marskalken Jean Baptiste Bernadotte som blev kung Karl XIV Johan 1818.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "question": "Vilket land styrde Sverige under Kalmarunionen?",
+    "options": ["Norge", "Finland", "Danmark", "Tyskland"],
+    "correctIndex": 2,
+    "explanation": "Kalmarunionen (1397–1523) var en personalunion mellan Danmark, Norge och Sverige under dansk ledning. Unionen upplöstes när Gustav Vasa blev svensk kung 1523.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 47,
+    "question": "Vem grundade det svenska företaget IKEA?",
+    "options": ["Alfred Nobel", "Ingvar Kamprad", "Raoul Wallenberg", "Axel Wenner-Gren"],
+    "correctIndex": 1,
+    "explanation": "Ingvar Kamprad grundade IKEA 1943 i Småland. Företagsnamnet är en förkortning av hans namn och uppväxtplats: Ingvar Kamprad Elmtaryd Agunnaryd.",
+    "difficulty": "easy"
   }
 ]

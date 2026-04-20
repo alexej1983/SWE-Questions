@@ -1,11 +1,11 @@
 {
-  "version": "6",
+  "version": "8",
   "topics": {
-    "historia": "6",
+    "historia": "7",
     "geografi": "6",
     "kultur": "6",
-    "mat": "6",
-    "traditioner": "6",
+    "mat": "7",
+    "traditioner": "7",
     "sprak": "6",
     "politik": "6"
   }

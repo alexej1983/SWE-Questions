@@ -302,5 +302,29 @@
     "correctIndex": 1,
     "explanation": "Alla hjärtans dag firas den 14 februari i Sverige, liksom i många andra länder. Traditionen importerades till Sverige på 1960-talet, främst genom blomsterindustrin, och har blivit en kommersiell högtid.",
     "difficulty": "hard"
+  },
+  {
+    "id": 39,
+    "question": "Vad kallas den medeltida svenska traditionen där bönder vandrade till kyrkan för att fira ljusmässan den 2 februari?",
+    "options": ["Kyndelsmässodagen", "Mikaelsmässan", "Annandagen", "Vårfrudagen"],
+    "correctIndex": 0,
+    "explanation": "Kyndelsmässodagen (2 februari) är en kristen högtid med rötter i medeltiden då man välsignade ljus i kyrkan. Traditionen markerade vinterns mitt och bönderna försökte förutspå vårens ankomst utifrån vädret den dagen.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 40,
+    "question": "Vilken svensk högtid firades traditionellt med att man klädde sig i djurskinn och gick mellan gårdar för att be om mat och dryck?",
+    "options": ["Julbocken", "Påsksmällare", "Staffansgång", "Trettonhelgen"],
+    "correctIndex": 0,
+    "explanation": "Julbocken är en förkristen tradition där en person klädde sig i getskinn och bockhorn för att gå runt bland gårdarna vid jul. Traditionen har hedniska rötter och kopplades till Tors bockar i den nordiska mytologin. Idag symboliseras den av halmbocken.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "question": "I vilken svensk stad har man sedan 1966 rest en gigantisk julbock i halm som blivit känd för att upprepade gånger brännas ned av vandaler?",
+    "options": ["Malmö", "Gävle", "Sundsvall", "Luleå"],
+    "correctIndex": 1,
+    "explanation": "Gävlebocken har rests på Slottstorget i Gävle varje advent sedan 1966. Den har bränts ned ett trettiotal gånger trots diverse skyddsåtgärder, vilket gett den internationell uppmärksamhet och gjort den till en udda svensk jultradition.",
+    "difficulty": "hard"
   }
 ]

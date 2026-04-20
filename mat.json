@@ -302,5 +302,37 @@
     "correctIndex": 1,
     "explanation": "Renskav är en klassisk norrländsk rätt gjord av tunt skivat renkött som fräses i smör och grädde. Det serveras vanligtvis med potatismos och lingonsylt och är en stapelvara i den samiska och norrländska matkulturen.",
     "difficulty": "hard"
+  },
+  {
+    "id": 39,
+    "question": "Vad kallas den traditionella svenska metoden att konservera fisk genom att jäsa den i saltlake?",
+    "options": ["Gravning", "Surströmming", "Lutning", "Rimning"],
+    "correctIndex": 1,
+    "explanation": "Surströmming tillverkas genom att låta Östersjösill jäsa i svag saltlake i minst sex månader. Metoden har anor från 1500-talet och uppstod i Norrland som ett billigare alternativ till full insaltning när salt var dyrt.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 40,
+    "question": "Vilken svensk kock blev först med att tilldelas tre Michelinstjärnor för sin restaurang Frantzén i Stockholm?",
+    "options": ["Magnus Nilsson", "Björn Frantzén", "Marcus Samuelsson", "Mathias Dahlgren"],
+    "correctIndex": 1,
+    "explanation": "Björn Frantzén fick tre Michelinstjärnor 2020 för sin restaurang Frantzén i Stockholm, som den första restaurangen i Norden att uppnå denna utmärkelse. Restaurangen är känd för sin innovativa nordiska matlagning.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 41,
+    "question": "Vad heter den gotländska specialrätten gjord på lamm som kokats i svag dill- och vitlökssås?",
+    "options": ["Kroppkakor", "Lammstuvning", "Lamb i dill", "Lammkorv"],
+    "correctIndex": 2,
+    "explanation": "Lamb i dill (även kallat gotländsk lammrätt) är en traditionell gotländsk rätt där lamm kokas långsamt med dill och vitlök. Gotland har en lång tradition av lammuppfödning och lammet är en central del av öns matkultur.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 42,
+    "question": "Vilket år fick Sverige sin första officiella kokbok, skriven av Cajsa Warg?",
+    "options": ["1655", "1755", "1855", "1905"],
+    "correctIndex": 1,
+    "explanation": "Cajsa Wargs 'Hjelpreda I Hushållningen För Unga Fruentimber' gavs ut 1755 och blev Sveriges mest inflytelserika kokbok. Den innehöll recept och hushållsråd och hennes uttryck 'man tager vad man haver' lever kvar i svenskan.",
+    "difficulty": "hard"
   }
 ]

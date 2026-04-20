@@ -262,5 +262,53 @@
     "correctIndex": 2,
     "explanation": "Öresundsbron invigdes den 1 juli 2000 och förbinder Malmö med Köpenhamn. Den är 7,8 km lång och består av en kombinerad väg- och järnvägsbro. Bron är en av Europas längsta kombinerade väg- och järnvägsbroar.",
     "difficulty": "medium"
+  },
+  {
+    "id": 34,
+    "question": "Vilken stad är Sveriges tredje största sett till folkmängd?",
+    "options": ["Uppsala", "Malmö", "Linköping", "Västerås"],
+    "correctIndex": 1,
+    "explanation": "Malmö är Sveriges tredje största stad med över 350 000 invånare. Staden ligger i Skåne vid Öresund och är förbunden med Köpenhamn via Öresundsbron.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Vilken svensk ö är känd för sina raukar, kalkstensformationer längs kusten?",
+    "options": ["Öland", "Gotland", "Orust", "Ven"],
+    "correctIndex": 1,
+    "explanation": "Gotland, och särskilt Fårö, är känt för sina raukar – naturligt eroderade kalkstenspelare som bildats under miljontals år. De mest kända finns vid Langhammars på Fårö.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "question": "Vilket landskap i Svealand är känt för sina sjöar och sin skog och kallas ibland 'Värmland, det vackra'?",
+    "options": ["Dalarna", "Värmland", "Närke", "Södermanland"],
+    "correctIndex": 1,
+    "explanation": "Värmland i västra Svealand är känt för sina vidsträckta skogar, sjöar och Klarälven. Landskapet är också berömt genom Selma Lagerlöfs romaner, särskilt 'Gösta Berlings saga'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vilken är Sveriges längsta bro?",
+    "options": ["Ölandsbron", "Öresundsbron", "Höga Kusten-bron", "Svinesundsbron"],
+    "correctIndex": 0,
+    "explanation": "Ölandsbron är Sveriges längsta bro med en total längd på 6 072 meter. Den invigdes 1972 och förbinder Kalmar med Öland.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "question": "Vilken sjö i Jämtland är känd för legenden om Storsjöodjuret?",
+    "options": ["Siljan", "Storsjön", "Hornavan", "Vänern"],
+    "correctIndex": 1,
+    "explanation": "Storsjön i Jämtland är känd för legenden om Storsjöodjuret, en mytisk varelse som påstås leva i sjön. De äldsta berättelserna om odjuret går tillbaka till 1600-talet.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 39,
+    "question": "Vad heter den fjällkedja som utgör gränsen mellan Sverige och Norge?",
+    "options": ["Alperna", "Skanderna", "Uralbergen", "Pyrenéerna"],
+    "correctIndex": 1,
+    "explanation": "Skanderna (Skandinaviska fjällkedjan eller Kölen) sträcker sig längs gränsen mellan Sverige och Norge och är en av Europas äldsta bergskedjor, bildad för över 400 miljoner år sedan.",
+    "difficulty": "hard"
   }
 ]

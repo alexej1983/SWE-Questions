@@ -254,5 +254,53 @@
     "correctIndex": 2,
     "explanation": "Lingon (Vaccinium vitis-idaea) är ett litet rött bär som växer i svenska skogar och är ett av de viktigaste bären i svensk matkultur. Lingonsylt serveras traditionellt till köttbullar, pannkakor och raggmunk.",
     "difficulty": "easy"
+  },
+  {
+    "id": 33,
+    "question": "Vilken klassisk svensk soppa serveras traditionellt med pannkakor på torsdagar?",
+    "options": ["Fisksoppa", "Ärtsoppa", "Grönsakssoppa", "Köttsoppa"],
+    "correctIndex": 1,
+    "explanation": "Ärtsoppa serveras traditionellt på torsdagar i Sverige, ofta följd av pannkakor med sylt och grädde. Traditionen har medeltida rötter och är fortfarande vanlig i skolor och militärförläggningar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "Vad kallas den svenska drycken gjord av honung, vatten och jäst, som druckits sedan vikingatiden?",
+    "options": ["Öl", "Mjöd", "Glögg", "Svagdricka"],
+    "correctIndex": 1,
+    "explanation": "Mjöd är en alkoholhaltig dryck gjord på jäst honung och vatten som druckits i Skandinavien sedan vikingatiden. Den förekommer i den fornnordiska mytologin och omnämns i Eddan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Vad heter den traditionella svenska rätten gjord av kokt, torkad lutfisk som serveras på julbordet?",
+    "options": ["Gravad lax", "Surströmming", "Lutfisk", "Böckling"],
+    "correctIndex": 2,
+    "explanation": "Lutfisk är torskfisk som torkats och sedan behandlats med lut (natriumhydroxid) innan den kokas. Den serveras med vit sås, ärtor och potatis och är en kontroversiell men traditionell del av det svenska julbordet.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "Vilken typ av korv äts traditionellt med bröd och senap vid svenska sportevenemang och gatukök?",
+    "options": ["Bratwurst", "Falukorv", "Grillkorv", "Isterband"],
+    "correctIndex": 2,
+    "explanation": "Grillkorv (eller varmkorv) med bröd, senap och ketchup är en svensk gatumatsklassiker. Den säljs vid korvkiosker och gatukök över hela landet och är en stapelvara vid sportevenemang.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vilken svensk kung sägs ha dött av att äta för många semlor?",
+    "options": ["Karl XII", "Adolf Fredrik", "Gustav III", "Oscar II"],
+    "correctIndex": 1,
+    "explanation": "Kung Adolf Fredrik avled den 12 februari 1771 efter en stor måltid som avslutades med 14 semlor i het mjölk (hetvägg). Han kallas ibland 'kungen som åt ihjäl sig'.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "Vad heter den norrländska maträtten gjord av renskav, serverad med potatismos och lingonsylt?",
+    "options": ["Palt", "Renskav", "Pitepalt", "Suovas"],
+    "correctIndex": 1,
+    "explanation": "Renskav är en klassisk norrländsk rätt gjord av tunt skivat renkött som fräses i smör och grädde. Det serveras vanligtvis med potatismos och lingonsylt och är en stapelvara i den samiska och norrländska matkulturen.",
+    "difficulty": "hard"
   }
 ]

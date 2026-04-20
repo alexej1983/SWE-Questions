@@ -254,5 +254,53 @@
     "correctIndex": 1,
     "explanation": "Medborgarinitiativet (sedan 2016) tillåter att en namninsamling med minst 50 000 underskrifter kan lämnas till riksdagen för behandling i ett utskott. Det är en form av direkt demokrati inom det representativa systemet.",
     "difficulty": "medium"
+  },
+  {
+    "id": 33,
+    "question": "Vad heter Sveriges nuvarande valuta?",
+    "options": ["Euro", "Krona", "Mark", "Riksdaler"],
+    "correctIndex": 1,
+    "explanation": "Den svenska kronan (SEK) har varit Sveriges valuta sedan 1873. Trots EU-medlemskap har Sverige valt att inte införa euron efter folkomröstningen 2003 där 55,9% röstade nej.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "Vem är Sveriges statschef?",
+    "options": ["Statsministern", "Talmannen", "Kungen", "Riksdagens ordförande"],
+    "correctIndex": 2,
+    "explanation": "Kungen är Sveriges statschef, men sedan 1975 års regeringsform har monarken enbart ceremoniella uppgifter. Den nuvarande kungen Carl XVI Gustaf tillträdde 1973.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Vilken svensk myndighet ansvarar för att samla in skatter och folkbokföring?",
+    "options": ["Riksbanken", "Skatteverket", "Kronofogden", "Finansinspektionen"],
+    "correctIndex": 1,
+    "explanation": "Skatteverket ansvarar för skatteuppbörd, folkbokföring och mervärdesskatt i Sverige. Myndigheten hanterar även ID-kort och samordningsnummer.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "Hur många riksdagspartier finns det i den svenska riksdagen efter valet 2022?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "explanation": "Sedan valet 2022 finns åtta partier i riksdagen: Socialdemokraterna, Moderaterna, Sverigedemokraterna, Centerpartiet, Vänsterpartiet, Kristdemokraterna, Miljöpartiet och Liberalerna.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vilken internationell organisation för neutrala länder var Sverige med och grundade 1961?",
+    "options": ["NATO", "FN:s säkerhetsråd", "EFTA", "Warszawapakten"],
+    "correctIndex": 2,
+    "explanation": "Sverige var en av grundarmedlemmarna i EFTA (European Free Trade Association) 1960, som ett alternativ till EEC (nuvarande EU). Sverige lämnade EFTA när landet gick med i EU 1995.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "Vilken svensk socialdemokratisk statsminister regerade utan avbrott i 23 år (1946–1969)?",
+    "options": ["Per Albin Hansson", "Tage Erlander", "Olof Palme", "Ingvar Carlsson"],
+    "correctIndex": 1,
+    "explanation": "Tage Erlander var statsminister 1946–1969, den längsta sammanhängande statsministerperioden i modern svensk historia. Under hans tid byggdes den svenska välfärdsstaten ut kraftigt.",
+    "difficulty": "hard"
   }
 ]

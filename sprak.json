@@ -254,5 +254,53 @@
     "correctIndex": 1,
     "explanation": "Rinkebysvenska (även kallad 'multietniskt ungdomsspråk' eller 'förortsslang') är en varietet av svenska som uppstod i flerspråkiga förorter som Rinkeby i Stockholm. Den har influenser från arabiska, turkiska, somaliska och persiska och är ett aktivt forskningsområde inom sociolingvistik.",
     "difficulty": "hard"
+  },
+  {
+    "id": 33,
+    "question": "Vad heter den svenska nationalsången?",
+    "options": ["Kungssången", "Du gamla, du fria", "Sverige, Sverige, fosterland", "Ack Värmeland, du sköna"],
+    "correctIndex": 1,
+    "explanation": "'Du gamla, du fria' är Sveriges nationalsång. Texten skrevs av Richard Dybeck på 1840-talet och melodin är en folkmelodi. Sången har aldrig formellt antagits som nationalsång men har den rollen i praktiken.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "Vilket svenskt ord, som betyder en social kaffepaus, har blivit internationellt känt?",
+    "options": ["Lagom", "Fika", "Omtanke", "Hygge"],
+    "correctIndex": 1,
+    "explanation": "'Fika' är en djupt rotad svensk tradition som innebär en social paus med kaffe och bakverk. Ordet har blivit internationellt känt som ett uttryck för den svenska livsstilen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "Vilket av dessa svenska ord har lånats in i engelskan?",
+    "options": ["Smörgåsbord", "Knäckebröd", "Filmjölk", "Dalahäst"],
+    "correctIndex": 0,
+    "explanation": "'Smorgasbord' (utan å) används i engelskan för att beskriva ett buffébord eller ett stort varierat utbud. Ordet lånades in under 1900-talet och används både bokstavligt och metaforiskt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "Vad kallas det teckenspråk som används av döva i Sverige?",
+    "options": ["Internationellt teckenspråk", "Svenskt teckenspråk", "Nordiskt teckenspråk", "Universellt teckenspråk"],
+    "correctIndex": 1,
+    "explanation": "Svenskt teckenspråk (STS) är ett eget språk med egen grammatik som används av döva och hörselskadade i Sverige. Det erkändes 1981 som ett eget språk och skyddas sedan 2009 av språklagen.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "Vad kallas fenomenet att svenska har två grammatiska genus: utrum och neutrum?",
+    "options": ["Kasussystemet", "Tvågenussystemet", "Dubbel deklination", "Könsneutralitet"],
+    "correctIndex": 1,
+    "explanation": "Svenska har ett tvågenussystem med utrum (en-ord) och neutrum (ett-ord). Det äldre systemet med tre genus (maskulinum, femininum, neutrum) förenklades under 1600–1800-talen till de nuvarande två.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "Vilket svenskt pronomen infördes 2015 i Svenska Akademiens ordlista som ett könsneutralt alternativ till 'han' och 'hon'?",
+    "options": ["Den", "De", "Hen", "Man"],
+    "correctIndex": 2,
+    "explanation": "'Hen' infördes i SAOL:s 14:e upplaga 2015 som ett könsneutralt pronomen. Det används när könstillhörigheten är okänd, oväsentlig eller när personen identifierar sig utanför det binära könssystemet.",
+    "difficulty": "hard"
   }
 ]

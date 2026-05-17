@@ -156,7 +156,7 @@
     "question": "Vilket år grundades LO (Landsorganisationen i Sverige), den stora fackliga centralorganisationen?",
     "options": ["1889", "1898", "1909", "1917"],
     "correctIndex": 1,
-    "explanation": "LO (Landsorganisationen i Sverige) grundades 1898 och är den stora centralorganisationen för löntagarnas fackföreningar. LO spelade en avgörande roll i att forma den svenska arbetsmarknadsmodellen och välfärdsstaten.",
+    "explanation": "LO (Landsorganisationen i Sverige) grundades 1898 och är den stora centralorganisationen för löntagarnas fackföreningar. LO spelade en avgörande roll i att forma den svenska arbetsmarknadsmodellen.",
     "difficulty": "hard"
   },
   {
@@ -178,9 +178,9 @@
   {
     "id": 23,
     "question": "Vad heter den svenska statliga TV-kanalen som grundades 1956 och finansieras av public service-avgift?",
-    "options": ["TV3", "SVT", "Kanal 5", "TV4"],
+    "options": ["TV3", "SVT1", "Kanal 5", "TV4"],
     "correctIndex": 1,
-    "explanation": "SVT (Sveriges Television) grundades 1956 och är Sveriges public service-TV-bolag. Det finansieras av en public service-avgift och ska erbjuda opartisk nyhetsrapportering och ett brett programutbud för hela befolkningen.",
+    "explanation": "SVT1 (Sveriges Television) grundades 1956 av SVT (Sveriges public service-TV-bolag). Det finansieras av en public service-avgift och ska erbjuda opartisk nyhetsrapportering och ett brett programutbud för hela befolkningen.",
     "difficulty": "easy"
   },
   {
@@ -217,8 +217,8 @@
   },
   {
     "id": 28,
-    "question": "Vilket år grundades Sverigedemokraterna?",
-    "options": ["1979", "1988", "1991", "1995"],
+    "question": "Vilket år kom Sverigedemokraterna in i riksdagen?",
+    "options": ["1988", "2010", "2006", "1995"],
     "correctIndex": 1,
     "explanation": "Sverigedemokraterna grundades 1988. Partiet fick riksdagsrepresentation för första gången i valet 2010 med 5,7% av rösterna. Det är nu ett av de större partierna i riksdagen.",
     "difficulty": "hard"

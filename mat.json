@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "question": "Vilket guldfärgat bär, kallat 'nordens guld', används i den norrländska delikatessen hjortronsylt?",
+    "question": "Vilket guldfärgat bär, kallat 'nordens guld'?",
     "options": ["Tranbär", "Lingon", "Hjortron", "Åkerbär"],
     "correctIndex": 2,
     "explanation": "Hjortronet är ett guldfärgat bär som växer på myrar i norra Sverige och Norge. Det kallas ibland 'nordens guld' och används i sylt, glass och bakverk.",
@@ -60,7 +60,7 @@
     "question": "Vilken bulle är knuten till Fettisdagen, dagen före askonsdagen?",
     "options": ["Lussebulle", "Kanelbulle", "Semla", "Wienerbröd"],
     "correctIndex": 2,
-    "explanation": "Semlan äts traditionellt på Fettisdagen men numera säljs den i svenska konditorier från januari till påsk. Den består av ett vetemjölsbröd fyllt med mandelmassa och vispgrädde.",
+    "explanation": "Semlan äts traditionellt på Fettisdagen men numera säljs den i svenska konditorier från januari till påsk. Den består av en vetemjölsbulle fylld med mandelmassa och vispgrädde.",
     "difficulty": "easy"
   },
   {
@@ -68,7 +68,7 @@
     "question": "Vilket av dessa är ett typiskt tillbehör till svenska köttbullar?",
     "options": ["Tzatziki", "Lingonsylt", "Tomatpuré", "Currysås"],
     "correctIndex": 1,
-    "explanation": "Lingonsylt serveras traditionellt till köttbullar, tillsammans med potatismos och brunsås. Lingon är ett vanligt bär i svenska skogar.",
+    "explanation": "Lingonsylt serveras traditionellt till köttbullar, tillsammans med potatismos och brunsås.",
     "difficulty": "medium"
   },
   {
@@ -81,11 +81,11 @@
   },
   {
     "id": 11,
-    "question": "Vad kallas den traditionella svenska sommardrycken gjord på fläderblommor?",
-    "options": ["Hallondricka", "Björksav", "Fläderblomssaft", "Rabarberglögg"],
+    "question": "Vad kallas en traditionell svenska sommardrycken?",
+    "options": ["Kokovatten", "Björksav", "Fläderblomssaft", "Rabarberglögg"],
     "correctIndex": 2,
     "explanation": "Fläderblomssaft görs på blommor från fläderträdet och dricks gärna vid midsommar. Den är omtyckt bland både barn och vuxna.",
-    "difficulty": "hard"
+    "difficulty": "easy"
   },
   {
     "id": 12,
@@ -114,14 +114,14 @@
   {
     "id": 15,
     "question": "Vad kallas den svenska traditionen att äta lösgodis ur påse, framförallt på lördagar?",
-    "options": ["Söndagsgodis", "Lördagsgodis", "Fredagsmys", "Veckogodis"],
+    "options": ["Lördagsgott", "Lördagsgodis", "Fredagsmys", "Veckogodis"],
     "correctIndex": 1,
-    "explanation": "Lördagsgodis är en inarbetad svensk tradition. Den uppstod på 1950-talet delvis som ett svar på folkhälsokampanjer om att begränsa sockerkonsumtionen till en gång i veckan.",
+    "explanation": "Lördagsgodis är en inarbetad svensk tradition. Den uppstod på 1950-talet delvis som ett svar på folkhälsokampanjer om att begränsa sockerintaget till en gång i veckan.",
     "difficulty": "easy"
   },
   {
     "id": 16,
-    "question": "Vad heter det svenska kryddade destillat, traditionellt drucket som snaps vid högtider?",
+    "question": "Vad heter det svenska kryddade destillatet, traditionellt drucket som snaps vid högtider?",
     "options": ["Vodka", "Whisky", "Akvavit", "Gin"],
     "correctIndex": 2,
     "explanation": "Akvavit (eller brännvin) är ett skandinaviskt destillat gjort på spannmål eller potatis och aromatiserat med kryddor som kummin och dill. Det är centralt vid svenska högtider som midsommar och jul.",
@@ -132,7 +132,7 @@
     "question": "Vilken dag i veckan är traditionellt 'ärtsoppa och pannkaksdagen' i Sverige?",
     "options": ["Måndag", "Onsdag", "Torsdag", "Lördag"],
     "correctIndex": 2,
-    "explanation": "Ärtsoppa (gjord på gula ärtor med sidfläsk) med pannkakor och sylt är en klassisk torsdagstradition i Sverige. Traditionen har rötter i katolsk tid, då man fastade på fredagar och åt lite gott kvällen innan.",
+    "explanation": "Ärtsoppa med pannkakor och sylt är en klassisk torsdagstradition i Sverige. Traditionen har rötter i katolsk tid, då man fastade på fredagar och åt lite gott kvällen innan.",
     "difficulty": "medium"
   },
   {
@@ -140,12 +140,12 @@
     "question": "Vad är 'pyttipanna'?",
     "options": ["En soppa med rotsaker", "En stekpannarätt med tärnad potatis, kött och lök", "En gryta med fisk och potatis", "En ugnsrätt med ris och kött"],
     "correctIndex": 1,
-    "explanation": "Pyttipanna är en klassisk svensk rätt gjord av tärnad stekpotatis, kött (ofta matrester) och lök, stekt i panna. Den serveras traditionellt med stekt ägg, inlagd rödbeta och pickles.",
+    "explanation": "Pyttipanna är en klassisk svensk rätt gjord av tärnad stekpotatis, kött (ofta matrester) och lök, stekt i panna. Den serveras traditionellt med stekt ägg, inlagd rödbeta och gurka.",
     "difficulty": "easy"
   },
   {
     "id": 19,
-    "question": "Vilken traditionell varm juldrink serveras med mandlar, russin och kryddor som kanel och kardemumma?",
+    "question": "Vilken traditionell varm juldrink serveras med russin och mandlar?",
     "options": ["Blåbärssaft", "Glögg", "Varm choklad", "Äppelpunch"],
     "correctIndex": 1,
     "explanation": "Glögg är en varm dryck smaksatt med kanel, kardemumma, kryddnejlika och ingefära, serverad med russin och skalade mandlar. Den finns i alkohol- och alkoholfri variant och är ett klassiskt juldrink.",
@@ -153,7 +153,7 @@
   },
   {
     "id": 20,
-    "question": "Vad heter det traditionella norrländska mjölkproduktet gjort av kokt vassle, med en söt karamellig smak?",
+    "question": "Vad heter den traditionella norrländska mjölkprodukten gjord av kokt vassle, med en söt karamellig smak?",
     "options": ["Grevéost", "Messmör", "Kvarg", "Färskost"],
     "correctIndex": 1,
     "explanation": "Messmör är ett traditionellt norrländskt mjölkprodukt gjort av kokt vassle. Det har en söt, karamellig smak och används som pålägg på tunnbröd. Det är ett regionalt matarv i Norrland.",
@@ -169,11 +169,11 @@
   },
   {
     "id": 22,
-    "question": "Vilket klassiskt silltillbehör på julbordet är gjort av inlagd sill med senap och dill?",
+    "question": "Vilket klassiskt silltillbehör på julbordet är gjort av senap och dill?",
     "options": ["Gravad lax", "Senapssill", "Matjessill", "Inkokt sill"],
     "correctIndex": 1,
     "explanation": "Senapssill är en populär variant av inlagd sill marinerad med senap, dill, socker och ättika. Det är ett viktigt inslag på det svenska julbordet och midsommarbordet.",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": 23,
@@ -221,7 +221,7 @@
     "options": ["Borlänge", "Mora", "Falun", "Ludvika"],
     "correctIndex": 2,
     "explanation": "Falukorven har fått sitt namn från Falun i Dalarna, där den sägs ha sitt ursprung. Den är en tjock rökt korv med skyddad geografisk beteckning (SGB) och är en av Sveriges mest konsumerade köttvaror.",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": 29,
@@ -233,7 +233,7 @@
   },
   {
     "id": 30,
-    "question": "Vad är 'Prinsesstårta' täckt av?",
+    "question": "Vad är 'prinsesstårta' täckt av?",
     "options": ["Vit glasyr", "Grön marsipan", "Vispad grädde", "Gul fondant"],
     "correctIndex": 1,
     "explanation": "Prinsesstårtan är en klassisk svensk tårta täckt av grön marsipan och dekorerad med en rosa marsipanros. Den innehåller lager av sockerkaka, vaniljkräm och vispad grädde. Receptet publicerades av Jenny Åkerström på 1920-talet.",
@@ -273,18 +273,18 @@
   },
   {
     "id": 35,
-    "question": "Vad heter den traditionella svenska rätten gjord av kokt, torkad lutfisk som serveras på julbordet?",
+    "question": "Vad heter den traditionella svenska rätten gjord av kokt och torkad fisk som serveras på julbordet?",
     "options": ["Gravad lax", "Surströmming", "Lutfisk", "Böckling"],
     "correctIndex": 2,
     "explanation": "Lutfisk är torskfisk som torkats och sedan behandlats med lut (natriumhydroxid) innan den kokas. Den serveras med vit sås, ärtor och potatis och är en kontroversiell men traditionell del av det svenska julbordet.",
-    "difficulty": "medium"
+    "difficulty": "hard"
   },
   {
     "id": 36,
     "question": "Vilken typ av korv äts traditionellt med bröd och senap vid svenska sportevenemang och gatukök?",
-    "options": ["Bratwurst", "Falukorv", "Grillkorv", "Isterband"],
+    "options": ["Bratwurst", "Falukorv", "Varm korv", "Isterband"],
     "correctIndex": 2,
-    "explanation": "Grillkorv (eller varmkorv) med bröd, senap och ketchup är en svensk gatumatsklassiker. Den säljs vid korvkiosker och gatukök över hela landet och är en stapelvara vid sportevenemang.",
+    "explanation": "Varm korv eller grillkorv med bröd, senap och ketchup är en svensk gatumatsklassiker. Den säljs vid korvkiosker och gatukök över hela landet och är en stapelvara vid sportevenemang.",
     "difficulty": "medium"
   },
   {

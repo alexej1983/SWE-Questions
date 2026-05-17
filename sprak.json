@@ -33,10 +33,10 @@
   },
   {
     "id": 5,
-    "question": "Vad kallas de varieteter av svenska som talas av den svenska minoriteten i Finland?",
+    "question": "Vad talas av den svenska minoriteten i Finland?",
     "options": ["Rikssvenska", "Sverigesvenska", "Finlandssvenska", "Östsvenska"],
     "correctIndex": 2,
-    "explanation": "Finlandssvenska är de varieteter av svenska som talas av den svenska minoriteten i Finland. Finlandssvenska skiljer sig från rikssvenska i uttal, ordval och grammatik.",
+    "explanation": "Finlandssvenska är den svenska varieteten som talas av den svenska minoriteten i Finland. Finlandssvenska skiljer sig från rikssvenska i uttal, ordval och grammatik.",
     "difficulty": "easy"
   },
   {
@@ -52,15 +52,15 @@
     "question": "Vad heter den statliga institution som ger officiella råd om det svenska språket?",
     "options": ["Svenska Akademien", "Rikstermbanken", "Språkrådet", "Nordiska rådet"],
     "correctIndex": 2,
-    "explanation": "Språkrådet är den officiella institutionen som ger råd om det svenska språket och utger bl.a. Svenska skrivregler. Notera att det är Språkrådet – inte Svenska Akademien – som är det statliga rådgivande organet.",
+    "explanation": "Språkrådet är den officiella institutionen som ger råd om det svenska språket och ger ut bl.a. Svenska skrivregler. Notera att det är Språkrådet – inte Svenska Akademien – som är det statliga rådgivande organet.",
     "difficulty": "hard"
   },
   {
     "id": 8,
-    "question": "Vad heter den institution som utdelar Nobelpriset i litteratur?",
+    "question": "Vad heter den institution som delar ut Nobelpriset i litteratur?",
     "options": ["Kungliga Vitterhetsakademien", "Svenska Akademien", "Kungl. Musikakademien", "Riksteatern"],
     "correctIndex": 1,
-    "explanation": "Svenska Akademien, grundad 1786 av Gustav III, utdelar Nobelpriset i litteratur varje år i oktober. Akademien har 18 ledamöter, kallade 'de aderton'.",
+    "explanation": "Svenska Akademien, grundad 1786 av Gustav III, delar ut Nobelpriset i litteratur varje år i oktober. Akademien har 18 ledamöter, även kallade 'de aderton'.",
     "difficulty": "medium"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "question": "Vilket språk är svenska närmast besläktat med?",
+    "question": "Vilket språk är svenska närmast släkt med?",
     "options": ["Isländska", "Finska", "Danska och norska", "Tyska"],
     "correctIndex": 2,
     "explanation": "Svenska är närmast besläktat med danska och norska – alla tre tillhör de nordgermanska språken. Talare av dessa tre språk kan ofta förstå varandra, om än med viss ansträngning.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "question": "Vilket av dessa ord är ett lånord från franskan i det svenska språket?",
+    "question": "Vilket av dessa ord utgör ett lånord från franskan i det svenska språket?",
     "options": ["Lagom", "Fika", "Butik", "Knäckebröd"],
     "correctIndex": 2,
     "explanation": "'Butik' är ett lånord från franskan ('boutique') och är ett av många franska lånord i svenska. Svenska har lånat ord från många språk, inklusive franska, tyska, engelska och latin.",
@@ -162,14 +162,14 @@
   {
     "id": 21,
     "question": "Hur säger man 'cheers' på svenska när man skålar?",
-    "options": ["Kippis", "Skål", "Prost", "Sante"],
+    "options": ["Kippis", "Skål", "Prost", "Santé"],
     "correctIndex": 1,
-    "explanation": "'Skål' är det svenska ordet för att skåla. Ordet har sina rötter i de fornnordiska dryckesskålarna och används i hela Skandinavien. 'Kippis' är finska, 'Prost' tyskt och danskt, 'Sante' franskt.",
+    "explanation": "'Skål' är det svenska ordet för att skåla. Ordet har sina rötter i de fornnordiska dryckesskålarna och används i hela Skandinavien. 'Kippis' är finska, 'Prost' tyskt och danskt, 'Santé' franskt.",
     "difficulty": "easy"
   },
   {
     "id": 22,
-    "question": "Vad kallas det officiella svenska ordet för 'computer', skapat på 1950-talet?",
+    "question": "Vad kallas det officiella svenska ordet för engelskans 'computer', skapat på 1950-talet?",
     "options": ["Komputor", "Dator", "Räknare", "Processor"],
     "correctIndex": 1,
     "explanation": "'Dator' är det officiella svenska ordet för 'computer', skapat av Björn Lundberg på 1950-talet. Det är ett av de mest kända exemplen på lyckad svensk ordbildning och används i stället för det engelska lånordet.",
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "question": "Vad kallas fenomenet i svenska att ett ords betoning (accent) kan ändra dess betydelse, t.ex. 'anden' som antingen anda eller fågel?",
+    "question": "Vad kallas fenomenet i svenska att ett ords betoning (accent) kan ändra dess betydelse, t.ex. 'anden' som antingen ande eller fågel?",
     "options": ["Vokalharmoni", "Ordaccent", "Prosodi", "Tonfall"],
     "correctIndex": 1,
     "explanation": "Ordaccent är ett tonalt fenomen i svenska där samma stavning kan ha olika betydelse beroende på accent: 'anden' med accent 1 = andan, med accent 2 = fågeln. Svenska är ett av få europeiska språk med detta drag.",
@@ -193,10 +193,10 @@
   },
   {
     "id": 25,
-    "question": "Vad kallas den snabba språkförändringen under 1960–70-talen då man slutade tilltala varandra med titlar och 'ni' och gick över till 'du'?",
+    "question": "Vad kallas den snabba språkförändringen under slutet av 1960-talet då man slutade tilltala varandra med titlar och 'ni' och gick över till 'du'?",
     "options": ["Ni-reformen", "Titelbortfallet", "Du-reformen", "Artighetsskiftet"],
     "correctIndex": 2,
-    "explanation": "Du-reformen under 1960–70-talen innebar att det formella tilltalet med titel och 'ni' i stor utsträckning ersattes av det informella 'du'. Reformen symboliserar den svenska jämlikhetsandan och är en av de mest påtagliga språkliga förändringarna i modern tid.",
+    "explanation": "Du-reformen under slutet av 1960–talet innebar att det formella tilltalet med titel och 'ni' i stor utsträckning ersattes av det informella 'du'. Reformen symboliserar den svenska jämlikhetsandan och är en av de mest påtagliga språkliga förändringarna i modern tid.",
     "difficulty": "medium"
   },
   {
@@ -241,10 +241,10 @@
   },
   {
     "id": 31,
-    "question": "Vad kallas det populära barnspråket där man lägger in 'ob' efter varje konsonant?",
+    "question": "Vad kallas det populära barnspråket där man lägger in ett o efter varje konsonant?",
     "options": ["Svinprat", "Rövarspråket", "Pig Latin", "Bakspråket"],
     "correctIndex": 1,
-    "explanation": "Rövarspråket är ett populärt barnspråksspel i Sverige: varje konsonant fördubblas och ett 'o' sätts in emellan ('robojovobspobråobkobebot'). Det populariserades av Astrid Lindgrens 'Kalle Blomkvist'-böcker.",
+    "explanation": "Rövarspråket är ett populärt barnspråksspel i Sverige: varje konsonant fördubblas och ett 'o' sätts in emellan ('kokalolasosfofinontot'). Det populariserades av Astrid Lindgrens 'Kalle Blomkvist'-böcker.",
     "difficulty": "easy"
   },
   {
@@ -285,7 +285,7 @@
     "options": ["Internationellt teckenspråk", "Svenskt teckenspråk", "Nordiskt teckenspråk", "Universellt teckenspråk"],
     "correctIndex": 1,
     "explanation": "Svenskt teckenspråk (STS) är ett eget språk med egen grammatik som används av döva och hörselskadade i Sverige. Det erkändes 1981 som ett eget språk och skyddas sedan 2009 av språklagen.",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": 37,

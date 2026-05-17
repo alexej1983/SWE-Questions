@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "question": "Vad hette det svenska krigsfartyget som sjönk på sin jungfrufärd år 1628?",
+    "question": "Vad hette det svenska skeppet som sjönk på sin jungfrufärd år 1628?",
     "options": ["Kronan", "Vasa", "Mars", "Elefanten"],
     "correctIndex": 1,
-    "explanation": "Vasa sjönk den 10 augusti 1628, bara minuter in på sin jungfrufärd. Vraket bärgades 1961 och ställs nu ut på Vasamuseet i Stockholm.",
+    "explanation": "Regalskeppet Vasa sjönk den 10 augusti 1628, bara minuter in på sin jungfrufärd. Vraket bärgades 1961 och ställs nu ut på Vasamuseet i Stockholm.",
     "difficulty": "easy"
   },
   {
@@ -68,7 +68,7 @@
     "question": "Vilket fördrag avslutade Trettioåriga kriget och bekräftade Sverige som en europeisk stormakt?",
     "options": ["Westfaliska freden", "Freden i Nystad", "Freden i Roskilde", "Augsburgsfreden"],
     "correctIndex": 0,
-    "explanation": "Westfaliska freden 1648 avslutade Trettioåriga kriget. Sverige erhöll territorier i Det heliga romerska riket och erkändes som en stormakt.",
+    "explanation": "Den s.k. Westfaliska freden 1648 avslutade Trettioåriga kriget. Sverige erhöll territorier i Det heliga romerska riket och erkändes som en stormakt.",
     "difficulty": "medium"
   },
   {
@@ -84,7 +84,7 @@
     "question": "Vilken svensk kung besegrade danskarna vid det blodiga slaget vid Lund år 1676?",
     "options": ["Karl X Gustav", "Karl XI", "Karl XII", "Gustav III"],
     "correctIndex": 1,
-    "explanation": "Karl XI vann slaget vid Lund den 4 december 1676 – ett av de blodigaste slagen i Skandinaviens historia – och befäste därmed den svenska makten i Skåne.",
+    "explanation": "Karl XI vann slaget vid Lund den 4 december 1676 – ett av de blodigaste slagen i Skandinaviens historia – och befäste därmed Sveriges makt i Skåne.",
     "difficulty": "hard"
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "question": "Gustav II Adolf stupade i vilket slag år 1632?",
+    "question": "Vid vilket slag stupade Gustav II Adolf år 1632?",
     "options": ["Slaget vid Breitenfeld", "Slaget vid Lützen", "Slaget vid Vita berget", "Slaget vid Nördlingen"],
     "correctIndex": 1,
     "explanation": "Gustav II Adolf stupade i slaget vid Lützen den 16 november 1632 under Trettioåriga kriget.",
@@ -172,12 +172,12 @@
     "question": "Vad heter den union som förenade Sverige, Danmark och Norge 1397–1521?",
     "options": ["Hansaförbundet", "Kalmarunionen", "Nordunionen", "Roskildepakten"],
     "correctIndex": 1,
-    "explanation": "Kalmarunionen bildades 1397 under drottning Margareta I och förenade de tre nordiska rikena under ett gemensamt styre. Den upplöstes definitivt 1523 när Gustav Vasa bröt Sverige ut ur unionen.",
+    "explanation": "Kalmarunionen bildades 1397 under drottning Margareta I och förenade de tre nordiska rikena under ett gemensamt styre. Den upplöstes definitivt 1523 när Gustav Vasa såg till att Sverige gick ur unionen.",
     "difficulty": "medium"
   },
   {
     "id": 23,
-    "question": "Vilket fredsavtal 1658 gav Sverige Skåne, Blekinge och Bohuslän från Danmark-Norge?",
+    "question": "Genom vilket fredsavtal 1658 tog Sverige över Skåne, Blekinge och Bohuslän från Danmark-Norge?",
     "options": ["Westfaliska freden", "Freden i Roskilde", "Freden i Nystad", "Freden i Fredrikshamn"],
     "correctIndex": 1,
     "explanation": "Freden i Roskilde 1658, efter Karl X Gustavs vinterfälttåg över de frusna danska sunden, tvingade Danmark att avträda Skåne, Blekinge och Bohuslän till Sverige och formade landets moderna utseende.",
@@ -212,7 +212,7 @@
     "question": "Vilket år grundade Gustav II Adolf Göteborgs stad?",
     "options": ["1571", "1601", "1621", "1666"],
     "correctIndex": 2,
-    "explanation": "Göteborg grundades officiellt 1621 av Gustav II Adolf. Han ville ha en hamn på västkusten utanför danskt inflytande. Staden anlades med hjälp av holländska ingenjörer och köpmän.",
+    "explanation": "Göteborg grundades officiellt 1621 av Gustav II Adolf. Han ville ha en hamn på västkusten utanför danskt inflytande. Staden anlades med hjälp av nederländska ingenjörer och köpmän.",
     "difficulty": "hard"
   },
   {
@@ -236,15 +236,15 @@
     "question": "Vilket bondeuppror på 1540-talet, lett av Nils Dacke i Småland, hotade Gustav Vasas maktställning?",
     "options": ["Engelbrektsupproret", "Dackeupproret", "Bondekriget", "Norrlandsresningen"],
     "correctIndex": 1,
-    "explanation": "Dackeupproret 1542–1543 var ett av de allvarligaste upproren mot Gustav Vasas styre, lett av bonden Nils Dacke från Småland. Upproret krossades och Dacke dödades, men det visade på folkligt missnöje med reformationens ekonomiska konsekvenser.",
+    "explanation": "Dackeupproret eller Dackefejden 1542–1543 var ett av de allvarligaste upproren mot Gustav Vasas styre, lett av bonden Nils Dacke från Småland. Upproret krossades och Dacke dödades, men det visade på folkligt missnöje med reformationens ekonomiska konsekvenser.",
     "difficulty": "hard"
   },
   {
     "id": 31,
-    "question": "Vilken svensk kung genomförde en blodfri statskupp 1772 och återinförde kungamakten efter frihetstiden?",
+    "question": "Vilken svensk kung genomförde en fredlig statskupp 1772 och återinförde kungamakten efter frihetstiden?",
     "options": ["Adolf Fredrik", "Gustav III", "Gustaf IV Adolf", "Karl XIII"],
     "correctIndex": 1,
-    "explanation": "Gustav III tog makten i en statskupp 1772 och avslutade frihettidens parlamentariska styre. Han var en kulturellt intresserad kung som grundade Kungliga Operan och stödde vetenskaper och konst.",
+    "explanation": "Gustav III tog makten i en statskupp 1772 och avslutade frihettidens parlamentariska styre. Han var en kulturellt intresserad kung som grundade Kungliga Operan och stödde vetenskapen och konst.",
     "difficulty": "medium"
   },
   {
@@ -257,10 +257,10 @@
   },
   {
     "id": 33,
-    "question": "Vilket år var Stockholm värd för olympiska sommarspelen?",
+    "question": "Vilket år stod Stockholm värd för olympiska sommarspelen?",
     "options": ["1900", "1908", "1912", "1920"],
     "correctIndex": 2,
-    "explanation": "Stockholm var värd för olympiska sommarspelen 1912, som räknas som en av de mest välorganiserade i modern historia. Sverige vann 65 medaljer och kom trea i medaljligan.",
+    "explanation": "Stockholm stod värd för olympiska sommarspelen 1912. Sverige vann 65 medaljer och kom trea i medaljligan.",
     "difficulty": "medium"
   },
   {
@@ -364,7 +364,7 @@
     "question": "Vilket land styrde Sverige under Kalmarunionen?",
     "options": ["Norge", "Finland", "Danmark", "Tyskland"],
     "correctIndex": 2,
-    "explanation": "Kalmarunionen (1397–1523) var en personalunion mellan Danmark, Norge och Sverige under dansk ledning. Unionen upplöstes när Gustav Vasa blev svensk kung 1523.",
+    "explanation": "Kalmarunionen (1397–1523) var en skandinavisk union mellan Danmark, Norge och Sverige under dansk ledning. Unionen upplöstes när Gustav Vasa blev svensk kung 1523.",
     "difficulty": "easy"
   },
   {

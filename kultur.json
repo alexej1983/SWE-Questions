@@ -12,7 +12,7 @@
     "question": "Vilket år vann ABBA Eurovision Song Contest med låten 'Waterloo'?",
     "options": ["1972", "1974", "1976", "1978"],
     "correctIndex": 1,
-    "explanation": "ABBA vann Eurovision Song Contest 1974 i Brighton med 'Waterloo'. Segern sköt bandet till internationell superstardom.",
+    "explanation": "ABBA vann Eurovision Song Contest 1974 i Brighton med bidraget 'Waterloo'. Segern ledde bandet till internationell berömmelse.",
     "difficulty": "medium"
   },
   {
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "question": "Vem målade det omstridda monumentalmålningen 'Midvinterblot' (1915), avsett för Nationalmuseum?",
+    "question": "Vem målade det omstridda målningen 'Midvinterblot' (1915), avsett för Nationalmuseum i Stockholm?",
     "options": ["Anders Zorn", "Bruno Liljefors", "Carl Larsson", "Ernst Josephson"],
     "correctIndex": 2,
     "explanation": "Carl Larsson (1853–1919) målade 'Midvinterblot', en stor oljemålning avsedd för Nationalmuseum. Tavlan avvisades och hamnade i Japan, men förvärvades av Nationalmuseum 1997.",
@@ -73,18 +73,18 @@
   },
   {
     "id": 10,
-    "question": "Vem skapade Millennium-trilogin med karaktärerna Lisbeth Salander och Mikael Blomkvist?",
+    "question": "Vem skrev Millennium-trilogin med karaktärerna Lisbeth Salander och Mikael Blomkvist?",
     "options": ["Henning Mankell", "Stieg Larsson", "Jo Nesbø", "Camilla Läckberg"],
     "correctIndex": 1,
-    "explanation": "Stieg Larsson (1954–2004) skapade Millennium-trilogin. Han avled tyvärr innan böckerna publicerades. Trilogin såldes i över 100 miljoner exemplar världen över.",
+    "explanation": "Stieg Larsson (1954–2004) skrev Millennium-trilogin. Han avled tyvärr innan böckerna publicerades. Trilogin nådde stor framgång och såldes i över 100 miljoner exemplar världen över.",
     "difficulty": "easy"
   },
   {
     "id": 11,
     "question": "Vilket av dessa musikband kommer från Sverige?",
-    "options": ["Roxette", "a-ha", "Coldplay", "Aqua"],
+    "options": ["Roxette", "A-ha", "Coldplay", "Aqua"],
     "correctIndex": 0,
-    "explanation": "Roxette är ett svenskt poprock-duo bestående av Marie Fredriksson och Per Gessle från Halmstad. De hade världsframgångar med låtar som 'The Look' och 'It Must Have Been Love'. a-ha är norska, Coldplay är brittiska och Aqua är danska.",
+    "explanation": "Roxette är en svensk pop-duo bestående av Marie Fredriksson och Per Gessle från Halmstad. De nådde världsframgångar med låtar som 'The Look' och 'It Must Have Been Love'. A-ha är norska, Coldplay är brittiska och Aqua är dansk-norskt.",
     "difficulty": "medium"
   },
   {
@@ -92,15 +92,15 @@
     "question": "Vilken svensk DJ och musikproducent skapade hits som 'Wake Me Up' och 'Levels' innan han avled 2018?",
     "options": ["Swedish House Mafia", "Avicii", "Robyn", "Zara Larsson"],
     "correctIndex": 1,
-    "explanation": "Avicii (Tim Bergling, 1989–2018) var en av världens mest framgångsrika DJ:s och musikproducenter och skapade en fusion av elektronisk musik och folkrock. Han avled tragiskt 2018, 28 år gammal.",
+    "explanation": "Avicii (Tim Bergling, 1989–2018) var en av världens mest framgångsrika DJ:s och musikproducenter och skapade en fusion av elektronisk musik och folkrock. Han avled tragiskt 2018, endast 28 år gammal.",
     "difficulty": "easy"
   },
   {
     "id": 13,
-    "question": "Vem skapade detektivkaraktären Kurt Wallander i en serie kriminalromaner utspelade i Ystad?",
+    "question": "Vem skrev om karaktären Kurt Wallander i en serie kriminalromaner som utspelar sig i Ystad?",
     "options": ["Stieg Larsson", "Henning Mankell", "Camilla Läckberg", "Lars Kepler"],
     "correctIndex": 1,
-    "explanation": "Henning Mankell (1948–2015) skapade polisdetektiven Kurt Wallander. Böckerna har filmatiserats med bland annat Krister Henriksson och Kenneth Branagh i titelrollen.",
+    "explanation": "Henning Mankell (1948–2015) skrev en rad böcker om poliskommissarien Kurt Wallander. Böckerna har filmatiserats med bland annat Rolf Lassgård, Krister Henriksson och Kenneth Branagh i huvudrollen.",
     "difficulty": "medium"
   },
   {
@@ -108,7 +108,7 @@
     "question": "Vilken svensk arkitekt ritade Stockholms stadshus, invigt 1923?",
     "options": ["Gunnar Asplund", "Ragnar Östberg", "Sigurd Lewerentz", "Ferdinand Boberg"],
     "correctIndex": 1,
-    "explanation": "Ragnar Östberg (1866–1945) ritade Stockholms stadshus i nationalromantisk stil. I byggnadens Blå hall hålls varje år den berömda Nobelbanquetten den 10 december.",
+    "explanation": "Ragnar Östberg (1866–1945) ritade Stockholms stadshus i bland annat nationalromantisk stil. I byggnadens Blå hall hålls varje år den 10 december den berömda Nobelbanketten.",
     "difficulty": "hard"
   },
   {
@@ -116,15 +116,15 @@
     "question": "Vilket år grundades IKEA av Ingvar Kamprad i Småland?",
     "options": ["1935", "1943", "1950", "1960"],
     "correctIndex": 1,
-    "explanation": "IKEA grundades 1943 av 17-årige Ingvar Kamprad. Namnet är en förkortning av Ingvar Kamprad, Elmtaryd (gårdens namn) och Agunnaryd (hemorten i Småland).",
+    "explanation": "IKEA grundades 1943 av då 17-årige Ingvar Kamprad. Namnet är en förkortning av Ingvar Kamprad, Elmtaryd (gårdens namn) och Agunnaryd (hemorten i Småland).",
     "difficulty": "easy"
   },
   {
     "id": 16,
-    "question": "Vilken svensk musikproducent har skrivit fler Billboard Hot 100-ettor än någon annan icke-amerikanskfödd artist?",
+    "question": "Vilken svensk musikproducent har skrivit näst-flest Billboard Hot 100-ettor?",
     "options": ["Denniz Pop", "Max Martin", "Robyn", "Björn Again"],
     "correctIndex": 1,
-    "explanation": "Max Martin (Martin Sandberg, född 1971) från Stockholm har producerat och skrivit fler nummer ett-hits på Billboard Hot 100 än någon annan icke-amerikanskfödd artist, bland annat för Britney Spears, Backstreet Boys och Taylor Swift.",
+    "explanation": "Med 25 listettor på Billboard Hot 100 har Max Martin (Martin Sandberg, född 1971) från Stockholm  producerat och skrivit näst flest nummer ett-hits (etta är Paul McCartney), bland annat för Britney Spears, Backstreet Boys, Taylor Swift och Ariana Grande.",
     "difficulty": "hard"
   },
   {
@@ -244,7 +244,7 @@
     "question": "Vilket år sändes den första Melodifestivalen på Sveriges Radio?",
     "options": ["1950", "1959", "1965", "1972"],
     "correctIndex": 1,
-    "explanation": "Den första Melodifestivalen sändes 1959 på Sveriges Radio. Tävlingen skapades för att välja Sveriges bidrag till Eurovision Song Contest och har sedan dess blivit ett av landets mest sedda TV-program.",
+    "explanation": "Den första Melodifestivalen sändes 1959 på Sveriges Radio. Tävlingen skapades för att välja Sveriges bidrag till Eurovision Song Contest och har sedan dess gått från radioprogram till ett av landets mest sedda TV-program.",
     "difficulty": "medium"
   },
   {
@@ -252,23 +252,23 @@
     "question": "Vem skapade den älskade barnbokskaraktären Alfons Åberg, som debuterade 1972?",
     "options": ["Astrid Lindgren", "Tove Jansson", "Elsa Beskow", "Gunilla Bergström"],
     "correctIndex": 3,
-    "explanation": "Gunilla Bergström skapade Alfons Åberg (Alfie Atkins på engelska) i boken 'God natt, Alfons Åberg' 1972. Böckerna om den lille pojken med sina vardagsrealistiska teman har blivit klassiker och översatts till över 40 språk.",
+    "explanation": "Gunilla Bergström skapade Alfons Åberg i boken 'God natt, Alfons Åberg' 1972. Böckerna om den lille pojken med sina vardagsrealistiska teman har blivit klassiker och översatts till över 40 språk.",
     "difficulty": "medium"
   },
   {
     "id": 33,
-    "question": "Vilken svensk stad är känd som Europas kulturhuvudstad 2014?",
+    "question": "Vilken svensk stad var Europas kulturhuvudstad 2014?",
     "options": ["Stockholm", "Malmö", "Göteborg", "Umeå"],
     "correctIndex": 3,
     "explanation": "Umeå utsågs till Europas kulturhuvudstad 2014 och var den första svenska staden att få titeln. Temat var 'Nyfikenhet och passion – konsten att skapa kultur'.",
-    "difficulty": "easy"
+    "difficulty": "hard"
   },
   {
     "id": 34,
-    "question": "Vilket svenskt möbelföretag är känt för plattpaketerade möbler och köttbullar i restaurangen?",
+    "question": "Vilket svenskt möbelföretag är känt för möbler i platta paket och att erbjuda köttbullar i restaurangen?",
     "options": ["JYSK", "IKEA", "Mio", "Hemtex"],
     "correctIndex": 1,
-    "explanation": "IKEA, grundat 1943 av Ingvar Kamprad i Småland, är världens största möbelföretag. Det är känt för sina plattpaketerade möbler med svenska namn och sin restaurang som serverar svenska köttbullar.",
+    "explanation": "IKEA, grundat 1943 av Ingvar Kamprad i Småland, är världens största möbelföretag. Det är känt för möbler i platta plaket med svenska namn och sin restaurang som serverar svenska köttbullar jorden över.",
     "difficulty": "easy"
   },
   {
@@ -276,7 +276,7 @@
     "question": "Vilken svensk konstnär är mest känd för sina akvareller av idylliska hemmiljöer i Sundborn, Dalarna?",
     "options": ["Anders Zorn", "Carl Larsson", "Bruno Liljefors", "John Bauer"],
     "correctIndex": 1,
-    "explanation": "Carl Larsson (1853–1919) skapade ikoniska akvareller av sitt hem i Sundborn som blev sinnebilden för det svenska hemidealet. Hans verk påverkade hela den svenska inredningsstilen.",
+    "explanation": "Carl Larsson (1853–1919) målade akvareller med motiv från sitt hem i Sundborn som blev sinnebilden för det svenska hemidealet. Hans verk påverkade hela den svenska inredningsstilen.",
     "difficulty": "medium"
   },
   {
@@ -284,12 +284,12 @@
     "question": "Vilken svensk illustratör skapade berömda troll- och sagobilder i boken 'Bland tomtar och troll'?",
     "options": ["Elsa Beskow", "John Bauer", "Jenny Nyström", "Carl Larsson"],
     "correctIndex": 1,
-    "explanation": "John Bauer (1882–1918) skapade ikoniska illustrationer av troll, skogsväsen och prinsessor i den svenska sagotraditionen. Hans konst i 'Bland tomtar och troll' har blivit en del av det svenska kulturarvet.",
+    "explanation": "John Bauer (1882–1918) är känd för sina illustrationer av troll, skogsväsen och prinsessor i den svenska sagotraditionen. Hans konst i 'Bland tomtar och troll' har blivit en del av det svenska kulturarvet.",
     "difficulty": "medium"
   },
   {
     "id": 37,
-    "question": "Vilken svensk skådespelerska blev internationellt berömd genom Hollywoodfilmer som 'Casablanca' och 'Höstsonaten'?",
+    "question": "Vilken svensk skådespelerska blev internationellt berömd genom filmer som 'Casablanca' och 'Höstsonaten'?",
     "options": ["Greta Garbo", "Ingrid Bergman", "Anita Ekberg", "Bibi Andersson"],
     "correctIndex": 1,
     "explanation": "Ingrid Bergman (1915–1982) vann tre Oscar och är en av de mest hyllade skådespelerskorna i filmhistorien. Hon är mest känd för 'Casablanca' (1942) och Ingmar Bergmans 'Höstsonaten' (1978).",

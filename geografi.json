@@ -188,7 +188,7 @@
     "question": "Vilket hav bildar Sveriges östra kustgräns från Skåne upp till Norrbotten?",
     "options": ["Nordsjön", "Västerhavet", "Östersjön", "Barentshavet"],
     "correctIndex": 2,
-    "explanation": "Östersjön (inklusive Bottenhavet och Bottenviken i norr) bildar Sveriges östra kustgräns. Det är ett av världens största brackvattensbassänger och är nästan inneslutet av land.",
+    "explanation": "Östersjön (inklusive Bottenhavet och Bottenviken i norr) bildar Sveriges östra kustgräns. Det är ett av världens största bassänger med bräckt vatten och är nästan inneslutet av land.",
     "difficulty": "easy"
   },
   {
@@ -284,7 +284,7 @@
     "question": "Vilket landskap i Svealand är känt för sina sjöar och sin skog och kallas ibland 'Värmland, det vackra'?",
     "options": ["Dalarna", "Värmland", "Närke", "Södermanland"],
     "correctIndex": 1,
-    "explanation": "Värmland i västra Svealand är känt för sina vidsträckta skogar, sjöar och Klarälven. Landskapet är också berömt genom Selma Lagerlöfs romaner, särskilt 'Gösta Berlings saga'.",
+    "explanation": "Värmland i västra Svealand är känt för sina vidsträckta skogar, sjöar och Klarälven. Landskapet är också känt från Selma Lagerlöfs romaner, särskilt 'Gösta Berlings saga'.",
     "difficulty": "medium"
   },
   {

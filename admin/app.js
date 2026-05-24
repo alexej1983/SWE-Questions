@@ -9,7 +9,7 @@ const CONFIG = {
   branch: "main",
   manifestPath: "manifest.json",
   // GitHub OAuth App client ID (public — safe to ship in the bundle).
-  clientId: "REPLACE_WITH_YOUR_GITHUB_OAUTH_CLIENT_ID",
+  clientId: "Ov23lifslXqF4qIea2lZ",
   // Cloudflare Worker (or other proxy) that forwards the two OAuth endpoints with CORS.
   oauthProxy: "https://REPLACE_WITH_YOUR_WORKER.workers.dev",
   // Scope needed to commit. `public_repo` is enough for a public repo; use `repo` for private.

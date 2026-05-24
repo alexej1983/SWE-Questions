@@ -11,7 +11,7 @@ const CONFIG = {
   // GitHub OAuth App client ID (public — safe to ship in the bundle).
   clientId: "Ov23lifslXqF4qIea2lZ",
   // Cloudflare Worker (or other proxy) that forwards the two OAuth endpoints with CORS.
-  oauthProxy: "https://REPLACE_WITH_YOUR_WORKER.workers.dev",
+  oauthProxy: "https://swe-questions-oauth.alexej-c.workers.dev",
   // Scope needed to commit. `public_repo` is enough for a public repo; use `repo` for private.
   scope: "public_repo",
 };

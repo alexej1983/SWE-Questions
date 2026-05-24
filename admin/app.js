@@ -459,41 +459,6 @@ async function publish() {
   }
 }
 
-// ---------- New topic ----------
-function openTopicModal() {
-  $("#topic-form").reset();
-  $("#topic-filename-preview").textContent = "name.json";
-  show($("#topic-modal"));
-}
-
-async function createTopic(key) {
-  if (state.manifest.topics[key] != null) {
-    throw new Error(`Topic "${key}" already exists.`);
-  }
-  // Create the file with [] and bump manifest.
-  const content = "[]\n";
-  const fileRes = await gh.putContents(`${key}.json`, {
-    message: `Create topic ${key}`,
-    content: b64encode(content),
-  });
-  state.topics[key] = {
-    questions: [],
-    sha: fileRes.content.sha,
-    dirty: false,
-    originalJson: content,
-  };
-  const m = state.manifest;
-  m.version = String((Number(m.version) || 0) + 1);
-  m.topics[key] = "1";
-  const manifestContent = JSON.stringify(m, null, 2) + "\n";
-  const mRes = await gh.putContents(CONFIG.manifestPath, {
-    message: `Add topic ${key} to manifest`,
-    content: b64encode(manifestContent),
-    sha: state.manifestSha,
-  });
-  state.manifestSha = mRes.content.sha;
-}
-
 // ---------- Sign in / out ----------
 async function signIn() {
   if (CONFIG.clientId.startsWith("REPLACE_") || CONFIG.oauthProxy.includes("REPLACE_")) {
@@ -569,27 +534,6 @@ function init() {
   $("#publish-cancel-btn").addEventListener("click", () => hide($("#publish-modal")));
   $("#publish-confirm-btn").addEventListener("click", publish);
   $("#discard-btn").addEventListener("click", discardChanges);
-
-  $("#add-topic-btn").addEventListener("click", openTopicModal);
-  $("#topic-cancel-btn").addEventListener("click", () => hide($("#topic-modal")));
-  $("#topic-form").addEventListener("input", (e) => {
-    if (e.target.name === "key") {
-      $("#topic-filename-preview").textContent = `${e.target.value || "name"}.json`;
-    }
-  });
-  $("#topic-form").addEventListener("submit", async (e) => {
-    e.preventDefault();
-    const key = e.target.key.value.trim();
-    try {
-      await createTopic(key);
-      hide($("#topic-modal"));
-      renderTopicList();
-      selectTopic(key);
-      toast(`Topic ${key} created.`, "success");
-    } catch (err) {
-      toast(err.message, "error");
-    }
-  });
 
   // Close modal when clicking its backdrop.
   $$(".modal").forEach((modal) => {

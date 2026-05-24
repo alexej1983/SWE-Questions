@@ -102,12 +102,6 @@ https://alexej1983.github.io/SWE-Questions/admin/
    manifest is committed last (so clients never see a version bump pointing at
    data that isn't yet uploaded).
 
-### Creating a new topic
-
-Click **+ New topic** in the sidebar, give it a key (e.g. `vetenskap`). The
-admin creates `vetenskap.json` as an empty `[]`, then bumps the manifest to
-register the topic at `v1`. You can then add questions to it.
-
 ## Notes & caveats
 
 - **Question IDs** are assigned as `max(existingIds) + 1`. They're stable

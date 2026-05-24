@@ -27,9 +27,6 @@
           <span id="manifest-version" class="pill"></span>
         </div>
         <ul id="topic-list" class="topic-list"></ul>
-        <div class="sidebar-footer">
-          <button id="add-topic-btn" class="btn ghost small">+ New topic</button>
-        </div>
       </aside>
 
       <section class="content">
@@ -150,24 +147,6 @@
           <button type="button" id="publish-cancel-btn" class="btn ghost">Cancel</button>
           <button type="button" id="publish-confirm-btn" class="btn primary">Publish</button>
         </div>
-      </div>
-    </div>
-
-    <!-- New topic modal -->
-    <div id="topic-modal" class="modal hidden">
-      <div class="modal-card">
-        <h2>New topic</h2>
-        <form id="topic-form">
-          <label>
-            <span>Topic key (lowercase, no spaces — used as filename)</span>
-            <input name="key" type="text" pattern="[a-z0-9_-]+" required />
-          </label>
-          <p class="muted">Creates <code id="topic-filename-preview">name.json</code> with an empty question list.</p>
-          <div class="modal-actions">
-            <button type="button" id="topic-cancel-btn" class="btn ghost">Cancel</button>
-            <button type="submit" class="btn primary">Create</button>
-          </div>
-        </form>
       </div>
     </div>
 

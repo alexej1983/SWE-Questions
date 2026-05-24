@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SWE-Questions Admin</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <strong>SWE-Questions</strong>
+        <span class="muted">admin</span>
+      </div>
+      <div class="topbar-right">
+        <span id="repo-label" class="muted"></span>
+        <span id="auth-status" class="auth-status muted">not signed in</span>
+        <button id="signin-btn" class="btn primary">Sign in with GitHub</button>
+        <button id="signout-btn" class="btn ghost hidden">Sign out</button>
+      </div>
+    </header>
+
+    <main id="app" class="hidden">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h2>Topics</h2>
+          <span id="manifest-version" class="pill"></span>
+        </div>
+        <ul id="topic-list" class="topic-list"></ul>
+        <div class="sidebar-footer">
+          <button id="add-topic-btn" class="btn ghost small">+ New topic</button>
+        </div>
+      </aside>
+
+      <section class="content">
+        <div class="content-header">
+          <div>
+            <h1 id="topic-title">Select a topic</h1>
+            <p id="topic-meta" class="muted"></p>
+          </div>
+          <div class="content-actions">
+            <button id="add-question-btn" class="btn ghost" disabled>+ Add question</button>
+            <button id="publish-btn" class="btn primary" disabled>Publish changes</button>
+          </div>
+        </div>
+
+        <div id="dirty-banner" class="banner hidden">
+          <span>You have unpublished changes.</span>
+          <button id="discard-btn" class="btn ghost small">Discard</button>
+        </div>
+
+        <div id="questions" class="questions"></div>
+        <div id="empty-state" class="empty-state hidden">
+          <p>No topic selected. Pick one from the left.</p>
+        </div>
+      </section>
+    </main>
+
+    <!-- Sign-in modal (device flow) -->
+    <div id="device-modal" class="modal hidden">
+      <div class="modal-card">
+        <h2>Sign in with GitHub</h2>
+        <p>Open this URL and enter the code below:</p>
+        <p>
+          <a id="device-url" href="https://github.com/login/device" target="_blank" rel="noopener"
+            >https://github.com/login/device</a
+          >
+        </p>
+        <div class="device-code">
+          <code id="device-code">—</code>
+          <button id="copy-code-btn" class="btn ghost small">Copy</button>
+        </div>
+        <p id="device-status" class="muted">Waiting for you to authorize…</p>
+        <div class="modal-actions">
+          <button id="device-cancel-btn" class="btn ghost">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Question editor modal -->
+    <div id="question-modal" class="modal hidden">
+      <div class="modal-card wide">
+        <h2 id="question-modal-title">Edit question</h2>
+        <form id="question-form">
+          <label>
+            <span>Question</span>
+            <textarea name="question" rows="2" required></textarea>
+          </label>
+          <div class="options-grid">
+            <label>
+              <span>Option 1</span>
+              <input name="option0" type="text" required />
+            </label>
+            <label>
+              <span>Option 2</span>
+              <input name="option1" type="text" required />
+            </label>
+            <label>
+              <span>Option 3</span>
+              <input name="option2" type="text" required />
+            </label>
+            <label>
+              <span>Option 4</span>
+              <input name="option3" type="text" required />
+            </label>
+          </div>
+          <div class="row">
+            <label class="grow">
+              <span>Correct answer</span>
+              <select name="correctIndex" required>
+                <option value="0">Option 1</option>
+                <option value="1">Option 2</option>
+                <option value="2">Option 3</option>
+                <option value="3">Option 4</option>
+              </select>
+            </label>
+            <label>
+              <span>Difficulty</span>
+              <select name="difficulty" required>
+                <option value="easy">easy</option>
+                <option value="medium">medium</option>
+                <option value="hard">hard</option>
+              </select>
+            </label>
+          </div>
+          <label>
+            <span>Explanation</span>
+            <textarea name="explanation" rows="3" required></textarea>
+          </label>
+          <div class="modal-actions">
+            <button type="button" id="question-cancel-btn" class="btn ghost">Cancel</button>
+            <button type="submit" class="btn primary">Save</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Publish confirm modal -->
+    <div id="publish-modal" class="modal hidden">
+      <div class="modal-card">
+        <h2>Publish changes</h2>
+        <p>Commit the following to <code id="publish-repo"></code>:</p>
+        <ul id="publish-summary" class="publish-summary"></ul>
+        <label>
+          <span>Commit message</span>
+          <input id="publish-message" type="text" />
+        </label>
+        <p id="publish-status" class="muted"></p>
+        <div class="modal-actions">
+          <button type="button" id="publish-cancel-btn" class="btn ghost">Cancel</button>
+          <button type="button" id="publish-confirm-btn" class="btn primary">Publish</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- New topic modal -->
+    <div id="topic-modal" class="modal hidden">
+      <div class="modal-card">
+        <h2>New topic</h2>
+        <form id="topic-form">
+          <label>
+            <span>Topic key (lowercase, no spaces — used as filename)</span>
+            <input name="key" type="text" pattern="[a-z0-9_-]+" required />
+          </label>
+          <p class="muted">Creates <code id="topic-filename-preview">name.json</code> with an empty question list.</p>
+          <div class="modal-actions">
+            <button type="button" id="topic-cancel-btn" class="btn ghost">Cancel</button>
+            <button type="submit" class="btn primary">Create</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

@@ -12,7 +12,7 @@
     "question": "Vilket år fick Sverige en officiell språklag som förklarar svenska som huvudspråk?",
     "options": ["1999", "2005", "2009", "2015"],
     "correctIndex": 2,
-    "explanation": "Språklagen antogs av riksdagen 2009 och fastslår att svenska är huvudspråk i Sverige. Lagen erkänner också de nationella minoritetsspråken.",
+    "explanation": "Språklagen antogs av riksdagen 2009 och fastslog att svenska är huvudspråk i Sverige. Lagen erkände också de nationella minoritetsspråken.",
     "difficulty": "hard"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "id": 4,
-    "question": "Vad brukar det svenska ordet 'lagom' ungefär betyda?",
+    "question": "Vad betyder det svenska ordet 'lagom' ungefär ?",
     "options": ["Ganska bra", "Inte för mycket och inte för lite", "Precis rätt mängd vid rätt tillfälle", "Tillräckligt för ändamålet"],
     "correctIndex": 1,
-    "explanation": "'Lagom' är ett centralt begrepp i svensk kultur och saknar exakt översättning till många språk. Det uttrycker balans och måttfullhet och anses spegla en viktig svensk värdering.",
+    "explanation": "'Lagom' är ett centralt begrepp i svensk kultur och saknar exakt översättning till många språk. Det uttrycker balans och måttfullhet. Det anses spegla en viktig svensk värdering.",
     "difficulty": "easy"
   },
   {
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "question": "Vilket könsneutralt pronomen lades till i det svenska språket och togs upp i SAOL 2015?",
+    "question": "Vilket könsneutralt pronomen lades till i det svenska språket 2015?",
     "options": ["Dem", "Hen", "Det", "Ni"],
     "correctIndex": 1,
     "explanation": "'Hen' introducerades som könsneutralt pronomen och togs upp i Svenska Akademiens ordlista (SAOL) 2015. Det används som alternativ till 'han' och 'hon' när kön är okänt eller irrelevant.",
@@ -161,10 +161,10 @@
   },
   {
     "id": 21,
-    "question": "Hur säger man 'cheers' på svenska när man skålar?",
+    "question": "Hur säger man på svenska när man skålar?",
     "options": ["Kippis", "Skål", "Prost", "Santé"],
     "correctIndex": 1,
-    "explanation": "'Skål' är det svenska ordet för att skåla. Ordet har sina rötter i de fornnordiska dryckesskålarna och används i hela Skandinavien. 'Kippis' är finska, 'Prost' tyskt och danskt, 'Santé' franskt.",
+    "explanation": "'Skål' är det svenska ordet för att skåla. Ordet har sina rötter i de fornnordiska dryckesskålarna och används i hela Skandinavien. 'Kippis' är motsvarande ord på finska, 'Prost' på tyska och danska, 'Santé' på franska.",
     "difficulty": "easy"
   },
   {
@@ -204,7 +204,7 @@
     "question": "Vilket av dessa tecken finns INTE i det svenska alfabetet?",
     "options": ["Å", "Ä", "Ø", "Ö"],
     "correctIndex": 2,
-    "explanation": "Ø finns i det danska och norska alfabetet men inte i det svenska. Det svenska alfabetet har 29 bokstäver med Å, Ä och Ö som de tre sista. Ö är den svenska motsvarigheten till det danskt-norska Ø.",
+    "explanation": "Ø finns i det danska och norska alfabetet men inte i det svenska. Det svenska alfabetet har 29 bokstäver med Å, Ä och Ö som de tre sista. Ö är den svenska motsvarigheten till det dansk-norska Ø.",
     "difficulty": "easy"
   },
   {
@@ -220,7 +220,7 @@
     "question": "Vad betyder det svenska ordet 'gift' – ett ord som är ett klassiskt falskt vänpar för engelsktalande?",
     "options": ["Endast 'gift' (toxin)", "Antingen 'gifta sig' (married) eller 'gift' (poison) beroende på sammanhanget", "Enbart 'gifta sig' (married)", "Enbart 'present' (gift)"],
     "correctIndex": 1,
-    "explanation": "'Gift' är ett klassiskt falskt vänpar (false friend) i svenska: det kan antingen betyda 'gift' som i toxin/poison, eller 'gift' som i 'married' (vara gift = to be married). Kontexten avgör alltid vilken betydelse som avses.",
+    "explanation": "'Gift' är ett klassiskt falskt vänpar (false friend) på svenska: det kan antingen betyda 'gift' som i toxin/poison, eller 'gift' som i 'married' (vara gift = to be married). Kontexten avgör alltid vilken betydelse som avses.",
     "difficulty": "medium"
   },
   {

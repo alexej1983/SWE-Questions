@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "question": "Vad hette det svenska skeppet som sjönk på sin jungfrufärd år 1628?",
+    "question": "Vad hette det svenska skepp som sjönk på sin jungfrufärd år 1628?",
     "options": [
       "Kronan",
       "Vasa",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "question": "Vem uppfann dynamiten och instiftade Nobelpriset?",
+    "question": "Vem uppfann dynamit och instiftade Nobelpriset?",
     "options": [
       "Anders Celsius",
       "Carl von Linné",
@@ -248,7 +248,7 @@
   },
   {
     "id": 20,
-    "question": "Vilket krig 1808–1809 ledde till att Sverige tvingades avträda Finland till Ryssland?",
+    "question": "Vilket krig 1808-1809 ledde till att Sverige tvingades avträda Finland till Ryssland?",
     "options": [
       "Stora nordiska kriget",
       "Pommerska kriget",
